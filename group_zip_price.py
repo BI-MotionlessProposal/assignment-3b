@@ -57,7 +57,6 @@ def avgPerDates(file):
 #avgPerDates('boliga_all.csv');
 all_avg=[]
 for file in os.listdir("./data"):
-
     if file.endswith(".csv"):
         all_avg.append(avgPerDates(os.path.join("./data", file)))
 all_avg=p.DataFrame(all_avg)
