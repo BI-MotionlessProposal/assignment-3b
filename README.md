@@ -28,8 +28,8 @@ The CSV columns in these files are:
 - price_change_in_pct,
 - aktuel_vardi
 - street,
-- street_no,
-- zip
+- housenumber,
+- postcode
 
 
 
