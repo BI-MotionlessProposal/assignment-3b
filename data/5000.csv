@@ -1,4 +1,4 @@
-address,zip_code,price,sell_date,sell_type,price_per_sq_m,no_rooms,housing_type,size_in_sq_m,year_of_construction,price_change_in_pct
+address,zip_code,price,sell_date,sell_type,price_per_sq_m,no_rooms,housing_type,size_in_sq_m,year_of_construction,price_change_in_pct,Aktuel værdi
 "Nansensgade 9, 2. TH5000 Odense C",se C,527.000,19-05-2017,Fam. Salg,8.107,2,Lejlighed,65,1938,,Aktuel værdi
 "Gyldenløvesgade 2A, 2. TV5000 Odense C",se C,1.495.000,10-05-2017,Alm. Salg,18.687,3,Lejlighed,80,1938,0 %,Aktuel værdi
 Filosofgangen 925000 Odense C,se C,1.895.000,05-05-2017,Alm. Salg,23.987,2,Lejlighed,79,1981,0 %,Aktuel værdi
