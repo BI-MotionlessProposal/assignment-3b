@@ -1,0 +1,904 @@
+address,zip_code,price,sell_date,sell_type,price_per_sq_m,no_rooms,housing_type,size_in_sq_m,year_of_construction,price_change_in_pct,aktuel_vardi,street,housenumber,postcode,latitude,longitude
+"Ved Volden 5, 5. TV1425 KÃ¸benhavn K",1425,4.000.000,23-05-2017,Alm. Salg,43.956,3,Lejlighed,91,1938,0 %,Aktuel vÃ¦rdi,Ved Volden,5,1425,55.671478,12.593675
+"Ved Volden 5, 5. TV1425 KÃ¸benhavn K",1425,4.000.000,23-05-2017,Alm. Salg,43.956,3,Lejlighed,91,1938,0 %,Aktuel vÃ¦rdi,Ved Volden,5,1425,55.671478,12.593675
+"Ved Volden 5, 5. TV1425 KÃ¸benhavn K",1425,4.000.000,23-05-2017,Alm. Salg,43.956,3,Lejlighed,91,1938,0 %,Aktuel vÃ¦rdi,Ved Volden,5,1425,55.671478,12.593675
+"Ved Volden 5, 5. TV1425 KÃ¸benhavn K",1425,4.000.000,23-05-2017,Alm. Salg,43.956,3,Lejlighed,91,1938,0 %,Aktuel vÃ¦rdi,Ved Volden,5,1425,55.671478,12.593675
+"RÃ¥dhusstrÃ¦de 4C, 11466 KÃ¸benhavn K",1466,4.895.000,18-05-2017,Alm. Salg,46.619,3,Lejlighed,105,1796,0 %,Aktuel vÃ¦rdi,RÃ¥dhusstrÃ¦de,4C,1466
+"Store Kongensgade 112A, 31264 KÃ¸benhavn K",1264,250.000,15-05-2017,Andet,1.851,2,Lejlighed,135,1860,,Aktuel vÃ¦rdi,Store Kongensgade,112A,1264,55.681908,12.585484
+"Amaliegade 13G, 21256 KÃ¸benhavn K",1256,7.375.000,15-05-2017,Alm. Salg,75.255,3,Lejlighed,98,1948,9 %,Aktuel vÃ¦rdi,Amaliegade,13G,1256,55.681906,12.591854
+"Borgergade 144, 3. TH1300 KÃ¸benhavn K",1300,5.825.000,10-05-2017,Alm. Salg,57.673,3,Lejlighed,101,1854,3 %,Aktuel vÃ¦rdi,Borgergade,144,1300,55.682486,12.583774
+"NÃ¸rre SÃ¸gade 9A, 1. TH1370 KÃ¸benhavn K",1370,1.126.250,10-05-2017,Fam. Salg,10.525,3,Lejlighed,107,1882,,Aktuel vÃ¦rdi,NÃ¸rre SÃ¸gade,9A,1370
+"Wildersgade 22, ST1408 KÃ¸benhavn K",1408,1.556.700,09-05-2017,Alm. Salg,17.689,3,Lejlighed,88,1858,,Aktuel vÃ¦rdi,Wildersgade,22,1408,55.671332,12.587434
+"Toldbodgade 10A, 11253 KÃ¸benhavn K",1253,3.750.000,08-05-2017,Fam. Salg,20.380,5,Lejlighed,184,1862,,Aktuel vÃ¦rdi,Toldbodgade,10A,1253,55.679998,12.591443
+"Andreas BjÃ¸rns Gade 4, 3. TH1428 KÃ¸benhavn K",1428,1.700.000,05-05-2017,Alm. Salg,31.481,2,Lejlighed,54,1901,,Aktuel vÃ¦rdi,Andreas BjÃ¸rns Gade,4,1428
+"SÃ¸lvgade 15, 4. TH1307 KÃ¸benhavn K",1307,4.215.000,04-05-2017,Alm. Salg,52.037,3,Lejlighed,81,1957,-2 %,Aktuel vÃ¦rdi,SÃ¸lvgade,15,1307
+"LinnÃ©sgade 16A, 11361 KÃ¸benhavn K",1361,6.300.000,04-05-2017,Alm. Salg,40.645,5,Lejlighed,155,1880,,Aktuel vÃ¦rdi,LinnÃ©sgade,16A,1361
+"Store Kongensgade 63A, ST. 41264 KÃ¸benhavn K",1264,1.780.000,03-05-2017,Fam. Salg,18.163,3,Lejlighed,98,1932,,Aktuel vÃ¦rdi,Store Kongensgade,63A,1264,55.681908,12.585484
+"Peder Skrams Gade 28, 2. TV1054 KÃ¸benhavn K",1054,4.080.000,03-05-2017,Alm. Salg,53.684,3,Lejlighed,76,1870,0 %,Aktuel vÃ¦rdia,Peder Skrams Gade,28,1054,55.679029,12.58803
+"Brobergsgade 14, 1. TV1427 KÃ¸benhavn K",1427,2.750.000,02-05-2017,Alm. Salg,55.000,2,Lejlighed,50,1902,-8 %,Aktuel vÃ¦rdi,Brobergsgade,14,1427,55.675307,12.596273
+"SÃ¸lvgade 13, 2. TV1307 KÃ¸benhavn K",1307,3.150.000,01-05-2017,Alm. Salg,43.150,3,Lejlighed,73,1957,,Aktuel vÃ¦rdi,SÃ¸lvgade,13,1307
+"Ny Adelgade 9, 2. TH1104 KÃ¸benhavn K",1104,1.950.000,01-05-2017,Alm. Salg,27.857,3,Lejlighed,70,1800,-44 %,Aktuel vÃ¦rdi,Ny Adelgade,9,1104,55.681127,12.584095
+"LavendelstrÃ¦de 9, 2. TV1462 KÃ¸benhavn K",1462,1.550.000,01-05-2017,Alm. Salg,23.484,2,Lejlighed,66,1799,,Aktuel vÃ¦rdi,LavendelstrÃ¦de,9,1462
+"Ã…benrÃ¥ 10, 2. 51124 KÃ¸benhavn K",1124,1.650.000,01-05-2017,Alm. Salg,23.571,2,Lejlighed,70,1972,,Aktuel vÃ¦rdi,Ã…benrÃ¥,10,1124
+"GrÃ¸nnegade 31, 3. TV1107 KÃ¸benhavn K",1107,1.200.000,01-05-2017,Alm. Salg,24.489,2,Lejlighed,49,1741,,Aktuel vÃ¦rdi,GrÃ¸nnegade,31,1107
+"BadstuestrÃ¦de 16, 21209 KÃ¸benhavn K",1209,2.700.000,01-05-2017,Alm. Salg,27.835,4,Lejlighed,97,1797,,Aktuel vÃ¦rdi,BadstuestrÃ¦de,16,1209
+"NÃ¸rre Voldgade 70, 41358 KÃ¸benhavn K",1358,1.870.000,28-04-2017,Fam. Salg,18.888,4,Lejlighed,99,1677,,Aktuel vÃ¦rdi,NÃ¸rre Voldgade,70,1358
+"Fredericiagade 25, 5. 11310 KÃ¸benhavn K",1310,3.150.000,27-04-2017,Alm. Salg,26.694,3,Lejlighed,118,1968,,Aktuel vÃ¦rdi,Fredericiagade,25,1310,55.685114,12.593443
+"SÃ¸lvgade 19, 2. MF1307 KÃ¸benhavn K",1307,2.425.000,27-04-2017,Alm. Salg,49.489,2,Lejlighed,49,1806,-3 %,Aktuel vÃ¦rdi,SÃ¸lvgade,19,1307
+"David Balfours Gade 3, ST. TV1402 KÃ¸benhavn K",1402,3.100.000,27-04-2017,Alm. Salg,37.349,2,Lejlighed,83,2002,,Aktuel vÃ¦rdi,David Balfours Gade,3,1402,55.671697,12.586487
+"Vimmelskaftet 36A, 3. TH1161 KÃ¸benhavn K",1161,3.695.000,27-04-2017,Alm. Salg,43.988,3,Lejlighed,84,1857,-3 %,Aktuel vÃ¦rdi,Vimmelskaftet,36A,1161,55.678691,12.575533
+"Store Kongensgade 110C, 3. TV1264 KÃ¸benhavn K",1264,3.050.000,27-04-2017,Fam. Salg,25.847,3,Lejlighed,118,1838,,Aktuel vÃ¦rdi,Store Kongensgade,110C,1264,55.681908,12.585484
+"Andreas BjÃ¸rns Gade 10, 3. TV1428 KÃ¸benhavn K",1428,2.367.000,26-04-2017,Alm. Salg,44.660,2,Lejlighed,53,1901,,Aktuel vÃ¦rdi,Andreas BjÃ¸rns Gade,10,1428
+"GrÃ¸nnegade 31, 41107 KÃ¸benhavn K",1107,3.950.000,26-04-2017,Alm. Salg,54.109,2,Lejlighed,73,1741,0 %,Aktuel vÃ¦rdi,GrÃ¸nnegade,31,1107
+"Peder Skrams Gade 27, 3. TH1054 KÃ¸benhavn K",1054,6.250.000,26-04-2017,Alm. Salg,55.803,4,Lejlighed,112,1900,,Aktuel vÃ¦rdi,Peder Skrams Gade,27,1054,55.679029,12.58803
+"Andreas BjÃ¸rns Gade 22, 3. TH1428 KÃ¸benhavn K",1428,2.900.000,25-04-2017,Alm. Salg,52.727,2,Lejlighed,55,1901,-3 %,Aktuel vÃ¦rdi,Andreas BjÃ¸rns Gade,22,1428
+"Kronprinsessegade 10, 4. TV1306 KÃ¸benhavn K",1306,4.350.000,25-04-2017,Alm. Salg,43.069,3,Lejlighed,101,1803,-3 %,Aktuel vÃ¦rdi,Kronprinsessegade,10,1306,55.682772,12.580998
+"Bartholinsgade 11, 1. TV1356 KÃ¸benhavn K",1356,841.000,25-04-2017,Alm. Salg,16.173,2,Lejlighed,52,1880,,Aktuel vÃ¦rdi,Bartholinsgade,11,1356,55.686543,12.568412
+"Sankt Peders StrÃ¦de 17, 21453 KÃ¸benhavn K",1453,4.125.000,25-04-2017,Alm. Salg,38.915,3,Lejlighed,106,1809,-8 %,Aktuel vÃ¦rdi,Sankt Peders StrÃ¦de,17,1453
+"Ved Volden 11, 4. TH1425 KÃ¸benhavn K",1425,4.900.000,24-04-2017,Alm. Salg,50.515,4,Lejlighed,97,1938,-2 %,Aktuel vÃ¦rdi,Ved Volden,11,1425,55.671478,12.593675
+Luftmarinegade 381432 KÃ¸benhavn K,1432,2.485.131,24-04-2017,Fam. Salg,18.139,5,RÃ¦kkehus,137,2012,,Aktuel vÃ¦rdi,Luftmarinegade,38,1432,55.685774,12.614857
+"Gernersgade 5, ST. TV1319 KÃ¸benhavn K",1319,1.950.000,21-04-2017,Alm. Salg,52.702,2,Lejlighed,37,1854,,Aktuel vÃ¦rdi,Gernersgade,5,1319,55.687418,12.589667
+"Ahlefeldtsgade 26, 4. TV1359 KÃ¸benhavn K",1359,2.115.000,20-04-2017,Fam. Salg,25.792,3,Lejlighed,82,1888,,Aktuel vÃ¦rdi,Ahlefeldtsgade,26,1359,55.683085,12.566589
+"Dronningens TvÃ¦rgade 36, 4. 11302 KÃ¸benhavn K",1302,1.785.000,20-04-2017,Fam. Salg,21.768,3,Lejlighed,82,1957,,Aktuel vÃ¦rdi,Dronningens TvÃ¦rgade,36,1302
+"Nikolajgade 20, 2. TV1068 KÃ¸benhavn K",1068,3.500.000,20-04-2017,Alm. Salg,38.043,4,Lejlighed,92,1799,,Aktuel vÃ¦rdi,Nikolajgade,20,1068,55.678179,12.582634
+"Strandgade 12, 31401 KÃ¸benhavn K",1401,7.170.000,19-04-2017,Alm. Salg,31.447,6,Lejlighed,228,1720,-4 %,Aktuel vÃ¦rdi,Strandgade,12,1401,55.672554,12.587714
+"Dronningens TvÃ¦rgade 44, 2. TV1302 KÃ¸benhavn K",1302,2.950.000,16-03-2017,Alm. Salg,52.678,2,Lejlighed,56,1957,-2 %,Aktuel vÃ¦rdi,Dronningens TvÃ¦rgade,44,1302
+"Torvegade 25, 2. TV1400 KÃ¸benhavn K",1400,2.925.000,16-03-2017,Fam. Salg,26.590,4,Lejlighed,110,1933,,Aktuel vÃ¦rdi,Torvegade,25,1400,55.6732669,12.589392
+Gernersgade 301319 KÃ¸benhavn K,1319,2.201.500,16-03-2017,Alm. Salg,15.838,5,RÃ¦kkehus,139,1730,,Aktuel vÃ¦rdi,Gernersgade,30,1319,55.687418,12.589667
+Gernersgade 281319 KÃ¸benhavn K,1319,2.201.500,16-03-2017,Alm. Salg,15.838,5,RÃ¦kkehus,139,1730,,Aktuel vÃ¦rdi,Gernersgade,28,1319,55.687418,12.589667
+"Gothersgade 93, 1. TH1123 KÃ¸benhavn K",1123,4.400.000,15-03-2017,Alm. Salg,44.444,4,Lejlighed,99,1883,-2 %,Aktuel vÃ¦rdi,Gothersgade,93,1123,55.681482,12.584736
+"Store Kongensgade 53, 1. TV1264 KÃ¸benhavn K",1264,7.000.000,15-03-2017,Alm. Salg,50.724,3,Lejlighed,138,1860,,Aktuel vÃ¦rdi,Store Kongensgade,53,1264,55.681908,12.585484
+"Skindergade 27, 4. TH1159 KÃ¸benhavn K",1159,3.515.000,14-03-2017,Alm. Salg,34.460,5,Lejlighed,102,1820,,Aktuel vÃ¦rdi,Skindergade,27,1159,55.680986,12.576192
+"Skindergade 29, 31159 KÃ¸benhavn K",1159,5.687.000,14-03-2017,Alm. Salg,34.466,3,Lejlighed,165,1820,,Aktuel vÃ¦rdi,Skindergade,29,1159,55.680986,12.576192
+"Skindergade 29, 41159 KÃ¸benhavn K",1159,6.548.000,14-03-2017,Alm. Salg,62.361,4,Lejlighed,105,1820,,Aktuel vÃ¦rdi,Skindergade,29,1159,55.680986,12.576192
+"BadstuestrÃ¦de 9, 2. 11209 KÃ¸benhavn K",1209,3.550.000,14-03-2017,Alm. Salg,43.292,2,Lejlighed,82,1800,-4 %,Aktuel vÃ¦rdi,BadstuestrÃ¦de,9,1209
+"Gothersgade 17, 41123 KÃ¸benhavn K",1123,3.200.000,14-03-2017,Alm. Salg,34.408,3,Lejlighed,93,1766,-4 %,Aktuel vÃ¦rdi,Gothersgade,17,1123,55.681482,12.584736
+"Sankt Pauls Gade 3, 3. TV1313 KÃ¸benhavn K",1313,2.895.000,14-03-2017,Alm. Salg,46.693,2,Lejlighed,62,1875,0 %,Aktuel vÃ¦rdi,Sankt Pauls Gade,3,1313,55.686943,12.589502
+"Frederiksberggade 25C, 2. TH1459 KÃ¸benhavn K",1459,6.700.000,14-03-2017,Alm. Salg,26.800,4,Lejlighed,250,1900,0 %,Aktuel vÃ¦rdi,Frederiksberggade,25C,1459,55.677616,12.572097
+LarsbjÃ¸rnsstrÃ¦de 7B1454 KÃ¸benhavn K,1454,12.500.000,14-03-2017,Alm. Salg,51.020,3,Lejlighed,245,1907,-7 %,Aktuel vÃ¦rdi,LarsbjÃ¸rnsstrÃ¦de,7B,1454
+"Klerkegade 17B, ST. TV1308 KÃ¸benhavn K",1308,3.750.000,13-03-2017,Alm. Salg,52.083,3,Lejlighed,72,1810,0 %,Aktuel vÃ¦rdi,Klerkegade,17B,1308,55.68627,12.585366
+"Fredericiagade 12A, 2. TH1310 KÃ¸benhavn K",1310,1.250.000,13-03-2017,Alm. Salg,16.233,3,Lejlighed,77,1853,,Aktuel vÃ¦rdi,Fredericiagade,12A,1310,55.685114,12.593443
+"Nicolai Eigtveds Gade 34, 2. TV1402 KÃ¸benhavn K",1402,7.300.000,11-03-2017,Alm. Salg,48.993,3,Lejlighed,149,2000,-2 %,Aktuel vÃ¦rdi,Nicolai Eigtveds Gade,34,1402,55.673198,12.587019
+"Nikolaj Plads 9, 3. TH1067 KÃ¸benhavn K",1067,6.200.000,10-03-2017,Alm. Salg,44.285,4,Lejlighed,140,1849,-2 %,Aktuel vÃ¦rdi,Nikolaj Plads,9,1067,55.679325,12.582053
+"Ole Suhrs Gade 17, 4. TH1354 KÃ¸benhavn K",1354,3.250.000,09-03-2017,Alm. Salg,43.918,3,Lejlighed,74,1883,-3 %,Aktuel vÃ¦rdi,Ole Suhrs Gade,17,1354,55.688891,12.573219
+"Fredericiagade 12A, 3. TH1310 KÃ¸benhavn K",1310,1.250.000,09-03-2017,Alm. Salg,16.233,3,Lejlighed,77,1853,,Aktuel vÃ¦rdi,Fredericiagade,12A,1310,55.685114,12.593443
+"Store Kongensgade 69C, 2. TH1264 KÃ¸benhavn K",1264,3.875.000,09-03-2017,Alm. Salg,59.615,2,Lejlighed,65,1908,-2 %,Aktuel vÃ¦rdi,Store Kongensgade,69C,1264,55.681908,12.585484
+"Silkegade 17, 4. TV1113 KÃ¸benhavn K",1113,4.400.000,08-03-2017,Alm. Salg,57.894,2,Lejlighed,76,1902,0 %,Aktuel vÃ¦rdi,Silkegade,17,1113,55.67991,12.579652
+"Dybensgade 22, 3. TH1071 KÃ¸benhavn K",1071,2.011.000,07-03-2017,Alm. Salg,47.880,1,Lejlighed,42,1800,3 %,Aktuel vÃ¦rdi,Dybensgade,22,1071,55.678356,12.58396
+"TeglgÃ¥rdstrÃ¦de 10, 3. TH1452 KÃ¸benhavn K",1452,8.250.000,07-03-2017,Alm. Salg,82.500,3,Lejlighed,100,2002,,Aktuel vÃ¦rdi,TeglgÃ¥rdstrÃ¦de,10,1452
+"Store Kongensgade 61A, 21264 KÃ¸benhavn K",1264,3.825.000,07-03-2017,Fam. Salg,21.982,4,Lejlighed,174,1895,,Aktuel vÃ¦rdi,Store Kongensgade,61A,1264,55.681908,12.585484
+"Fredericiagade 21, ST. TH1310 KÃ¸benhavn K",1310,2.650.000,06-03-2017,Alm. Salg,38.405,2,Lejlighed,69,1968,-2 %,Aktuel vÃ¦rdi,Fredericiagade,21,1310,55.685114,12.593443
+"Adelgade 51, 3. TV1304 KÃ¸benhavn K",1304,1.100.000,06-03-2017,Fam. Salg,13.580,3,Lejlighed,81,1957,,Aktuel vÃ¦rdi,Adelgade,51,1304,55.682596,12.582286
+"Klareboderne 6, 21115 KÃ¸benhavn K",1115,1.126.250,06-03-2017,Fam. Salg,10.525,3,Lejlighed,107,1747,,Aktuel vÃ¦rdi,Klareboderne,6,1115,55.68073,12.578138
+"GrÃ¸nnegade 27, 31107 KÃ¸benhavn K",1107,1.463.000,06-03-2017,Alm. Salg,23.222,2,Lejlighed,63,1741,,Aktuel vÃ¦rdi,GrÃ¸nnegade,27,1107
+"Gammeltoftsgade 12A, 2. TH1355 KÃ¸benhavn K",1355,775.000,06-03-2017,Fam. Salg,10.915,3,Lejlighed,71,1884,,Aktuel vÃ¦rdi,Gammeltoftsgade,12A,1355,55.688669,12.572448
+"GrÃ¸nningen 7, 1. TH1270 KÃ¸benhavn K",1270,3.450.000,06-03-2017,Alm. Salg,45.394,2,Lejlighed,76,1939,-1 %,Aktuel vÃ¦rdi,GrÃ¸nningen,7,1270
+"Adelgade 49, 2. MF1304 KÃ¸benhavn K",1304,2.655.000,05-03-2017,Alm. Salg,50.094,2,Lejlighed,53,1957,-1 %,Aktuel vÃ¦rdi,Adelgade,49,1304,55.682596,12.582286
+"Nicolai Eigtveds Gade 34, 1. TH1402 KÃ¸benhavn K",1402,9.940.000,05-03-2017,Alm. Salg,44.573,5,Lejlighed,223,2000,-10 %,Aktuel vÃ¦rdi,Nicolai Eigtveds Gade,34,1402,55.673198,12.587019
+"Sankt AnnÃ¦ Gade 6, ST. TV1416 KÃ¸benhavn K",1416,1.020.000,05-03-2017,Fam. Salg,21.702,2,Lejlighed,47,1848,,Aktuel vÃ¦rdi,Sankt AnnÃ¦ Gade,6,1416
+"Toldbodgade 36A, 2. TH1253 KÃ¸benhavn K",1253,7.400.000,03-03-2017,Alm. Salg,56.923,2,Lejlighed,130,1783,-7 %,Aktuel vÃ¦rdi,Toldbodgade,36A,1253,55.679998,12.591443
+"SÃ¸lvgade 24, 11307 KÃ¸benhavn K",1307,10.000.000,03-03-2017,Alm. Salg,38.167,7,Lejlighed,262,1925,-5 %,Aktuel vÃ¦rdi,SÃ¸lvgade,24,1307
+"Toldbodgade 7, 31253 KÃ¸benhavn K",1253,5.800.000,03-03-2017,Alm. Salg,38.410,4,Lejlighed,151,1850,-3 %,Aktuel vÃ¦rdi,Toldbodgade,7,1253,55.679998,12.591443
+"KompagnistrÃ¦de 7A, 1. TH1208 KÃ¸benhavn K",1208,2.540.000,02-03-2017,Alm. Salg,45.357,2,Lejlighed,56,1798,-9 %,Aktuel vÃ¦rdi,KompagnistrÃ¦de,7A,1208
+"Overgaden Oven Vandet 20, 21415 KÃ¸benhavn K",1415,3.495.000,02-03-2017,Alm. Salg,41.117,3,Lejlighed,85,1802,-5 %,Aktuel vÃ¦rdi,Overgaden Oven Vandet,20,1415,55.670303,12.587819
+"Stormgade 10B, 21470 KÃ¸benhavn K",1470,7.095.000,02-03-2017,Alm. Salg,33.466,3,Lejlighed,212,1650,0 %,Aktuel vÃ¦rdi,Stormgade,10B,1470,55.675414,12.575123
+"RÃ¸rholmsgade 16, 4. TH1352 KÃ¸benhavn K",1352,4.500.000,01-03-2017,Alm. Salg,48.387,4,Lejlighed,93,1884,-5 %,Aktuel vÃ¦rdi,RÃ¸rholmsgade,16,1352
+"NabolÃ¸s 1, 1. TV1206 KÃ¸benhavn K",1206,3.500.000,01-03-2017,Alm. Salg,48.611,3,Lejlighed,72,1777,-7 %,Aktuel vÃ¦rdi,NabolÃ¸s,1,1206
+"Dronningens TvÃ¦rgade 37, 5. 21302 KÃ¸benhavn K",1302,3.150.000,01-03-2017,Alm. Salg,42.567,2,Lejlighed,74,1943,-1 %,Aktuel vÃ¦rdi,Dronningens TvÃ¦rgade,37,1302
+"KÃ¸bmagergade 13B, 31150 KÃ¸benhavn K",1150,2.200.000,01-03-2017,Alm. Salg,61.111,2,Lejlighed,36,1885,-4 %,Aktuel vÃ¦rdi,KÃ¸bmagergade,13B,1150
+"Havnegade 33, 4. TH1058 KÃ¸benhavn K",1058,5.065.000,01-03-2017,Alm. Salg,56.277,2,Lejlighed,90,1870,,Aktuel vÃ¦rdi,Havnegade,33,1058,55.676267,12.586341
+"Nyhavn 31B, 4. TV1051 KÃ¸benhavn K",1051,6.505.000,01-03-2017,Alm. Salg,77.440,1,Anden beboelse,84,1800,-32 %,Aktuel vÃ¦rdi,Nyhavn,31B,1051,55.680077,12.588407
+"RÃ¥dhusstrÃ¦de 7, 2. TH1466 KÃ¸benhavn K",1466,5.350.000,01-03-2017,Alm. Salg,36.643,4,Lejlighed,146,1798,-3 %,Aktuel vÃ¦rdi,RÃ¥dhusstrÃ¦de,7,1466
+"KlosterstrÃ¦de 12, 3. TV1157 KÃ¸benhavn K",1157,2.900.000,01-03-2017,Alm. Salg,50.000,2,Lejlighed,58,1804,,Aktuel vÃ¦rdi,KlosterstrÃ¦de,12,1157
+"Prinsessegade 4A, ST. 551422 KÃ¸benhavn K",1422,2.045.000,28-02-2017,Alm. Salg,40.900,2,Lejlighed,50,1975,-5 %,Aktuel vÃ¦rdi,Prinsessegade,4A,1422,55.670212,12.590794
+"Borgergade 26, 5. 21300 KÃ¸benhavn K",1300,1.900.000,28-02-2017,Fam. Salg,26.388,2,Lejlighed,72,1974,,Aktuel vÃ¦rdi,Borgergade,26,1300,55.682486,12.583774
+"Sankt Peders StrÃ¦de 21, 11453 KÃ¸benhavn K",1453,3.545.000,28-02-2017,Alm. Salg,43.765,3,Lejlighed,81,1800,0 %,Aktuel vÃ¦rdi,Sankt Peders StrÃ¦de,21,1453
+"Nicolai Eigtveds Gade 36, ST. TV1402 KÃ¸benhavn K",1402,8.500.000,28-02-2017,Alm. Salg,35.269,5,Lejlighed,241,2000,-1 %,Aktuel vÃ¦rdi,Nicolai Eigtveds Gade,36,1402,55.673198,12.587019
+"Gothersgade 93C, 31123 KÃ¸benhavn K",1123,6.375.000,27-02-2017,Alm. Salg,40.605,4,Lejlighed,157,1883,-6 %,Aktuel vÃ¦rdi,Gothersgade,93C,1123,55.681482,12.584736
+"Dronningens TvÃ¦rgade 32, 3. 11302 KÃ¸benhavn K",1302,65.500,27-02-2017,Alm. Salg,829,3,Lejlighed,79,1957,,Aktuel vÃ¦rdi,Dronningens TvÃ¦rgade,32,1302
+"Galionsvej 5, 2. 241437 KÃ¸benhavn K",1437,6.750.000,27-02-2017,Alm. Salg,65.533,3,Lejlighed,103,1952,9 %,Aktuel vÃ¦rdi,Galionsvej,5,1437,55.680713,12.602161
+Wildersgade 171408 KÃ¸benhavn K,1408,7.800.000,24-02-2017,Alm. Salg,60.465,4,Villa,129,1750,-13 %,Aktuel vÃ¦rdi,Wildersgade,17,1408,55.671332,12.587434
+"Sankt Pauls Gade 70, 2. TV1313 KÃ¸benhavn K",1313,1.615.000,23-02-2017,Fam. Salg,21.533,3,Lejlighed,75,1880,,Aktuel vÃ¦rdi,Sankt Pauls Gade,70,1313,55.686943,12.589502
+"Vendersgade 10A, ST1363 KÃ¸benhavn K",1363,3.050.000,23-02-2017,Alm. Salg,44.852,2,Lejlighed,68,1878,2 %,Aktuel vÃ¦rdi,Vendersgade,10A,1363,55.683069,12.570591
+Luftmarinegade 1621432 KÃ¸benhavn K,1432,6.000.000,23-02-2017,Alm. Salg,43.795,5,RÃ¦kkehus,137,2012,,Aktuel vÃ¦rdi,Luftmarinegade,162,1432,55.685774,12.614857
+"Silkegade 15, 1. MF1113 KÃ¸benhavn K",1113,4.600.000,22-02-2017,Alm. Salg,50.549,3,Lejlighed,91,1902,-5 %,Aktuel vÃ¦rdi,Silkegade,15,1113,55.67991,12.579652
+"Sankt Peders StrÃ¦de 25, 21453 KÃ¸benhavn K",1453,2.500.000,21-02-2017,Fam. Salg,30.864,4,Lejlighed,81,1816,,Aktuel vÃ¦rdi,Sankt Peders StrÃ¦de,25,1453
+"Torvegade 54, 21400 KÃ¸benhavn K",1400,4.495.000,21-02-2017,Alm. Salg,39.429,3,Lejlighed,114,1903,0 %,Aktuel vÃ¦rdi,Torvegade,54,1400,55.6732669,12.589392
+"Ny Adelgade 9, 4. TH1104 KÃ¸benhavn K",1104,2.826.000,21-02-2017,Alm. Salg,57.673,2,Lejlighed,49,1800,5 %,Aktuel vÃ¦rdi,Ny Adelgade,9,1104,55.681127,12.584095
+"Christianshavns Voldgade 19, ST. TV1424 KÃ¸benhavn K",1424,2.795.000,21-02-2017,Alm. Salg,43.671,2,Lejlighed,64,1914,-3 %,Aktuel vÃ¦rdi,Christianshavns Voldgade,19,1424,55.670011,12.588385
+"SÃ¸lvgade 15, 4. MF1307 KÃ¸benhavn K",1307,2.545.000,20-02-2017,Alm. Salg,48.942,2,Lejlighed,52,1957,,Aktuel vÃ¦rdi,SÃ¸lvgade,15,1307
+"Burmeistersgade 13, 5. TH1429 KÃ¸benhavn K",1429,2.700.000,20-02-2017,Alm. Salg,58.695,2,Lejlighed,46,1901,0 %,Aktuel vÃ¦rdi,Burmeistersgade,13,1429,55.675103,12.597874
+"Prinsessegade 17A, ST. TH1422 KÃ¸benhavn K",1422,1.950.000,20-02-2017,Alm. Salg,42.391,2,Lejlighed,46,1903,-2 %,Aktuel vÃ¦rdi,Prinsessegade,17A,1422,55.670212,12.590794
+"Sankt AnnÃ¦ Plads 8, 21250 KÃ¸benhavn K",1250,11.500.000,19-02-2017,Alm. Salg,61.827,4,Lejlighed,186,1797,,Aktuel vÃ¦rdi,Sankt AnnÃ¦ Plads,8,1250
+"Overgaden Oven Vandet 46, ST. TH1415 KÃ¸benhavn K",1415,3.100.000,19-02-2017,Alm. Salg,42.465,2,Lejlighed,73,1938,-6 %,Aktuel vÃ¦rdi,Overgaden Oven Vandet,46,1415,55.670303,12.587819
+"Gothersgade 154, 5. TV1123 KÃ¸benhavn K",1123,3.995.000,19-02-2017,Alm. Salg,57.071,2,Lejlighed,70,1879,0 %,Aktuel vÃ¦rdi,Gothersgade,154,1123,55.681482,12.584736
+"Esplanaden 24, 1. TH1263 KÃ¸benhavn K",1263,6.250.000,18-02-2017,Alm. Salg,53.418,3,Lejlighed,117,1876,-7 %,Aktuel vÃ¦rdi,Esplanaden,24,1263,55.687225,12.590465
+"Dronningens TvÃ¦rgade 46, 3. 11302 KÃ¸benhavn K",1302,2.595.000,15-02-2017,Alm. Salg,36.041,1,Lejlighed,72,1956,,Aktuel vÃ¦rdi,Dronningens TvÃ¦rgade,46,1302
+"NÃ¸rre SÃ¸gade 37B, 5. 11370 KÃ¸benhavn K",1370,1.900.000,14-02-2017,Alm. Salg,50.000,1,Lejlighed,38,1969,,Aktuel vÃ¦rdi,NÃ¸rre SÃ¸gade,37B,1370
+"Andreas BjÃ¸rns Gade 16, 4. TH1428 KÃ¸benhavn K",1428,2.441.900,14-02-2017,Alm. Salg,46.073,2,Lejlighed,53,1901,,Aktuel vÃ¦rdi,Andreas BjÃ¸rns Gade,16,1428
+"NÃ¸rregade 24A, 41165 KÃ¸benhavn K",1165,10.300.000,14-02-2017,Alm. Salg,50.243,4,Lejlighed,205,1842,,Aktuel vÃ¦rdi,NÃ¸rregade,24A,1165
+"Dronningens TvÃ¦rgade 46, 3. 31302 KÃ¸benhavn K",1302,3.695.000,13-02-2017,Alm. Salg,42.471,3,Lejlighed,87,1956,0 %,Aktuel vÃ¦rdi,Dronningens TvÃ¦rgade,46,1302
+"Prinsessegade 2B, ST. 761422 KÃ¸benhavn K",1422,2.110.000,12-02-2017,Alm. Salg,41.372,2,Lejlighed,51,1975,-6 %,Aktuel vÃ¦rdi,Prinsessegade,2B,1422,55.670212,12.590794
+"Dybensgade 22, ST. TH1071 KÃ¸benhavn K",1071,2.700.000,11-02-2017,Alm. Salg,36.986,3,Lejlighed,73,1800,-10 %,Aktuel vÃ¦rdi,Dybensgade,22,1071,55.678356,12.58396
+"Kronprinsessegade 46B, 11306 KÃ¸benhavn K",1306,12.800.000,09-02-2017,Alm. Salg,51.612,4,Lejlighed,248,1807,-4 %,Aktuel vÃ¦rdi,Kronprinsessegade,46B,1306,55.682772,12.580998
+"Gothersgade 155, 3. TV1123 KÃ¸benhavn K",1123,6.500.000,09-02-2017,Alm. Salg,43.333,5,Lejlighed,150,1877,,Aktuel vÃ¦rdi,Gothersgade,155,1123,55.681482,12.584736
+"Wildersgade 3, 51408 KÃ¸benhavn K",1408,2.150.000,08-02-2017,Fam. Salg,13.607,4,Lejlighed,158,2002,,Aktuel vÃ¦rdi,Wildersgade,3,1408,55.671332,12.587434
+"LarsbjÃ¸rnsstrÃ¦de 18, 2. TH1454 KÃ¸benhavn K",1454,2.850.000,08-02-2017,Alm. Salg,47.500,3,Lejlighed,60,1797,2 %,Aktuel vÃ¦rdi,LarsbjÃ¸rnsstrÃ¦de,18,1454
+"Johan Semps Gade 9, 4. MF1402 KÃ¸benhavn K",1402,4.800.000,06-02-2017,Alm. Salg,50.526,2,Lejlighed,95,2003,-4 %,Aktuel vÃ¦rdi,Johan Semps Gade,9,1402,55.671857,12.586877
+"LarsbjÃ¸rnsstrÃ¦de 7A, 31454 KÃ¸benhavn K",1454,6.350.000,06-02-2017,Alm. Salg,47.037,3,Lejlighed,135,1907,,Aktuel vÃ¦rdi,LarsbjÃ¸rnsstrÃ¦de,7A,1454
+"Wildersgade 60A, 2. 31408 KÃ¸benhavn K",1408,4.550.000,05-02-2017,Alm. Salg,49.456,2,Lejlighed,92,1802,-1 %,Aktuel vÃ¦rdi,Wildersgade,60A,1408,55.671332,12.587434
+"Ved Volden 7, 4. TV1425 KÃ¸benhavn K",1425,4.395.000,05-02-2017,Alm. Salg,48.296,3,Lejlighed,91,1938,0 %,Aktuel vÃ¦rdi,Ved Volden,7,1425,55.671478,12.593675
+"Nyhavn 31F, ST. TV1051 KÃ¸benhavn K",1051,5.995.000,04-02-2017,Alm. Salg,56.028,1,Lejlighed,107,1918,,Aktuel vÃ¦rdi,Nyhavn,31F,1051,55.680077,12.588407
+"NÃ¸rre Voldgade 24, 3. TV1358 KÃ¸benhavn K",1358,4.150.000,03-02-2017,Alm. Salg,49.404,3,Lejlighed,84,1812,-1 %,Aktuel vÃ¦rdi,NÃ¸rre Voldgade,24,1358
+"Strandgade 83, 5. TV1401 KÃ¸benhavn K",1401,16.500.000,03-02-2017,Alm. Salg,59.782,4,Lejlighed,276,2015,-3 %,Aktuel vÃ¦rdi,Strandgade,83,1401,55.672554,12.587714
+"Dronningensgade 59, 4. TV1420 KÃ¸benhavn K",1420,2.895.000,02-02-2017,Alm. Salg,54.622,1,Lejlighed,53,1938,0 %,Aktuel vÃ¦rdi,Dronningensgade,59,1420,55.670232,12.588866
+Wildersgade 131408 KÃ¸benhavn K,1408,6.500.000,02-02-2017,Alm. Salg,49.242,4,RÃ¦kkehus,132,1700,-7 %,Aktuel vÃ¦rdi,Wildersgade,13,1408,55.671332,12.587434
+"Borgergade 144, 5. TV1300 KÃ¸benhavn K",1300,2.690.000,02-02-2017,Alm. Salg,45.593,2,Lejlighed,59,1854,,Aktuel vÃ¦rdi,Borgergade,144,1300,55.682486,12.583774
+"Stormgade 10B, 11470 KÃ¸benhavn K",1470,6.995.000,01-02-2017,Alm. Salg,45.129,3,Lejlighed,155,1650,,Aktuel vÃ¦rdi,Stormgade,10B,1470,55.675414,12.575123
+"LÃ¦derstrÃ¦de 17, 21201 KÃ¸benhavn K",1201,3.698.000,31-01-2017,Alm. Salg,38.520,4,Lejlighed,96,1796,-3 %,Aktuel vÃ¦rdi,LÃ¦derstrÃ¦de,17,1201
+"Dronningens TvÃ¦rgade 37, 7. 31302 KÃ¸benhavn K",1302,4.650.000,31-01-2017,Alm. Salg,46.969,3,Lejlighed,99,1943,-3 %,Aktuel vÃ¦rdi,Dronningens TvÃ¦rgade,37,1302
+Sankt AnnÃ¦ Gade 181416 KÃ¸benhavn K,1416,3.422.786,30-01-2017,Alm. Salg,19.899,6,RÃ¦kkehus,172,1747,,Aktuel vÃ¦rdi,Sankt AnnÃ¦ Gade,18,1416
+"Cort Adelers Gade 1, 1. TH1053 KÃ¸benhavn K",1053,8.770.000,30-01-2017,Alm. Salg,42.572,5,Lejlighed,206,1873,0 %,Aktuel vÃ¦rdi,Cort Adelers Gade,1,1053,55.678287,12.590375
+"Gothersgade 95, 4. TV1123 KÃ¸benhavn K",1123,6.000.000,29-01-2017,Alm. Salg,45.454,5,Lejlighed,132,1883,-2 %,Aktuel vÃ¦rdi,Gothersgade,95,1123,55.681482,12.584736
+"Sankt Gertruds StrÃ¦de 3, 11129 KÃ¸benhavn K",1129,3.162.000,28-01-2017,Alm. Salg,42.729,3,Lejlighed,74,1844,1 %,Aktuel vÃ¦rdi,Sankt Gertruds StrÃ¦de,3,1129
+"Ny Adelgade 9, 3. TH1104 KÃ¸benhavn K",1104,3.000.000,27-01-2017,Fam. Salg,42.857,3,Lejlighed,70,1800,,Aktuel vÃ¦rdi,Ny Adelgade,9,1104,55.681127,12.584095
+"Overgaden Neden Vandet 39, ST1414 KÃ¸benhavn K",1414,6.700.000,27-01-2017,Alm. Salg,42.405,3,Lejlighed,158,1777,-4 %,Aktuel vÃ¦rdi,Overgaden Neden Vandet,39,1414,55.671082,12.587917
+Rigensgade 21316 KÃ¸benhavn K,1316,891.250,27-01-2017,Fam. Salg,12.916,3,Lejlighed,69,1925,,Aktuel vÃ¦rdi,Rigensgade,2,1316,55.686768,12.581981
+Strandgade 42A1401 KÃ¸benhavn K,1401,3.925.000,27-01-2017,Alm. Salg,46.176,3,Lejlighed,85,1700,-8 %,Aktuel vÃ¦rdi,Strandgade,42A,1401,55.672554,12.587714
+"HammershÃ¸is Kaj 4, 4. TH1402 KÃ¸benhavn K",1402,3.000.000,27-01-2017,Alm. Salg,40.540,2,Lejlighed,74,2001,,Aktuel vÃ¦rdi,HammershÃ¸is Kaj,4,1402
+"LarsbjÃ¸rnsstrÃ¦de 7A, 21454 KÃ¸benhavn K",1454,5.750.000,27-01-2017,Alm. Salg,42.592,3,Lejlighed,135,1907,-2 %,Aktuel vÃ¦rdi,LarsbjÃ¸rnsstrÃ¦de,7A,1454
+"Store StrandstrÃ¦de 11, 2. TV1255 KÃ¸benhavn K",1255,1.800.000,26-01-2017,Fam. Salg,26.865,2,Lejlighed,67,1935,,Aktuel vÃ¦rdi,Store StrandstrÃ¦de,11,1255
+"Hammerensgade 3, ST. MF1267 KÃ¸benhavn K",1267,2.795.000,26-01-2017,Alm. Salg,53.750,2,Lejlighed,52,1925,,Aktuel vÃ¦rdi,Hammerensgade,3,1267,55.688109,12.590263
+"SÃ¸lvgade 89, 41307 KÃ¸benhavn K",1307,2.600.000,26-01-2017,Fam. Salg,25.000,3,Lejlighed,104,1882,,Aktuel vÃ¦rdi,SÃ¸lvgade,89,1307
+"Dronningens TvÃ¦rgade 39, ST. 31302 KÃ¸benhavn K",1302,1.980.000,26-01-2017,Alm. Salg,38.823,1,Lejlighed,51,1943,,Aktuel vÃ¦rdi,Dronningens TvÃ¦rgade,39,1302
+"Snaregade 4, 11205 KÃ¸benhavn K",1205,7.150.000,25-01-2017,Alm. Salg,37.631,5,Lejlighed,190,1802,-5 %,Aktuel vÃ¦rdi,Snaregade,4,1205,55.677304,12.576943
+"BadstuestrÃ¦de 18B, ST1209 KÃ¸benhavn K",1209,5.495.000,24-01-2017,Alm. Salg,37.128,5,Lejlighed,148,1790,0 %,Aktuel vÃ¦rdi,BadstuestrÃ¦de,18B,1209
+"Overgaden Oven Vandet 44, 3. TV1415 KÃ¸benhavn K",1415,6.500.000,24-01-2017,Alm. Salg,58.035,4,Lejlighed,112,1938,,Aktuel vÃ¦rdi,Overgaden Oven Vandet,44,1415,55.670303,12.587819
+"NÃ¸rre Voldgade 54, 1. TH1358 KÃ¸benhavn K",1358,2.900.000,24-01-2017,Fam. Salg,25.000,4,Lejlighed,116,1852,,Aktuel vÃ¦rdi,NÃ¸rre Voldgade,54,1358
+"Dronningens TvÃ¦rgade 40, 3. TV1302 KÃ¸benhavn K",1302,3.825.000,24-01-2017,Alm. Salg,46.084,3,Lejlighed,83,1957,-4 %,Aktuel vÃ¦rdi,Dronningens TvÃ¦rgade,40,1302
+"NÃ¸rre SÃ¸gade 37A, 5. 51370 KÃ¸benhavn K",1370,4.200.000,23-01-2017,Alm. Salg,42.424,2,Lejlighed,99,1969,-7 %,Aktuel vÃ¦rdi,NÃ¸rre SÃ¸gade,37A,1370
+"Ved Volden 9, 5. TV1425 KÃ¸benhavn K",1425,2.595.000,23-01-2017,Alm. Salg,47.181,2,Lejlighed,55,1938,0 %,Aktuel vÃ¦rdi,Ved Volden,9,1425,55.671478,12.593675
+"Prinsessegade 17A, 51422 KÃ¸benhavn K",1422,2.495.000,23-01-2017,Alm. Salg,53.085,2,Lejlighed,47,1903,0 %,Aktuel vÃ¦rdi,Prinsessegade,17A,1422,55.670212,12.590794
+"Store Kongensgade 53, 4. TH1264 KÃ¸benhavn K",1264,6.700.000,23-01-2017,Alm. Salg,54.918,3,Lejlighed,122,1860,0 %,Aktuel vÃ¦rdi,Store Kongensgade,53,1264,55.681908,12.585484
+"Andreas BjÃ¸rns Gade 22, 1. TV1428 KÃ¸benhavn K",1428,1.225.000,22-01-2017,Alm. Salg,22.685,2,Lejlighed,54,1901,,Aktuel vÃ¦rdi,Andreas BjÃ¸rns Gade,22,1428
+"TeglgÃ¥rdstrÃ¦de 12B, ST. 21452 KÃ¸benhavn K",1452,3.200.000,22-01-2017,Alm. Salg,59.259,3,Lejlighed,54,1730,7 %,Aktuel vÃ¦rdi,TeglgÃ¥rdstrÃ¦de,12B,1452
+"NÃ¸rre Voldgade 54, 1. TV1358 KÃ¸benhavn K",1358,3.981.787,21-01-2017,Fam. Salg,30.866,4,Lejlighed,129,1852,,Aktuel vÃ¦rdi,NÃ¸rre Voldgade,54,1358
+"Burmeistersgade 7, 2. TV1429 KÃ¸benhavn K",1429,2.885.000,21-01-2017,Alm. Salg,55.480,2,Lejlighed,52,1901,,Aktuel vÃ¦rdi,Burmeistersgade,7,1429,55.675103,12.597874
+"Ved Volden 11, 3. TV1425 KÃ¸benhavn K",1425,2.100.000,20-01-2017,Fam. Salg,21.212,4,Lejlighed,99,1938,,Aktuel vÃ¦rdi,Ved Volden,11,1425,55.671478,12.593675
+"Bodenhoffs Plads 8, 4. TH1430 KÃ¸benhavn K",1430,4.400.000,20-01-2017,Alm. Salg,51.764,3,Lejlighed,85,1901,-6 %,Aktuel vÃ¦rdi,Bodenhoffs Plads,8,1430,55.676569,12.598234
+"Store Kongensgade 75C, 5. TV1264 KÃ¸benhavn K",1264,5.000.000,20-01-2017,Alm. Salg,34.722,3,Lejlighed,144,1850,,Aktuel vÃ¦rdi,Store Kongensgade,75C,1264,55.681908,12.585484
+Margretheholmsvej 91432 KÃ¸benhavn K,1432,4.950.000,20-01-2017,Alm. Salg,35.869,4,RÃ¦kkehus,138,2016,-1 %,Aktuel vÃ¦rdi,Margretheholmsvej,9,1432,55.68335,12.615138
+"Kronprinsessegade 10, 4. TH1306 KÃ¸benhavn K",1306,3.850.000,19-01-2017,Alm. Salg,31.818,3,Lejlighed,121,1803,-10 %,Aktuel vÃ¦rdi,Kronprinsessegade,10,1306,55.682772,12.580998
+"Sankt Pauls Gade 3, 4. TH1313 KÃ¸benhavn K",1313,2.610.000,19-01-2017,Alm. Salg,56.739,2,Lejlighed,46,1875,-3 %,Aktuel vÃ¦rdi,Sankt Pauls Gade,3,1313,55.686943,12.589502
+"Nyhavn 31J, 2. TV1051 KÃ¸benhavn K",1051,5.200.000,18-01-2017,Alm. Salg,52.000,3,Lejlighed,100,1800,-2 %,Aktuel vÃ¦rdi,Nyhavn,31J,1051,55.680077,12.588407
+"Dronningens TvÃ¦rgade 46, 4. 11302 KÃ¸benhavn K",1302,2.695.000,18-01-2017,Alm. Salg,37.430,1,Lejlighed,72,1956,0 %,Aktuel vÃ¦rdi,Dronningens TvÃ¦rgade,46,1302
+"Johan Semps Gade 9, 3. TV1402 KÃ¸benhavn K",1402,5.275.000,17-01-2017,Alm. Salg,45.085,3,Lejlighed,117,2003,,Aktuel vÃ¦rdi,Johan Semps Gade,9,1402,55.671857,12.586877
+"Rosenborggade 9, 31130 KÃ¸benhavn K",1130,4.100.000,17-01-2017,Alm. Salg,50.000,4,Lejlighed,82,1847,,Aktuel vÃ¦rdi,Rosenborggade,9,1130,55.683178,12.573453
+"SÃ¸lvgade 19, 2. TV1307 KÃ¸benhavn K",1307,3.050.000,17-01-2017,Alm. Salg,39.610,3,Lejlighed,77,1806,,Aktuel vÃ¦rdi,SÃ¸lvgade,19,1307
+"Nyhavn 14, 31051 KÃ¸benhavn K",1051,9.600.000,17-01-2017,Alm. Salg,63.576,3,Lejlighed,151,1770,-4 %,Aktuel vÃ¦rdi,Nyhavn,14,1051,55.680077,12.588407
+"Silkegade 19, 21113 KÃ¸benhavn K",1113,7.300.000,17-01-2017,Alm. Salg,40.782,4,Lejlighed,179,1902,-1 %,Aktuel vÃ¦rdi,Silkegade,19,1113,55.67991,12.579652
+"SÃ¸lvgade 23, 4. TV1307 KÃ¸benhavn K",1307,5.200.000,17-01-2017,Alm. Salg,55.319,4,Lejlighed,94,1806,0 %,Aktuel vÃ¦rdi,SÃ¸lvgade,23,1307
+"NÃ¸rre Voldgade 48B, 2. TH1358 KÃ¸benhavn K",1358,5.275.000,17-01-2017,Alm. Salg,49.299,2,Lejlighed,107,1838,-4 %,Aktuel vÃ¦rdi,NÃ¸rre Voldgade,48B,1358
+"Dronningens TvÃ¦rgade 46, 6. 31302 KÃ¸benhavn K",1302,3.995.000,16-01-2017,Alm. Salg,45.919,3,Lejlighed,87,1956,0 %,Aktuel vÃ¦rdi,Dronningens TvÃ¦rgade,46,1302
+"Toldbodgade 2, 3. TH1253 KÃ¸benhavn K",1253,6.200.000,16-01-2017,Alm. Salg,43.055,5,Lejlighed,144,1852,-2 %,Aktuel vÃ¦rdi,Toldbodgade,2,1253,55.679998,12.591443
+"SÃ¸lvgade 91, 4. TH1307 KÃ¸benhavn K",1307,5.250.000,16-01-2017,Alm. Salg,51.980,4,Lejlighed,101,1882,0 %,Aktuel vÃ¦rdi,SÃ¸lvgade,91,1307
+"Toldbodgade 29C, 1. TV1253 KÃ¸benhavn K",1253,7.400.000,16-01-2017,Alm. Salg,45.679,2,Lejlighed,162,1887,-1 %,Aktuel vÃ¦rdi,Toldbodgade,29C,1253,55.679998,12.591443
+"Nikolajgade 20, 2. TH1068 KÃ¸benhavn K",1068,3.350.000,15-01-2017,Alm. Salg,39.880,4,Lejlighed,84,1799,,Aktuel vÃ¦rdi,Nikolajgade,20,1068,55.678179,12.582634
+"Store Kongensgade 64, 11264 KÃ¸benhavn K",1264,4.875.000,13-01-2017,Alm. Salg,37.790,5,Lejlighed,129,1750,-2 %,Aktuel vÃ¦rdi,Store Kongensgade,64,1264,55.681908,12.585484
+"Peder Skrams Gade 27, 2. TH1054 KÃ¸benhavn K",1054,5.075.000,13-01-2017,Alm. Salg,45.312,4,Lejlighed,112,1900,-2 %,Aktuel vÃ¦rdi,Peder Skrams Gade,27,1054,55.679029,12.58803
+"Dronningens TvÃ¦rgade 46, 5. 21302 KÃ¸benhavn K",1302,2.225.000,12-01-2017,Alm. Salg,42.788,1,Lejlighed,52,1956,-7 %,Aktuel vÃ¦rdi,Dronningens TvÃ¦rgade,46,1302
+"SÃ¸lvgade 19, 4. MF1307 KÃ¸benhavn K",1307,2.575.000,12-01-2017,Alm. Salg,52.551,2,Lejlighed,49,1806,-1 %,Aktuel vÃ¦rdi,SÃ¸lvgade,19,1307
+"Dronningens TvÃ¦rgade 57, 41302 KÃ¸benhavn K",1302,3.700.000,12-01-2017,Alm. Salg,51.388,3,Lejlighed,72,1802,-7 %,Aktuel vÃ¦rdi,Dronningens TvÃ¦rgade,57,1302
+"KompagnistrÃ¦de 4, 11208 KÃ¸benhavn K",1208,3.850.000,11-01-2017,Alm. Salg,36.666,3,Lejlighed,105,1798,-6 %,Aktuel vÃ¦rdi,KompagnistrÃ¦de,4,1208
+"SÃ¸lvgade 101, ST. TH1307 KÃ¸benhavn K",1307,2.625.000,08-01-2017,Alm. Salg,32.812,3,Lejlighed,80,1882,-3 %,Aktuel vÃ¦rdi,SÃ¸lvgade,101,1307
+"Sankt Peders StrÃ¦de 17, 31453 KÃ¸benhavn K",1453,3.995.000,08-01-2017,Alm. Salg,37.688,3,Lejlighed,106,1809,0 %,Aktuel vÃ¦rdi,Sankt Peders StrÃ¦de,17,1453
+"PilestrÃ¦de 21, 1. 41112 KÃ¸benhavn K",1112,5.550.000,05-01-2017,Alm. Salg,43.023,3,Lejlighed,129,1902,-7 %,Aktuel vÃ¦rdi,PilestrÃ¦de,21,1112
+"Ved Volden 6, 4. TV1425 KÃ¸benhavn K",1425,875.000,05-01-2017,Fam. Salg,8.333,4,Lejlighed,105,1938,,Aktuel vÃ¦rdi,Ved Volden,6,1425,55.671478,12.593675
+Amaliegade 9 B st1256 KÃ¸benhavn K,1256,14.850.000,04-01-2017,Alm. Salg,-,-,"Ejerlejl., forretning",-,-,,,Amaliegade,9,1256,55.681906,12.591854
+"Nicolai Eigtveds Gade 36, 4. TV1402 KÃ¸benhavn K",1402,9.500.000,03-01-2017,Alm. Salg,52.777,4,Lejlighed,180,2000,-5 %,Aktuel vÃ¦rdi,Nicolai Eigtveds Gade,36,1402,55.673198,12.587019
+"Dronningens TvÃ¦rgade 36, 6. 51302 KÃ¸benhavn K",1302,3.050.000,03-01-2017,Alm. Salg,41.216,2,Lejlighed,74,1957,-3 %,Aktuel vÃ¦rdi,Dronningens TvÃ¦rgade,36,1302
+"Silkegade 17, 1. TV1113 KÃ¸benhavn K",1113,2.250.000,03-01-2017,Fam. Salg,20.833,2,Lejlighed,108,1902,,Aktuel vÃ¦rdi,Silkegade,17,1113,55.67991,12.579652
+Luftmarinegade 781432 KÃ¸benhavn K,1432,5.400.000,03-01-2017,Alm. Salg,39.416,5,RÃ¦kkehus,137,2012,-4 %,Aktuel vÃ¦rdi,Luftmarinegade,78,1432,55.685774,12.614857
+"Strandgade 79, 1. 11401 KÃ¸benhavn K",1401,10.214.572,02-01-2017,Fam. Salg,44.411,4,Lejlighed,230,2015,-45 %,Aktuel vÃ¦rdi,Strandgade,79,1401,55.672554,12.587714
+"Burmeistersgade 25, 3. TH1429 KÃ¸benhavn K",1429,1.798.000,01-01-2017,Fam. Salg,33.924,2,Lejlighed,53,1901,,Aktuel vÃ¦rdi,Burmeistersgade,25,1429,55.675103,12.597874
+"Ny Kongensgade 14, 2. 31472 KÃ¸benhavn K",1472,2.525.000,29-12-2016,Fam. Salg,42.083,2,Lejlighed,60,1934,,Aktuel vÃ¦rdi,Ny Kongensgade,14,1472,55.673864,12.576921
+"FiolstrÃ¦de 27, 3. TH1171 KÃ¸benhavn K",1171,2.600.000,29-12-2016,Fam. Salg,23.214,5,Lejlighed,112,1813,,Aktuel vÃ¦rdi,FiolstrÃ¦de,27,1171
+"Lille Kongensgade 4, 2. TH1074 KÃ¸benhavn K",1074,4.750.000,29-12-2016,Alm. Salg,50.531,3,Lejlighed,94,1767,,Aktuel vÃ¦rdi,Lille Kongensgade,4,1074,55.679566,12.584547
+"KnabrostrÃ¦de 21, ST. TH1210 KÃ¸benhavn K",1210,2.500.000,29-12-2016,Alm. Salg,51.020,1,Lejlighed,49,1798,,Aktuel vÃ¦rdi,KnabrostrÃ¦de,21,1210
+"Ole Suhrs Gade 17, 3. TV1354 KÃ¸benhavn K",1354,4.100.000,28-12-2016,Alm. Salg,49.397,3,Lejlighed,83,1883,-5 %,Aktuel vÃ¦rdi,Ole Suhrs Gade,17,1354,55.688891,12.573219
+"Esplanaden 24, 4. TH1263 KÃ¸benhavn K",1263,4.680.000,28-12-2016,Andet,40.344,4,Lejlighed,116,1876,,Aktuel vÃ¦rdi,Esplanaden,24,1263,55.687225,12.590465
+Gernersgade 421319 KÃ¸benhavn K,1319,8.495.000,28-12-2016,Alm. Salg,62.925,5,Lejlighed,135,1730,,Aktuel vÃ¦rdi,Gernersgade,42,1319,55.687418,12.589667
+Luftmarinegade 1601432 KÃ¸benhavn K,1432,5.875.000,28-12-2016,Alm. Salg,42.883,5,RÃ¦kkehus,137,2012,,Aktuel vÃ¦rdi,Luftmarinegade,160,1432,55.685774,12.614857
+"Snaregade 8, 41205 KÃ¸benhavn K",1205,1.328.100,27-12-2016,Alm. Salg,15.443,1,Lejlighed,86,1807,,Aktuel vÃ¦rdi,Snaregade,8,1205,55.677304,12.576943
+"NÃ¸rre Farimagsgade 41, 4. TV1364 KÃ¸benhavn K",1364,2.422.500,26-12-2016,Fam. Salg,18.779,4,Lejlighed,129,1878,,Aktuel vÃ¦rdi,NÃ¸rre Farimagsgade,41,1364
+"SÃ¸lvgade 95, ST. TH1307 KÃ¸benhavn K",1307,3.800.000,23-12-2016,Alm. Salg,35.185,4,Lejlighed,108,1882,-3 %,Aktuel vÃ¦rdi,SÃ¸lvgade,95,1307
+"Boldhusgade 2, 41062 KÃ¸benhavn K",1062,5.275.000,22-12-2016,Alm. Salg,46.681,4,Lejlighed,113,1796,,Aktuel vÃ¦rdi,Boldhusgade,2,1062,55.677552,12.582083
+"Gothersgade 93C, ST1123 KÃ¸benhavn K",1123,3.425.000,22-12-2016,Alm. Salg,34.948,2,Lejlighed,98,1883,-5 %,Aktuel vÃ¦rdi,Gothersgade,93C,1123,55.681482,12.584736
+"StudiestrÃ¦de 3, 4. TV1455 KÃ¸benhavn K",1455,7.025.000,21-12-2016,Fam. Salg,56.200,5,Lejlighed,125,1907,,Aktuel vÃ¦rdi,StudiestrÃ¦de,3,1455
+"Dronningens TvÃ¦rgade 37, 1. 11302 KÃ¸benhavn K",1302,1.657.500,21-12-2016,Fam. Salg,21.809,3,Lejlighed,76,1943,,Aktuel vÃ¦rdi,Dronningens TvÃ¦rgade,37,1302
+"Vendersgade 10, 4. TH1363 KÃ¸benhavn K",1363,2.422.500,21-12-2016,Fam. Salg,21.250,4,Lejlighed,114,1878,,Aktuel vÃ¦rdi,Vendersgade,10,1363,55.683069,12.570591
+"StudiestrÃ¦de 16, ST. TH1455 KÃ¸benhavn K",1455,1.500.000,20-12-2016,Fam. Salg,18.518,3,Lejlighed,81,1798,,Aktuel vÃ¦rdi,StudiestrÃ¦de,16,1455
+"Kronprinsessegade 14, 31306 KÃ¸benhavn K",1306,12.815.000,19-12-2016,Alm. Salg,44.807,7,Lejlighed,286,1805,,Aktuel vÃ¦rdi,Kronprinsessegade,14,1306,55.682772,12.580998
+"Laksegade 20E, 11063 KÃ¸benhavn K",1063,3.825.000,19-12-2016,Alm. Salg,51.000,2,Lejlighed,75,1797,-4 %,Aktuel vÃ¦rdi,Laksegade,20E,1063,55.678208,12.58528
+"KompagnistrÃ¦de 17, 11208 KÃ¸benhavn K",1208,3.950.000,19-12-2016,Alm. Salg,38.349,3,Lejlighed,103,1798,-6 %,Aktuel vÃ¦rdi,KompagnistrÃ¦de,17,1208
+"SÃ¸lvgade 86, 3. TV1307 KÃ¸benhavn K",1307,1.615.000,19-12-2016,Fam. Salg,20.187,3,Lejlighed,80,1882,,Aktuel vÃ¦rdi,SÃ¸lvgade,86,1307
+"Dronningens TvÃ¦rgade 48, 6. 31302 KÃ¸benhavn K",1302,2.195.000,16-12-2016,Alm. Salg,47.717,1,Lejlighed,46,1956,,Aktuel vÃ¦rdi,Dronningens TvÃ¦rgade,48,1302
+"Gothersgade 147, 1. TV1123 KÃ¸benhavn K",1123,3.425.000,16-12-2016,Alm. Salg,50.367,3,Lejlighed,68,1877,-2 %,Aktuel vÃ¦rdi,Gothersgade,147,1123,55.681482,12.584736
+"BadstuestrÃ¦de 18E, 2. TH1209 KÃ¸benhavn K",1209,8.000.000,16-12-2016,Alm. Salg,51.948,4,Lejlighed,154,1790,-2 %,Aktuel vÃ¦rdi,BadstuestrÃ¦de,18E,1209
+"Prinsessegade 17B, 4. TV1422 KÃ¸benhavn K",1422,3.170.000,15-12-2016,Alm. Salg,51.967,3,Lejlighed,61,1903,,Aktuel vÃ¦rdi,Prinsessegade,17B,1422,55.670212,12.590794
+"SÃ¸lvgade 13, 1. MF1307 KÃ¸benhavn K",1307,2.230.000,15-12-2016,Alm. Salg,51.860,2,Lejlighed,43,1957,-1 %,Aktuel vÃ¦rdi,SÃ¸lvgade,13,1307
+"Brobergsgade 16, 4. TH1427 KÃ¸benhavn K",1427,3.850.000,15-12-2016,Alm. Salg,53.472,2,Lejlighed,72,1902,-4 %,Aktuel vÃ¦rdi,Brobergsgade,16,1427,55.675307,12.596273
+"Nyhavn 23, 41051 KÃ¸benhavn K",1051,8.050.000,15-12-2016,Alm. Salg,48.493,4,Lejlighed,166,1700,3 %,Aktuel vÃ¦rdi,Nyhavn,23,1051,55.680077,12.588407
+"SÃ¸lvgade 24, 21307 KÃ¸benhavn K",1307,12.700.000,15-12-2016,Alm. Salg,48.473,7,Lejlighed,262,1925,-15 %,Aktuel vÃ¦rdi,SÃ¸lvgade,24,1307
+"Peder Hvitfeldts StrÃ¦de 12, 3. TH1173 KÃ¸benhavn K",1173,1.897.500,14-12-2016,Fam. Salg,27.107,1,Lejlighed,70,1818,,Aktuel vÃ¦rdi,Peder Hvitfeldts StrÃ¦de,12,1173
+"Kattesundet 14A, 31458 KÃ¸benhavn K",1458,3.125.000,14-12-2016,Alm. Salg,32.894,3,Lejlighed,95,1784,-5 %,Aktuel vÃ¦rdi,Kattesundet,14A,1458,55.677546,12.570306
+"Dronningens TvÃ¦rgade 38, 1. TV1302 KÃ¸benhavn K",1302,3.850.000,14-12-2016,Alm. Salg,46.951,3,Lejlighed,82,1957,-1 %,Aktuel vÃ¦rdi,Dronningens TvÃ¦rgade,38,1302
+"RÃ¸rholmsgade 22, 1. TH1352 KÃ¸benhavn K",1352,5.007.500,13-12-2016,Alm. Salg,48.149,4,Lejlighed,104,1884,-4 %,Aktuel vÃ¦rdi,RÃ¸rholmsgade,22,1352
+"Burmeistersgade 11, 3. TV1429 KÃ¸benhavn K",1429,2.800.000,12-12-2016,Alm. Salg,53.846,2,Lejlighed,52,1901,0 %,Aktuel vÃ¦rdi,Burmeistersgade,11,1429,55.675103,12.597874
+"Laksegade 28, 21063 KÃ¸benhavn K",1063,2.300.000,12-12-2016,Alm. Salg,41.818,1,Lejlighed,55,1882,-8 %,Aktuel vÃ¦rdi,Laksegade,28,1063,55.678208,12.58528
+"Ved Volden 5, 5. TV1425 KÃ¸benhavn K",1425,4.000.000,23-05-2017,Alm. Salg,43.956,3,Lejlighed,91,1938,0 %,Aktuel vÃ¦rdi,Ved Volden,5,1425,55.671478,12.593675
+"RÃ¥dhusstrÃ¦de 4C, 11466 KÃ¸benhavn K",1466,4.895.000,18-05-2017,Alm. Salg,46.619,3,Lejlighed,105,1796,0 %,Aktuel vÃ¦rdi,RÃ¥dhusstrÃ¦de,4C,1466
+"Store Kongensgade 112A, 31264 KÃ¸benhavn K",1264,250.000,15-05-2017,Andet,1.851,2,Lejlighed,135,1860,,Aktuel vÃ¦rdi,Store Kongensgade,112A,1264,55.681908,12.585484
+"Amaliegade 13G, 21256 KÃ¸benhavn K",1256,7.375.000,15-05-2017,Alm. Salg,75.255,3,Lejlighed,98,1948,9 %,Aktuel vÃ¦rdi,Amaliegade,13G,1256,55.681906,12.591854
+"Borgergade 144, 3. TH1300 KÃ¸benhavn K",1300,5.825.000,10-05-2017,Alm. Salg,57.673,3,Lejlighed,101,1854,3 %,Aktuel vÃ¦rdi,Borgergade,144,1300,55.682486,12.583774
+"NÃ¸rre SÃ¸gade 9A, 1. TH1370 KÃ¸benhavn K",1370,1.126.250,10-05-2017,Fam. Salg,10.525,3,Lejlighed,107,1882,,Aktuel vÃ¦rdi,NÃ¸rre SÃ¸gade,9A,1370
+"Wildersgade 22, ST1408 KÃ¸benhavn K",1408,1.556.700,09-05-2017,Alm. Salg,17.689,3,Lejlighed,88,1858,,Aktuel vÃ¦rdi,Wildersgade,22,1408,55.671332,12.587434
+"Toldbodgade 10A, 11253 KÃ¸benhavn K",1253,3.750.000,08-05-2017,Fam. Salg,20.380,5,Lejlighed,184,1862,,Aktuel vÃ¦rdi,Toldbodgade,10A,1253,55.679998,12.591443
+"Andreas BjÃ¸rns Gade 4, 3. TH1428 KÃ¸benhavn K",1428,1.700.000,05-05-2017,Alm. Salg,31.481,2,Lejlighed,54,1901,,Aktuel vÃ¦rdi,Andreas BjÃ¸rns Gade,4,1428
+"SÃ¸lvgade 15, 4. TH1307 KÃ¸benhavn K",1307,4.215.000,04-05-2017,Alm. Salg,52.037,3,Lejlighed,81,1957,-2 %,Aktuel vÃ¦rdi,SÃ¸lvgade,15,1307
+"LinnÃ©sgade 16A, 11361 KÃ¸benhavn K",1361,6.300.000,04-05-2017,Alm. Salg,40.645,5,Lejlighed,155,1880,,Aktuel vÃ¦rdi,LinnÃ©sgade,16A,1361
+"Store Kongensgade 63A, ST. 41264 KÃ¸benhavn K",1264,1.780.000,03-05-2017,Fam. Salg,18.163,3,Lejlighed,98,1932,,Aktuel vÃ¦rdi,Store Kongensgade,63A,1264,55.681908,12.585484
+"Peder Skrams Gade 28, 2. TV1054 KÃ¸benhavn K",1054,4.080.000,03-05-2017,Alm. Salg,53.684,3,Lejlighed,76,1870,0 %,Aktuel vÃ¦rdia,Peder Skrams Gade,28,1054,55.679029,12.58803
+"Brobergsgade 14, 1. TV1427 KÃ¸benhavn K",1427,2.750.000,02-05-2017,Alm. Salg,55.000,2,Lejlighed,50,1902,-8 %,Aktuel vÃ¦rdi,Brobergsgade,14,1427,55.675307,12.596273
+"SÃ¸lvgade 13, 2. TV1307 KÃ¸benhavn K",1307,3.150.000,01-05-2017,Alm. Salg,43.150,3,Lejlighed,73,1957,,Aktuel vÃ¦rdi,SÃ¸lvgade,13,1307
+"Ny Adelgade 9, 2. TH1104 KÃ¸benhavn K",1104,1.950.000,01-05-2017,Alm. Salg,27.857,3,Lejlighed,70,1800,-44 %,Aktuel vÃ¦rdi,Ny Adelgade,9,1104,55.681127,12.584095
+"LavendelstrÃ¦de 9, 2. TV1462 KÃ¸benhavn K",1462,1.550.000,01-05-2017,Alm. Salg,23.484,2,Lejlighed,66,1799,,Aktuel vÃ¦rdi,LavendelstrÃ¦de,9,1462
+"Ã…benrÃ¥ 10, 2. 51124 KÃ¸benhavn K",1124,1.650.000,01-05-2017,Alm. Salg,23.571,2,Lejlighed,70,1972,,Aktuel vÃ¦rdi,Ã…benrÃ¥,10,1124
+"GrÃ¸nnegade 31, 3. TV1107 KÃ¸benhavn K",1107,1.200.000,01-05-2017,Alm. Salg,24.489,2,Lejlighed,49,1741,,Aktuel vÃ¦rdi,GrÃ¸nnegade,31,1107
+"BadstuestrÃ¦de 16, 21209 KÃ¸benhavn K",1209,2.700.000,01-05-2017,Alm. Salg,27.835,4,Lejlighed,97,1797,,Aktuel vÃ¦rdi,BadstuestrÃ¦de,16,1209
+"NÃ¸rre Voldgade 70, 41358 KÃ¸benhavn K",1358,1.870.000,28-04-2017,Fam. Salg,18.888,4,Lejlighed,99,1677,,Aktuel vÃ¦rdi,NÃ¸rre Voldgade,70,1358
+"Fredericiagade 25, 5. 11310 KÃ¸benhavn K",1310,3.150.000,27-04-2017,Alm. Salg,26.694,3,Lejlighed,118,1968,,Aktuel vÃ¦rdi,Fredericiagade,25,1310,55.685114,12.593443
+"SÃ¸lvgade 19, 2. MF1307 KÃ¸benhavn K",1307,2.425.000,27-04-2017,Alm. Salg,49.489,2,Lejlighed,49,1806,-3 %,Aktuel vÃ¦rdi,SÃ¸lvgade,19,1307
+"David Balfours Gade 3, ST. TV1402 KÃ¸benhavn K",1402,3.100.000,27-04-2017,Alm. Salg,37.349,2,Lejlighed,83,2002,,Aktuel vÃ¦rdi,David Balfours Gade,3,1402,55.671697,12.586487
+"Vimmelskaftet 36A, 3. TH1161 KÃ¸benhavn K",1161,3.695.000,27-04-2017,Alm. Salg,43.988,3,Lejlighed,84,1857,-3 %,Aktuel vÃ¦rdi,Vimmelskaftet,36A,1161,55.678691,12.575533
+"Store Kongensgade 110C, 3. TV1264 KÃ¸benhavn K",1264,3.050.000,27-04-2017,Fam. Salg,25.847,3,Lejlighed,118,1838,,Aktuel vÃ¦rdi,Store Kongensgade,110C,1264,55.681908,12.585484
+"Andreas BjÃ¸rns Gade 10, 3. TV1428 KÃ¸benhavn K",1428,2.367.000,26-04-2017,Alm. Salg,44.660,2,Lejlighed,53,1901,,Aktuel vÃ¦rdi,Andreas BjÃ¸rns Gade,10,1428
+"GrÃ¸nnegade 31, 41107 KÃ¸benhavn K",1107,3.950.000,26-04-2017,Alm. Salg,54.109,2,Lejlighed,73,1741,0 %,Aktuel vÃ¦rdi,GrÃ¸nnegade,31,1107
+"Peder Skrams Gade 27, 3. TH1054 KÃ¸benhavn K",1054,6.250.000,26-04-2017,Alm. Salg,55.803,4,Lejlighed,112,1900,,Aktuel vÃ¦rdi,Peder Skrams Gade,27,1054,55.679029,12.58803
+"Andreas BjÃ¸rns Gade 22, 3. TH1428 KÃ¸benhavn K",1428,2.900.000,25-04-2017,Alm. Salg,52.727,2,Lejlighed,55,1901,-3 %,Aktuel vÃ¦rdi,Andreas BjÃ¸rns Gade,22,1428
+"Kronprinsessegade 10, 4. TV1306 KÃ¸benhavn K",1306,4.350.000,25-04-2017,Alm. Salg,43.069,3,Lejlighed,101,1803,-3 %,Aktuel vÃ¦rdi,Kronprinsessegade,10,1306,55.682772,12.580998
+"Bartholinsgade 11, 1. TV1356 KÃ¸benhavn K",1356,841.000,25-04-2017,Alm. Salg,16.173,2,Lejlighed,52,1880,,Aktuel vÃ¦rdi,Bartholinsgade,11,1356,55.686543,12.568412
+"Sankt Peders StrÃ¦de 17, 21453 KÃ¸benhavn K",1453,4.125.000,25-04-2017,Alm. Salg,38.915,3,Lejlighed,106,1809,-8 %,Aktuel vÃ¦rdi,Sankt Peders StrÃ¦de,17,1453
+"Ved Volden 11, 4. TH1425 KÃ¸benhavn K",1425,4.900.000,24-04-2017,Alm. Salg,50.515,4,Lejlighed,97,1938,-2 %,Aktuel vÃ¦rdi,Ved Volden,11,1425,55.671478,12.593675
+Luftmarinegade 381432 KÃ¸benhavn K,1432,2.485.131,24-04-2017,Fam. Salg,18.139,5,RÃ¦kkehus,137,2012,,Aktuel vÃ¦rdi,Luftmarinegade,38,1432,55.685774,12.614857
+"Gernersgade 5, ST. TV1319 KÃ¸benhavn K",1319,1.950.000,21-04-2017,Alm. Salg,52.702,2,Lejlighed,37,1854,,Aktuel vÃ¦rdi,Gernersgade,5,1319,55.687418,12.589667
+"Ahlefeldtsgade 26, 4. TV1359 KÃ¸benhavn K",1359,2.115.000,20-04-2017,Fam. Salg,25.792,3,Lejlighed,82,1888,,Aktuel vÃ¦rdi,Ahlefeldtsgade,26,1359,55.683085,12.566589
+"Dronningens TvÃ¦rgade 36, 4. 11302 KÃ¸benhavn K",1302,1.785.000,20-04-2017,Fam. Salg,21.768,3,Lejlighed,82,1957,,Aktuel vÃ¦rdi,Dronningens TvÃ¦rgade,36,1302
+"Nikolajgade 20, 2. TV1068 KÃ¸benhavn K",1068,3.500.000,20-04-2017,Alm. Salg,38.043,4,Lejlighed,92,1799,,Aktuel vÃ¦rdi,Nikolajgade,20,1068,55.678179,12.582634
+"Strandgade 12, 31401 KÃ¸benhavn K",1401,7.170.000,19-04-2017,Alm. Salg,31.447,6,Lejlighed,228,1720,-4 %,Aktuel vÃ¦rdi,Strandgade,12,1401,55.672554,12.587714
+"Dronningens TvÃ¦rgade 44, 2. TV1302 KÃ¸benhavn K",1302,2.950.000,16-03-2017,Alm. Salg,52.678,2,Lejlighed,56,1957,-2 %,Aktuel vÃ¦rdi,Dronningens TvÃ¦rgade,44,1302
+"Torvegade 25, 2. TV1400 KÃ¸benhavn K",1400,2.925.000,16-03-2017,Fam. Salg,26.590,4,Lejlighed,110,1933,,Aktuel vÃ¦rdi,Torvegade,25,1400,55.6732669,12.589392
+Gernersgade 301319 KÃ¸benhavn K,1319,2.201.500,16-03-2017,Alm. Salg,15.838,5,RÃ¦kkehus,139,1730,,Aktuel vÃ¦rdi,Gernersgade,30,1319,55.687418,12.589667
+Gernersgade 281319 KÃ¸benhavn K,1319,2.201.500,16-03-2017,Alm. Salg,15.838,5,RÃ¦kkehus,139,1730,,Aktuel vÃ¦rdi,Gernersgade,28,1319,55.687418,12.589667
+"Gothersgade 93, 1. TH1123 KÃ¸benhavn K",1123,4.400.000,15-03-2017,Alm. Salg,44.444,4,Lejlighed,99,1883,-2 %,Aktuel vÃ¦rdi,Gothersgade,93,1123,55.681482,12.584736
+"Store Kongensgade 53, 1. TV1264 KÃ¸benhavn K",1264,7.000.000,15-03-2017,Alm. Salg,50.724,3,Lejlighed,138,1860,,Aktuel vÃ¦rdi,Store Kongensgade,53,1264,55.681908,12.585484
+"Skindergade 27, 4. TH1159 KÃ¸benhavn K",1159,3.515.000,14-03-2017,Alm. Salg,34.460,5,Lejlighed,102,1820,,Aktuel vÃ¦rdi,Skindergade,27,1159,55.680986,12.576192
+"Skindergade 29, 31159 KÃ¸benhavn K",1159,5.687.000,14-03-2017,Alm. Salg,34.466,3,Lejlighed,165,1820,,Aktuel vÃ¦rdi,Skindergade,29,1159,55.680986,12.576192
+"Skindergade 29, 41159 KÃ¸benhavn K",1159,6.548.000,14-03-2017,Alm. Salg,62.361,4,Lejlighed,105,1820,,Aktuel vÃ¦rdi,Skindergade,29,1159,55.680986,12.576192
+"BadstuestrÃ¦de 9, 2. 11209 KÃ¸benhavn K",1209,3.550.000,14-03-2017,Alm. Salg,43.292,2,Lejlighed,82,1800,-4 %,Aktuel vÃ¦rdi,BadstuestrÃ¦de,9,1209
+"Gothersgade 17, 41123 KÃ¸benhavn K",1123,3.200.000,14-03-2017,Alm. Salg,34.408,3,Lejlighed,93,1766,-4 %,Aktuel vÃ¦rdi,Gothersgade,17,1123,55.681482,12.584736
+"Sankt Pauls Gade 3, 3. TV1313 KÃ¸benhavn K",1313,2.895.000,14-03-2017,Alm. Salg,46.693,2,Lejlighed,62,1875,0 %,Aktuel vÃ¦rdi,Sankt Pauls Gade,3,1313,55.686943,12.589502
+"Frederiksberggade 25C, 2. TH1459 KÃ¸benhavn K",1459,6.700.000,14-03-2017,Alm. Salg,26.800,4,Lejlighed,250,1900,0 %,Aktuel vÃ¦rdi,Frederiksberggade,25C,1459,55.677616,12.572097
+LarsbjÃ¸rnsstrÃ¦de 7B1454 KÃ¸benhavn K,1454,12.500.000,14-03-2017,Alm. Salg,51.020,3,Lejlighed,245,1907,-7 %,Aktuel vÃ¦rdi,LarsbjÃ¸rnsstrÃ¦de,7B,1454
+"Klerkegade 17B, ST. TV1308 KÃ¸benhavn K",1308,3.750.000,13-03-2017,Alm. Salg,52.083,3,Lejlighed,72,1810,0 %,Aktuel vÃ¦rdi,Klerkegade,17B,1308,55.68627,12.585366
+"Fredericiagade 12A, 2. TH1310 KÃ¸benhavn K",1310,1.250.000,13-03-2017,Alm. Salg,16.233,3,Lejlighed,77,1853,,Aktuel vÃ¦rdi,Fredericiagade,12A,1310,55.685114,12.593443
+"Nicolai Eigtveds Gade 34, 2. TV1402 KÃ¸benhavn K",1402,7.300.000,11-03-2017,Alm. Salg,48.993,3,Lejlighed,149,2000,-2 %,Aktuel vÃ¦rdi,Nicolai Eigtveds Gade,34,1402,55.673198,12.587019
+"Nikolaj Plads 9, 3. TH1067 KÃ¸benhavn K",1067,6.200.000,10-03-2017,Alm. Salg,44.285,4,Lejlighed,140,1849,-2 %,Aktuel vÃ¦rdi,Nikolaj Plads,9,1067,55.679325,12.582053
+"Ole Suhrs Gade 17, 4. TH1354 KÃ¸benhavn K",1354,3.250.000,09-03-2017,Alm. Salg,43.918,3,Lejlighed,74,1883,-3 %,Aktuel vÃ¦rdi,Ole Suhrs Gade,17,1354,55.688891,12.573219
+"Fredericiagade 12A, 3. TH1310 KÃ¸benhavn K",1310,1.250.000,09-03-2017,Alm. Salg,16.233,3,Lejlighed,77,1853,,Aktuel vÃ¦rdi,Fredericiagade,12A,1310,55.685114,12.593443
+"Store Kongensgade 69C, 2. TH1264 KÃ¸benhavn K",1264,3.875.000,09-03-2017,Alm. Salg,59.615,2,Lejlighed,65,1908,-2 %,Aktuel vÃ¦rdi,Store Kongensgade,69C,1264,55.681908,12.585484
+"Silkegade 17, 4. TV1113 KÃ¸benhavn K",1113,4.400.000,08-03-2017,Alm. Salg,57.894,2,Lejlighed,76,1902,0 %,Aktuel vÃ¦rdi,Silkegade,17,1113,55.67991,12.579652
+"Dybensgade 22, 3. TH1071 KÃ¸benhavn K",1071,2.011.000,07-03-2017,Alm. Salg,47.880,1,Lejlighed,42,1800,3 %,Aktuel vÃ¦rdi,Dybensgade,22,1071,55.678356,12.58396
+"TeglgÃ¥rdstrÃ¦de 10, 3. TH1452 KÃ¸benhavn K",1452,8.250.000,07-03-2017,Alm. Salg,82.500,3,Lejlighed,100,2002,,Aktuel vÃ¦rdi,TeglgÃ¥rdstrÃ¦de,10,1452
+"Store Kongensgade 61A, 21264 KÃ¸benhavn K",1264,3.825.000,07-03-2017,Fam. Salg,21.982,4,Lejlighed,174,1895,,Aktuel vÃ¦rdi,Store Kongensgade,61A,1264,55.681908,12.585484
+"Fredericiagade 21, ST. TH1310 KÃ¸benhavn K",1310,2.650.000,06-03-2017,Alm. Salg,38.405,2,Lejlighed,69,1968,-2 %,Aktuel vÃ¦rdi,Fredericiagade,21,1310,55.685114,12.593443
+"Adelgade 51, 3. TV1304 KÃ¸benhavn K",1304,1.100.000,06-03-2017,Fam. Salg,13.580,3,Lejlighed,81,1957,,Aktuel vÃ¦rdi,Adelgade,51,1304,55.682596,12.582286
+"Klareboderne 6, 21115 KÃ¸benhavn K",1115,1.126.250,06-03-2017,Fam. Salg,10.525,3,Lejlighed,107,1747,,Aktuel vÃ¦rdi,Klareboderne,6,1115,55.68073,12.578138
+"GrÃ¸nnegade 27, 31107 KÃ¸benhavn K",1107,1.463.000,06-03-2017,Alm. Salg,23.222,2,Lejlighed,63,1741,,Aktuel vÃ¦rdi,GrÃ¸nnegade,27,1107
+"Gammeltoftsgade 12A, 2. TH1355 KÃ¸benhavn K",1355,775.000,06-03-2017,Fam. Salg,10.915,3,Lejlighed,71,1884,,Aktuel vÃ¦rdi,Gammeltoftsgade,12A,1355,55.688669,12.572448
+"GrÃ¸nningen 7, 1. TH1270 KÃ¸benhavn K",1270,3.450.000,06-03-2017,Alm. Salg,45.394,2,Lejlighed,76,1939,-1 %,Aktuel vÃ¦rdi,GrÃ¸nningen,7,1270
+"Adelgade 49, 2. MF1304 KÃ¸benhavn K",1304,2.655.000,05-03-2017,Alm. Salg,50.094,2,Lejlighed,53,1957,-1 %,Aktuel vÃ¦rdi,Adelgade,49,1304,55.682596,12.582286
+"Nicolai Eigtveds Gade 34, 1. TH1402 KÃ¸benhavn K",1402,9.940.000,05-03-2017,Alm. Salg,44.573,5,Lejlighed,223,2000,-10 %,Aktuel vÃ¦rdi,Nicolai Eigtveds Gade,34,1402,55.673198,12.587019
+"Sankt AnnÃ¦ Gade 6, ST. TV1416 KÃ¸benhavn K",1416,1.020.000,05-03-2017,Fam. Salg,21.702,2,Lejlighed,47,1848,,Aktuel vÃ¦rdi,Sankt AnnÃ¦ Gade,6,1416
+"Toldbodgade 36A, 2. TH1253 KÃ¸benhavn K",1253,7.400.000,03-03-2017,Alm. Salg,56.923,2,Lejlighed,130,1783,-7 %,Aktuel vÃ¦rdi,Toldbodgade,36A,1253,55.679998,12.591443
+"SÃ¸lvgade 24, 11307 KÃ¸benhavn K",1307,10.000.000,03-03-2017,Alm. Salg,38.167,7,Lejlighed,262,1925,-5 %,Aktuel vÃ¦rdi,SÃ¸lvgade,24,1307
+"Toldbodgade 7, 31253 KÃ¸benhavn K",1253,5.800.000,03-03-2017,Alm. Salg,38.410,4,Lejlighed,151,1850,-3 %,Aktuel vÃ¦rdi,Toldbodgade,7,1253,55.679998,12.591443
+"KompagnistrÃ¦de 7A, 1. TH1208 KÃ¸benhavn K",1208,2.540.000,02-03-2017,Alm. Salg,45.357,2,Lejlighed,56,1798,-9 %,Aktuel vÃ¦rdi,KompagnistrÃ¦de,7A,1208
+"Overgaden Oven Vandet 20, 21415 KÃ¸benhavn K",1415,3.495.000,02-03-2017,Alm. Salg,41.117,3,Lejlighed,85,1802,-5 %,Aktuel vÃ¦rdi,Overgaden Oven Vandet,20,1415,55.670303,12.587819
+"Stormgade 10B, 21470 KÃ¸benhavn K",1470,7.095.000,02-03-2017,Alm. Salg,33.466,3,Lejlighed,212,1650,0 %,Aktuel vÃ¦rdi,Stormgade,10B,1470,55.675414,12.575123
+"RÃ¸rholmsgade 16, 4. TH1352 KÃ¸benhavn K",1352,4.500.000,01-03-2017,Alm. Salg,48.387,4,Lejlighed,93,1884,-5 %,Aktuel vÃ¦rdi,RÃ¸rholmsgade,16,1352
+"NabolÃ¸s 1, 1. TV1206 KÃ¸benhavn K",1206,3.500.000,01-03-2017,Alm. Salg,48.611,3,Lejlighed,72,1777,-7 %,Aktuel vÃ¦rdi,NabolÃ¸s,1,1206
+"Dronningens TvÃ¦rgade 37, 5. 21302 KÃ¸benhavn K",1302,3.150.000,01-03-2017,Alm. Salg,42.567,2,Lejlighed,74,1943,-1 %,Aktuel vÃ¦rdi,Dronningens TvÃ¦rgade,37,1302
+"KÃ¸bmagergade 13B, 31150 KÃ¸benhavn K",1150,2.200.000,01-03-2017,Alm. Salg,61.111,2,Lejlighed,36,1885,-4 %,Aktuel vÃ¦rdi,KÃ¸bmagergade,13B,1150
+"Havnegade 33, 4. TH1058 KÃ¸benhavn K",1058,5.065.000,01-03-2017,Alm. Salg,56.277,2,Lejlighed,90,1870,,Aktuel vÃ¦rdi,Havnegade,33,1058,55.676267,12.586341
+"Nyhavn 31B, 4. TV1051 KÃ¸benhavn K",1051,6.505.000,01-03-2017,Alm. Salg,77.440,1,Anden beboelse,84,1800,-32 %,Aktuel vÃ¦rdi,Nyhavn,31B,1051,55.680077,12.588407
+"RÃ¥dhusstrÃ¦de 7, 2. TH1466 KÃ¸benhavn K",1466,5.350.000,01-03-2017,Alm. Salg,36.643,4,Lejlighed,146,1798,-3 %,Aktuel vÃ¦rdi,RÃ¥dhusstrÃ¦de,7,1466
+"KlosterstrÃ¦de 12, 3. TV1157 KÃ¸benhavn K",1157,2.900.000,01-03-2017,Alm. Salg,50.000,2,Lejlighed,58,1804,,Aktuel vÃ¦rdi,KlosterstrÃ¦de,12,1157
+"Prinsessegade 4A, ST. 551422 KÃ¸benhavn K",1422,2.045.000,28-02-2017,Alm. Salg,40.900,2,Lejlighed,50,1975,-5 %,Aktuel vÃ¦rdi,Prinsessegade,4A,1422,55.670212,12.590794
+"Borgergade 26, 5. 21300 KÃ¸benhavn K",1300,1.900.000,28-02-2017,Fam. Salg,26.388,2,Lejlighed,72,1974,,Aktuel vÃ¦rdi,Borgergade,26,1300,55.682486,12.583774
+"Sankt Peders StrÃ¦de 21, 11453 KÃ¸benhavn K",1453,3.545.000,28-02-2017,Alm. Salg,43.765,3,Lejlighed,81,1800,0 %,Aktuel vÃ¦rdi,Sankt Peders StrÃ¦de,21,1453
+"Nicolai Eigtveds Gade 36, ST. TV1402 KÃ¸benhavn K",1402,8.500.000,28-02-2017,Alm. Salg,35.269,5,Lejlighed,241,2000,-1 %,Aktuel vÃ¦rdi,Nicolai Eigtveds Gade,36,1402,55.673198,12.587019
+"Gothersgade 93C, 31123 KÃ¸benhavn K",1123,6.375.000,27-02-2017,Alm. Salg,40.605,4,Lejlighed,157,1883,-6 %,Aktuel vÃ¦rdi,Gothersgade,93C,1123,55.681482,12.584736
+"Dronningens TvÃ¦rgade 32, 3. 11302 KÃ¸benhavn K",1302,65.500,27-02-2017,Alm. Salg,829,3,Lejlighed,79,1957,,Aktuel vÃ¦rdi,Dronningens TvÃ¦rgade,32,1302
+"Galionsvej 5, 2. 241437 KÃ¸benhavn K",1437,6.750.000,27-02-2017,Alm. Salg,65.533,3,Lejlighed,103,1952,9 %,Aktuel vÃ¦rdi,Galionsvej,5,1437,55.680713,12.602161
+Wildersgade 171408 KÃ¸benhavn K,1408,7.800.000,24-02-2017,Alm. Salg,60.465,4,Villa,129,1750,-13 %,Aktuel vÃ¦rdi,Wildersgade,17,1408,55.671332,12.587434
+"Sankt Pauls Gade 70, 2. TV1313 KÃ¸benhavn K",1313,1.615.000,23-02-2017,Fam. Salg,21.533,3,Lejlighed,75,1880,,Aktuel vÃ¦rdi,Sankt Pauls Gade,70,1313,55.686943,12.589502
+"Vendersgade 10A, ST1363 KÃ¸benhavn K",1363,3.050.000,23-02-2017,Alm. Salg,44.852,2,Lejlighed,68,1878,2 %,Aktuel vÃ¦rdi,Vendersgade,10A,1363,55.683069,12.570591
+Luftmarinegade 1621432 KÃ¸benhavn K,1432,6.000.000,23-02-2017,Alm. Salg,43.795,5,RÃ¦kkehus,137,2012,,Aktuel vÃ¦rdi,Luftmarinegade,162,1432,55.685774,12.614857
+"Silkegade 15, 1. MF1113 KÃ¸benhavn K",1113,4.600.000,22-02-2017,Alm. Salg,50.549,3,Lejlighed,91,1902,-5 %,Aktuel vÃ¦rdi,Silkegade,15,1113,55.67991,12.579652
+"Sankt Peders StrÃ¦de 25, 21453 KÃ¸benhavn K",1453,2.500.000,21-02-2017,Fam. Salg,30.864,4,Lejlighed,81,1816,,Aktuel vÃ¦rdi,Sankt Peders StrÃ¦de,25,1453
+"Torvegade 54, 21400 KÃ¸benhavn K",1400,4.495.000,21-02-2017,Alm. Salg,39.429,3,Lejlighed,114,1903,0 %,Aktuel vÃ¦rdi,Torvegade,54,1400,55.6732669,12.589392
+"Ny Adelgade 9, 4. TH1104 KÃ¸benhavn K",1104,2.826.000,21-02-2017,Alm. Salg,57.673,2,Lejlighed,49,1800,5 %,Aktuel vÃ¦rdi,Ny Adelgade,9,1104,55.681127,12.584095
+"Christianshavns Voldgade 19, ST. TV1424 KÃ¸benhavn K",1424,2.795.000,21-02-2017,Alm. Salg,43.671,2,Lejlighed,64,1914,-3 %,Aktuel vÃ¦rdi,Christianshavns Voldgade,19,1424,55.670011,12.588385
+"SÃ¸lvgade 15, 4. MF1307 KÃ¸benhavn K",1307,2.545.000,20-02-2017,Alm. Salg,48.942,2,Lejlighed,52,1957,,Aktuel vÃ¦rdi,SÃ¸lvgade,15,1307
+"Burmeistersgade 13, 5. TH1429 KÃ¸benhavn K",1429,2.700.000,20-02-2017,Alm. Salg,58.695,2,Lejlighed,46,1901,0 %,Aktuel vÃ¦rdi,Burmeistersgade,13,1429,55.675103,12.597874
+"Prinsessegade 17A, ST. TH1422 KÃ¸benhavn K",1422,1.950.000,20-02-2017,Alm. Salg,42.391,2,Lejlighed,46,1903,-2 %,Aktuel vÃ¦rdi,Prinsessegade,17A,1422,55.670212,12.590794
+"Sankt AnnÃ¦ Plads 8, 21250 KÃ¸benhavn K",1250,11.500.000,19-02-2017,Alm. Salg,61.827,4,Lejlighed,186,1797,,Aktuel vÃ¦rdi,Sankt AnnÃ¦ Plads,8,1250
+"Overgaden Oven Vandet 46, ST. TH1415 KÃ¸benhavn K",1415,3.100.000,19-02-2017,Alm. Salg,42.465,2,Lejlighed,73,1938,-6 %,Aktuel vÃ¦rdi,Overgaden Oven Vandet,46,1415,55.670303,12.587819
+"Gothersgade 154, 5. TV1123 KÃ¸benhavn K",1123,3.995.000,19-02-2017,Alm. Salg,57.071,2,Lejlighed,70,1879,0 %,Aktuel vÃ¦rdi,Gothersgade,154,1123,55.681482,12.584736
+"Esplanaden 24, 1. TH1263 KÃ¸benhavn K",1263,6.250.000,18-02-2017,Alm. Salg,53.418,3,Lejlighed,117,1876,-7 %,Aktuel vÃ¦rdi,Esplanaden,24,1263,55.687225,12.590465
+"Dronningens TvÃ¦rgade 46, 3. 11302 KÃ¸benhavn K",1302,2.595.000,15-02-2017,Alm. Salg,36.041,1,Lejlighed,72,1956,,Aktuel vÃ¦rdi,Dronningens TvÃ¦rgade,46,1302
+"NÃ¸rre SÃ¸gade 37B, 5. 11370 KÃ¸benhavn K",1370,1.900.000,14-02-2017,Alm. Salg,50.000,1,Lejlighed,38,1969,,Aktuel vÃ¦rdi,NÃ¸rre SÃ¸gade,37B,1370
+"Andreas BjÃ¸rns Gade 16, 4. TH1428 KÃ¸benhavn K",1428,2.441.900,14-02-2017,Alm. Salg,46.073,2,Lejlighed,53,1901,,Aktuel vÃ¦rdi,Andreas BjÃ¸rns Gade,16,1428
+"NÃ¸rregade 24A, 41165 KÃ¸benhavn K",1165,10.300.000,14-02-2017,Alm. Salg,50.243,4,Lejlighed,205,1842,,Aktuel vÃ¦rdi,NÃ¸rregade,24A,1165
+"Dronningens TvÃ¦rgade 46, 3. 31302 KÃ¸benhavn K",1302,3.695.000,13-02-2017,Alm. Salg,42.471,3,Lejlighed,87,1956,0 %,Aktuel vÃ¦rdi,Dronningens TvÃ¦rgade,46,1302
+"Prinsessegade 2B, ST. 761422 KÃ¸benhavn K",1422,2.110.000,12-02-2017,Alm. Salg,41.372,2,Lejlighed,51,1975,-6 %,Aktuel vÃ¦rdi,Prinsessegade,2B,1422,55.670212,12.590794
+"Dybensgade 22, ST. TH1071 KÃ¸benhavn K",1071,2.700.000,11-02-2017,Alm. Salg,36.986,3,Lejlighed,73,1800,-10 %,Aktuel vÃ¦rdi,Dybensgade,22,1071,55.678356,12.58396
+"Kronprinsessegade 46B, 11306 KÃ¸benhavn K",1306,12.800.000,09-02-2017,Alm. Salg,51.612,4,Lejlighed,248,1807,-4 %,Aktuel vÃ¦rdi,Kronprinsessegade,46B,1306,55.682772,12.580998
+"Gothersgade 155, 3. TV1123 KÃ¸benhavn K",1123,6.500.000,09-02-2017,Alm. Salg,43.333,5,Lejlighed,150,1877,,Aktuel vÃ¦rdi,Gothersgade,155,1123,55.681482,12.584736
+"Wildersgade 3, 51408 KÃ¸benhavn K",1408,2.150.000,08-02-2017,Fam. Salg,13.607,4,Lejlighed,158,2002,,Aktuel vÃ¦rdi,Wildersgade,3,1408,55.671332,12.587434
+"LarsbjÃ¸rnsstrÃ¦de 18, 2. TH1454 KÃ¸benhavn K",1454,2.850.000,08-02-2017,Alm. Salg,47.500,3,Lejlighed,60,1797,2 %,Aktuel vÃ¦rdi,LarsbjÃ¸rnsstrÃ¦de,18,1454
+"Johan Semps Gade 9, 4. MF1402 KÃ¸benhavn K",1402,4.800.000,06-02-2017,Alm. Salg,50.526,2,Lejlighed,95,2003,-4 %,Aktuel vÃ¦rdi,Johan Semps Gade,9,1402,55.671857,12.586877
+"LarsbjÃ¸rnsstrÃ¦de 7A, 31454 KÃ¸benhavn K",1454,6.350.000,06-02-2017,Alm. Salg,47.037,3,Lejlighed,135,1907,,Aktuel vÃ¦rdi,LarsbjÃ¸rnsstrÃ¦de,7A,1454
+"Wildersgade 60A, 2. 31408 KÃ¸benhavn K",1408,4.550.000,05-02-2017,Alm. Salg,49.456,2,Lejlighed,92,1802,-1 %,Aktuel vÃ¦rdi,Wildersgade,60A,1408,55.671332,12.587434
+"Ved Volden 7, 4. TV1425 KÃ¸benhavn K",1425,4.395.000,05-02-2017,Alm. Salg,48.296,3,Lejlighed,91,1938,0 %,Aktuel vÃ¦rdi,Ved Volden,7,1425,55.671478,12.593675
+"Nyhavn 31F, ST. TV1051 KÃ¸benhavn K",1051,5.995.000,04-02-2017,Alm. Salg,56.028,1,Lejlighed,107,1918,,Aktuel vÃ¦rdi,Nyhavn,31F,1051,55.680077,12.588407
+"NÃ¸rre Voldgade 24, 3. TV1358 KÃ¸benhavn K",1358,4.150.000,03-02-2017,Alm. Salg,49.404,3,Lejlighed,84,1812,-1 %,Aktuel vÃ¦rdi,NÃ¸rre Voldgade,24,1358
+"Strandgade 83, 5. TV1401 KÃ¸benhavn K",1401,16.500.000,03-02-2017,Alm. Salg,59.782,4,Lejlighed,276,2015,-3 %,Aktuel vÃ¦rdi,Strandgade,83,1401,55.672554,12.587714
+"Dronningensgade 59, 4. TV1420 KÃ¸benhavn K",1420,2.895.000,02-02-2017,Alm. Salg,54.622,1,Lejlighed,53,1938,0 %,Aktuel vÃ¦rdi,Dronningensgade,59,1420,55.670232,12.588866
+Wildersgade 131408 KÃ¸benhavn K,1408,6.500.000,02-02-2017,Alm. Salg,49.242,4,RÃ¦kkehus,132,1700,-7 %,Aktuel vÃ¦rdi,Wildersgade,13,1408,55.671332,12.587434
+"Borgergade 144, 5. TV1300 KÃ¸benhavn K",1300,2.690.000,02-02-2017,Alm. Salg,45.593,2,Lejlighed,59,1854,,Aktuel vÃ¦rdi,Borgergade,144,1300,55.682486,12.583774
+"Stormgade 10B, 11470 KÃ¸benhavn K",1470,6.995.000,01-02-2017,Alm. Salg,45.129,3,Lejlighed,155,1650,,Aktuel vÃ¦rdi,Stormgade,10B,1470,55.675414,12.575123
+"LÃ¦derstrÃ¦de 17, 21201 KÃ¸benhavn K",1201,3.698.000,31-01-2017,Alm. Salg,38.520,4,Lejlighed,96,1796,-3 %,Aktuel vÃ¦rdi,LÃ¦derstrÃ¦de,17,1201
+"Dronningens TvÃ¦rgade 37, 7. 31302 KÃ¸benhavn K",1302,4.650.000,31-01-2017,Alm. Salg,46.969,3,Lejlighed,99,1943,-3 %,Aktuel vÃ¦rdi,Dronningens TvÃ¦rgade,37,1302
+Sankt AnnÃ¦ Gade 181416 KÃ¸benhavn K,1416,3.422.786,30-01-2017,Alm. Salg,19.899,6,RÃ¦kkehus,172,1747,,Aktuel vÃ¦rdi,Sankt AnnÃ¦ Gade,18,1416
+"Cort Adelers Gade 1, 1. TH1053 KÃ¸benhavn K",1053,8.770.000,30-01-2017,Alm. Salg,42.572,5,Lejlighed,206,1873,0 %,Aktuel vÃ¦rdi,Cort Adelers Gade,1,1053,55.678287,12.590375
+"Gothersgade 95, 4. TV1123 KÃ¸benhavn K",1123,6.000.000,29-01-2017,Alm. Salg,45.454,5,Lejlighed,132,1883,-2 %,Aktuel vÃ¦rdi,Gothersgade,95,1123,55.681482,12.584736
+"Sankt Gertruds StrÃ¦de 3, 11129 KÃ¸benhavn K",1129,3.162.000,28-01-2017,Alm. Salg,42.729,3,Lejlighed,74,1844,1 %,Aktuel vÃ¦rdi,Sankt Gertruds StrÃ¦de,3,1129
+"Ny Adelgade 9, 3. TH1104 KÃ¸benhavn K",1104,3.000.000,27-01-2017,Fam. Salg,42.857,3,Lejlighed,70,1800,,Aktuel vÃ¦rdi,Ny Adelgade,9,1104,55.681127,12.584095
+"Overgaden Neden Vandet 39, ST1414 KÃ¸benhavn K",1414,6.700.000,27-01-2017,Alm. Salg,42.405,3,Lejlighed,158,1777,-4 %,Aktuel vÃ¦rdi,Overgaden Neden Vandet,39,1414,55.671082,12.587917
+Rigensgade 21316 KÃ¸benhavn K,1316,891.250,27-01-2017,Fam. Salg,12.916,3,Lejlighed,69,1925,,Aktuel vÃ¦rdi,Rigensgade,2,1316,55.686768,12.581981
+Strandgade 42A1401 KÃ¸benhavn K,1401,3.925.000,27-01-2017,Alm. Salg,46.176,3,Lejlighed,85,1700,-8 %,Aktuel vÃ¦rdi,Strandgade,42A,1401,55.672554,12.587714
+"HammershÃ¸is Kaj 4, 4. TH1402 KÃ¸benhavn K",1402,3.000.000,27-01-2017,Alm. Salg,40.540,2,Lejlighed,74,2001,,Aktuel vÃ¦rdi,HammershÃ¸is Kaj,4,1402
+"LarsbjÃ¸rnsstrÃ¦de 7A, 21454 KÃ¸benhavn K",1454,5.750.000,27-01-2017,Alm. Salg,42.592,3,Lejlighed,135,1907,-2 %,Aktuel vÃ¦rdi,LarsbjÃ¸rnsstrÃ¦de,7A,1454
+"Store StrandstrÃ¦de 11, 2. TV1255 KÃ¸benhavn K",1255,1.800.000,26-01-2017,Fam. Salg,26.865,2,Lejlighed,67,1935,,Aktuel vÃ¦rdi,Store StrandstrÃ¦de,11,1255
+"Hammerensgade 3, ST. MF1267 KÃ¸benhavn K",1267,2.795.000,26-01-2017,Alm. Salg,53.750,2,Lejlighed,52,1925,,Aktuel vÃ¦rdi,Hammerensgade,3,1267,55.688109,12.590263
+"SÃ¸lvgade 89, 41307 KÃ¸benhavn K",1307,2.600.000,26-01-2017,Fam. Salg,25.000,3,Lejlighed,104,1882,,Aktuel vÃ¦rdi,SÃ¸lvgade,89,1307
+"Dronningens TvÃ¦rgade 39, ST. 31302 KÃ¸benhavn K",1302,1.980.000,26-01-2017,Alm. Salg,38.823,1,Lejlighed,51,1943,,Aktuel vÃ¦rdi,Dronningens TvÃ¦rgade,39,1302
+"Snaregade 4, 11205 KÃ¸benhavn K",1205,7.150.000,25-01-2017,Alm. Salg,37.631,5,Lejlighed,190,1802,-5 %,Aktuel vÃ¦rdi,Snaregade,4,1205,55.677304,12.576943
+"BadstuestrÃ¦de 18B, ST1209 KÃ¸benhavn K",1209,5.495.000,24-01-2017,Alm. Salg,37.128,5,Lejlighed,148,1790,0 %,Aktuel vÃ¦rdi,BadstuestrÃ¦de,18B,1209
+"Overgaden Oven Vandet 44, 3. TV1415 KÃ¸benhavn K",1415,6.500.000,24-01-2017,Alm. Salg,58.035,4,Lejlighed,112,1938,,Aktuel vÃ¦rdi,Overgaden Oven Vandet,44,1415,55.670303,12.587819
+"NÃ¸rre Voldgade 54, 1. TH1358 KÃ¸benhavn K",1358,2.900.000,24-01-2017,Fam. Salg,25.000,4,Lejlighed,116,1852,,Aktuel vÃ¦rdi,NÃ¸rre Voldgade,54,1358
+"Dronningens TvÃ¦rgade 40, 3. TV1302 KÃ¸benhavn K",1302,3.825.000,24-01-2017,Alm. Salg,46.084,3,Lejlighed,83,1957,-4 %,Aktuel vÃ¦rdi,Dronningens TvÃ¦rgade,40,1302
+"NÃ¸rre SÃ¸gade 37A, 5. 51370 KÃ¸benhavn K",1370,4.200.000,23-01-2017,Alm. Salg,42.424,2,Lejlighed,99,1969,-7 %,Aktuel vÃ¦rdi,NÃ¸rre SÃ¸gade,37A,1370
+"Ved Volden 9, 5. TV1425 KÃ¸benhavn K",1425,2.595.000,23-01-2017,Alm. Salg,47.181,2,Lejlighed,55,1938,0 %,Aktuel vÃ¦rdi,Ved Volden,9,1425,55.671478,12.593675
+"Prinsessegade 17A, 51422 KÃ¸benhavn K",1422,2.495.000,23-01-2017,Alm. Salg,53.085,2,Lejlighed,47,1903,0 %,Aktuel vÃ¦rdi,Prinsessegade,17A,1422,55.670212,12.590794
+"Store Kongensgade 53, 4. TH1264 KÃ¸benhavn K",1264,6.700.000,23-01-2017,Alm. Salg,54.918,3,Lejlighed,122,1860,0 %,Aktuel vÃ¦rdi,Store Kongensgade,53,1264,55.681908,12.585484
+"Andreas BjÃ¸rns Gade 22, 1. TV1428 KÃ¸benhavn K",1428,1.225.000,22-01-2017,Alm. Salg,22.685,2,Lejlighed,54,1901,,Aktuel vÃ¦rdi,Andreas BjÃ¸rns Gade,22,1428
+"TeglgÃ¥rdstrÃ¦de 12B, ST. 21452 KÃ¸benhavn K",1452,3.200.000,22-01-2017,Alm. Salg,59.259,3,Lejlighed,54,1730,7 %,Aktuel vÃ¦rdi,TeglgÃ¥rdstrÃ¦de,12B,1452
+"NÃ¸rre Voldgade 54, 1. TV1358 KÃ¸benhavn K",1358,3.981.787,21-01-2017,Fam. Salg,30.866,4,Lejlighed,129,1852,,Aktuel vÃ¦rdi,NÃ¸rre Voldgade,54,1358
+"Burmeistersgade 7, 2. TV1429 KÃ¸benhavn K",1429,2.885.000,21-01-2017,Alm. Salg,55.480,2,Lejlighed,52,1901,,Aktuel vÃ¦rdi,Burmeistersgade,7,1429,55.675103,12.597874
+"Ved Volden 11, 3. TV1425 KÃ¸benhavn K",1425,2.100.000,20-01-2017,Fam. Salg,21.212,4,Lejlighed,99,1938,,Aktuel vÃ¦rdi,Ved Volden,11,1425,55.671478,12.593675
+"Bodenhoffs Plads 8, 4. TH1430 KÃ¸benhavn K",1430,4.400.000,20-01-2017,Alm. Salg,51.764,3,Lejlighed,85,1901,-6 %,Aktuel vÃ¦rdi,Bodenhoffs Plads,8,1430,55.676569,12.598234
+"Store Kongensgade 75C, 5. TV1264 KÃ¸benhavn K",1264,5.000.000,20-01-2017,Alm. Salg,34.722,3,Lejlighed,144,1850,,Aktuel vÃ¦rdi,Store Kongensgade,75C,1264,55.681908,12.585484
+Margretheholmsvej 91432 KÃ¸benhavn K,1432,4.950.000,20-01-2017,Alm. Salg,35.869,4,RÃ¦kkehus,138,2016,-1 %,Aktuel vÃ¦rdi,Margretheholmsvej,9,1432,55.68335,12.615138
+"Kronprinsessegade 10, 4. TH1306 KÃ¸benhavn K",1306,3.850.000,19-01-2017,Alm. Salg,31.818,3,Lejlighed,121,1803,-10 %,Aktuel vÃ¦rdi,Kronprinsessegade,10,1306,55.682772,12.580998
+"Sankt Pauls Gade 3, 4. TH1313 KÃ¸benhavn K",1313,2.610.000,19-01-2017,Alm. Salg,56.739,2,Lejlighed,46,1875,-3 %,Aktuel vÃ¦rdi,Sankt Pauls Gade,3,1313,55.686943,12.589502
+"Nyhavn 31J, 2. TV1051 KÃ¸benhavn K",1051,5.200.000,18-01-2017,Alm. Salg,52.000,3,Lejlighed,100,1800,-2 %,Aktuel vÃ¦rdi,Nyhavn,31J,1051,55.680077,12.588407
+"Dronningens TvÃ¦rgade 46, 4. 11302 KÃ¸benhavn K",1302,2.695.000,18-01-2017,Alm. Salg,37.430,1,Lejlighed,72,1956,0 %,Aktuel vÃ¦rdi,Dronningens TvÃ¦rgade,46,1302
+"Johan Semps Gade 9, 3. TV1402 KÃ¸benhavn K",1402,5.275.000,17-01-2017,Alm. Salg,45.085,3,Lejlighed,117,2003,,Aktuel vÃ¦rdi,Johan Semps Gade,9,1402,55.671857,12.586877
+"Rosenborggade 9, 31130 KÃ¸benhavn K",1130,4.100.000,17-01-2017,Alm. Salg,50.000,4,Lejlighed,82,1847,,Aktuel vÃ¦rdi,Rosenborggade,9,1130,55.683178,12.573453
+"SÃ¸lvgade 19, 2. TV1307 KÃ¸benhavn K",1307,3.050.000,17-01-2017,Alm. Salg,39.610,3,Lejlighed,77,1806,,Aktuel vÃ¦rdi,SÃ¸lvgade,19,1307
+"Nyhavn 14, 31051 KÃ¸benhavn K",1051,9.600.000,17-01-2017,Alm. Salg,63.576,3,Lejlighed,151,1770,-4 %,Aktuel vÃ¦rdi,Nyhavn,14,1051,55.680077,12.588407
+"Silkegade 19, 21113 KÃ¸benhavn K",1113,7.300.000,17-01-2017,Alm. Salg,40.782,4,Lejlighed,179,1902,-1 %,Aktuel vÃ¦rdi,Silkegade,19,1113,55.67991,12.579652
+"SÃ¸lvgade 23, 4. TV1307 KÃ¸benhavn K",1307,5.200.000,17-01-2017,Alm. Salg,55.319,4,Lejlighed,94,1806,0 %,Aktuel vÃ¦rdi,SÃ¸lvgade,23,1307
+"NÃ¸rre Voldgade 48B, 2. TH1358 KÃ¸benhavn K",1358,5.275.000,17-01-2017,Alm. Salg,49.299,2,Lejlighed,107,1838,-4 %,Aktuel vÃ¦rdi,NÃ¸rre Voldgade,48B,1358
+"Dronningens TvÃ¦rgade 46, 6. 31302 KÃ¸benhavn K",1302,3.995.000,16-01-2017,Alm. Salg,45.919,3,Lejlighed,87,1956,0 %,Aktuel vÃ¦rdi,Dronningens TvÃ¦rgade,46,1302
+"Toldbodgade 2, 3. TH1253 KÃ¸benhavn K",1253,6.200.000,16-01-2017,Alm. Salg,43.055,5,Lejlighed,144,1852,-2 %,Aktuel vÃ¦rdi,Toldbodgade,2,1253,55.679998,12.591443
+"SÃ¸lvgade 91, 4. TH1307 KÃ¸benhavn K",1307,5.250.000,16-01-2017,Alm. Salg,51.980,4,Lejlighed,101,1882,0 %,Aktuel vÃ¦rdi,SÃ¸lvgade,91,1307
+"Toldbodgade 29C, 1. TV1253 KÃ¸benhavn K",1253,7.400.000,16-01-2017,Alm. Salg,45.679,2,Lejlighed,162,1887,-1 %,Aktuel vÃ¦rdi,Toldbodgade,29C,1253,55.679998,12.591443
+"Nikolajgade 20, 2. TH1068 KÃ¸benhavn K",1068,3.350.000,15-01-2017,Alm. Salg,39.880,4,Lejlighed,84,1799,,Aktuel vÃ¦rdi,Nikolajgade,20,1068,55.678179,12.582634
+"Store Kongensgade 64, 11264 KÃ¸benhavn K",1264,4.875.000,13-01-2017,Alm. Salg,37.790,5,Lejlighed,129,1750,-2 %,Aktuel vÃ¦rdi,Store Kongensgade,64,1264,55.681908,12.585484
+"Peder Skrams Gade 27, 2. TH1054 KÃ¸benhavn K",1054,5.075.000,13-01-2017,Alm. Salg,45.312,4,Lejlighed,112,1900,-2 %,Aktuel vÃ¦rdi,Peder Skrams Gade,27,1054,55.679029,12.58803
+"Dronningens TvÃ¦rgade 46, 5. 21302 KÃ¸benhavn K",1302,2.225.000,12-01-2017,Alm. Salg,42.788,1,Lejlighed,52,1956,-7 %,Aktuel vÃ¦rdi,Dronningens TvÃ¦rgade,46,1302
+"SÃ¸lvgade 19, 4. MF1307 KÃ¸benhavn K",1307,2.575.000,12-01-2017,Alm. Salg,52.551,2,Lejlighed,49,1806,-1 %,Aktuel vÃ¦rdi,SÃ¸lvgade,19,1307
+"Dronningens TvÃ¦rgade 57, 41302 KÃ¸benhavn K",1302,3.700.000,12-01-2017,Alm. Salg,51.388,3,Lejlighed,72,1802,-7 %,Aktuel vÃ¦rdi,Dronningens TvÃ¦rgade,57,1302
+"KompagnistrÃ¦de 4, 11208 KÃ¸benhavn K",1208,3.850.000,11-01-2017,Alm. Salg,36.666,3,Lejlighed,105,1798,-6 %,Aktuel vÃ¦rdi,KompagnistrÃ¦de,4,1208
+"SÃ¸lvgade 101, ST. TH1307 KÃ¸benhavn K",1307,2.625.000,08-01-2017,Alm. Salg,32.812,3,Lejlighed,80,1882,-3 %,Aktuel vÃ¦rdi,SÃ¸lvgade,101,1307
+"Sankt Peders StrÃ¦de 17, 31453 KÃ¸benhavn K",1453,3.995.000,08-01-2017,Alm. Salg,37.688,3,Lejlighed,106,1809,0 %,Aktuel vÃ¦rdi,Sankt Peders StrÃ¦de,17,1453
+"PilestrÃ¦de 21, 1. 41112 KÃ¸benhavn K",1112,5.550.000,05-01-2017,Alm. Salg,43.023,3,Lejlighed,129,1902,-7 %,Aktuel vÃ¦rdi,PilestrÃ¦de,21,1112
+"Ved Volden 6, 4. TV1425 KÃ¸benhavn K",1425,875.000,05-01-2017,Fam. Salg,8.333,4,Lejlighed,105,1938,,Aktuel vÃ¦rdi,Ved Volden,6,1425,55.671478,12.593675
+Amaliegade 9 B st1256 KÃ¸benhavn K,1256,14.850.000,04-01-2017,Alm. Salg,-,-,"Ejerlejl., forretning",-,-,,,Amaliegade,9,1256,55.681906,12.591854
+"Nicolai Eigtveds Gade 36, 4. TV1402 KÃ¸benhavn K",1402,9.500.000,03-01-2017,Alm. Salg,52.777,4,Lejlighed,180,2000,-5 %,Aktuel vÃ¦rdi,Nicolai Eigtveds Gade,36,1402,55.673198,12.587019
+"Dronningens TvÃ¦rgade 36, 6. 51302 KÃ¸benhavn K",1302,3.050.000,03-01-2017,Alm. Salg,41.216,2,Lejlighed,74,1957,-3 %,Aktuel vÃ¦rdi,Dronningens TvÃ¦rgade,36,1302
+"Silkegade 17, 1. TV1113 KÃ¸benhavn K",1113,2.250.000,03-01-2017,Fam. Salg,20.833,2,Lejlighed,108,1902,,Aktuel vÃ¦rdi,Silkegade,17,1113,55.67991,12.579652
+Luftmarinegade 781432 KÃ¸benhavn K,1432,5.400.000,03-01-2017,Alm. Salg,39.416,5,RÃ¦kkehus,137,2012,-4 %,Aktuel vÃ¦rdi,Luftmarinegade,78,1432,55.685774,12.614857
+"Strandgade 79, 1. 11401 KÃ¸benhavn K",1401,10.214.572,02-01-2017,Fam. Salg,44.411,4,Lejlighed,230,2015,-45 %,Aktuel vÃ¦rdi,Strandgade,79,1401,55.672554,12.587714
+"Burmeistersgade 25, 3. TH1429 KÃ¸benhavn K",1429,1.798.000,01-01-2017,Fam. Salg,33.924,2,Lejlighed,53,1901,,Aktuel vÃ¦rdi,Burmeistersgade,25,1429,55.675103,12.597874
+"Ny Kongensgade 14, 2. 31472 KÃ¸benhavn K",1472,2.525.000,29-12-2016,Fam. Salg,42.083,2,Lejlighed,60,1934,,Aktuel vÃ¦rdi,Ny Kongensgade,14,1472,55.673864,12.576921
+"FiolstrÃ¦de 27, 3. TH1171 KÃ¸benhavn K",1171,2.600.000,29-12-2016,Fam. Salg,23.214,5,Lejlighed,112,1813,,Aktuel vÃ¦rdi,FiolstrÃ¦de,27,1171
+"Lille Kongensgade 4, 2. TH1074 KÃ¸benhavn K",1074,4.750.000,29-12-2016,Alm. Salg,50.531,3,Lejlighed,94,1767,,Aktuel vÃ¦rdi,Lille Kongensgade,4,1074,55.679566,12.584547
+"KnabrostrÃ¦de 21, ST. TH1210 KÃ¸benhavn K",1210,2.500.000,29-12-2016,Alm. Salg,51.020,1,Lejlighed,49,1798,,Aktuel vÃ¦rdi,KnabrostrÃ¦de,21,1210
+"Ole Suhrs Gade 17, 3. TV1354 KÃ¸benhavn K",1354,4.100.000,28-12-2016,Alm. Salg,49.397,3,Lejlighed,83,1883,-5 %,Aktuel vÃ¦rdi,Ole Suhrs Gade,17,1354,55.688891,12.573219
+"Esplanaden 24, 4. TH1263 KÃ¸benhavn K",1263,4.680.000,28-12-2016,Andet,40.344,4,Lejlighed,116,1876,,Aktuel vÃ¦rdi,Esplanaden,24,1263,55.687225,12.590465
+Gernersgade 421319 KÃ¸benhavn K,1319,8.495.000,28-12-2016,Alm. Salg,62.925,5,Lejlighed,135,1730,,Aktuel vÃ¦rdi,Gernersgade,42,1319,55.687418,12.589667
+Luftmarinegade 1601432 KÃ¸benhavn K,1432,5.875.000,28-12-2016,Alm. Salg,42.883,5,RÃ¦kkehus,137,2012,,Aktuel vÃ¦rdi,Luftmarinegade,160,1432,55.685774,12.614857
+"Snaregade 8, 41205 KÃ¸benhavn K",1205,1.328.100,27-12-2016,Alm. Salg,15.443,1,Lejlighed,86,1807,,Aktuel vÃ¦rdi,Snaregade,8,1205,55.677304,12.576943
+"NÃ¸rre Farimagsgade 41, 4. TV1364 KÃ¸benhavn K",1364,2.422.500,26-12-2016,Fam. Salg,18.779,4,Lejlighed,129,1878,,Aktuel vÃ¦rdi,NÃ¸rre Farimagsgade,41,1364
+"SÃ¸lvgade 95, ST. TH1307 KÃ¸benhavn K",1307,3.800.000,23-12-2016,Alm. Salg,35.185,4,Lejlighed,108,1882,-3 %,Aktuel vÃ¦rdi,SÃ¸lvgade,95,1307
+"Boldhusgade 2, 41062 KÃ¸benhavn K",1062,5.275.000,22-12-2016,Alm. Salg,46.681,4,Lejlighed,113,1796,,Aktuel vÃ¦rdi,Boldhusgade,2,1062,55.677552,12.582083
+"Gothersgade 93C, ST1123 KÃ¸benhavn K",1123,3.425.000,22-12-2016,Alm. Salg,34.948,2,Lejlighed,98,1883,-5 %,Aktuel vÃ¦rdi,Gothersgade,93C,1123,55.681482,12.584736
+"StudiestrÃ¦de 3, 4. TV1455 KÃ¸benhavn K",1455,7.025.000,21-12-2016,Fam. Salg,56.200,5,Lejlighed,125,1907,,Aktuel vÃ¦rdi,StudiestrÃ¦de,3,1455
+"Dronningens TvÃ¦rgade 37, 1. 11302 KÃ¸benhavn K",1302,1.657.500,21-12-2016,Fam. Salg,21.809,3,Lejlighed,76,1943,,Aktuel vÃ¦rdi,Dronningens TvÃ¦rgade,37,1302
+"Vendersgade 10, 4. TH1363 KÃ¸benhavn K",1363,2.422.500,21-12-2016,Fam. Salg,21.250,4,Lejlighed,114,1878,,Aktuel vÃ¦rdi,Vendersgade,10,1363,55.683069,12.570591
+"StudiestrÃ¦de 16, ST. TH1455 KÃ¸benhavn K",1455,1.500.000,20-12-2016,Fam. Salg,18.518,3,Lejlighed,81,1798,,Aktuel vÃ¦rdi,StudiestrÃ¦de,16,1455
+"Kronprinsessegade 14, 31306 KÃ¸benhavn K",1306,12.815.000,19-12-2016,Alm. Salg,44.807,7,Lejlighed,286,1805,,Aktuel vÃ¦rdi,Kronprinsessegade,14,1306,55.682772,12.580998
+"Laksegade 20E, 11063 KÃ¸benhavn K",1063,3.825.000,19-12-2016,Alm. Salg,51.000,2,Lejlighed,75,1797,-4 %,Aktuel vÃ¦rdi,Laksegade,20E,1063,55.678208,12.58528
+"KompagnistrÃ¦de 17, 11208 KÃ¸benhavn K",1208,3.950.000,19-12-2016,Alm. Salg,38.349,3,Lejlighed,103,1798,-6 %,Aktuel vÃ¦rdi,KompagnistrÃ¦de,17,1208
+"SÃ¸lvgade 86, 3. TV1307 KÃ¸benhavn K",1307,1.615.000,19-12-2016,Fam. Salg,20.187,3,Lejlighed,80,1882,,Aktuel vÃ¦rdi,SÃ¸lvgade,86,1307
+"Dronningens TvÃ¦rgade 48, 6. 31302 KÃ¸benhavn K",1302,2.195.000,16-12-2016,Alm. Salg,47.717,1,Lejlighed,46,1956,,Aktuel vÃ¦rdi,Dronningens TvÃ¦rgade,48,1302
+"Gothersgade 147, 1. TV1123 KÃ¸benhavn K",1123,3.425.000,16-12-2016,Alm. Salg,50.367,3,Lejlighed,68,1877,-2 %,Aktuel vÃ¦rdi,Gothersgade,147,1123,55.681482,12.584736
+"BadstuestrÃ¦de 18E, 2. TH1209 KÃ¸benhavn K",1209,8.000.000,16-12-2016,Alm. Salg,51.948,4,Lejlighed,154,1790,-2 %,Aktuel vÃ¦rdi,BadstuestrÃ¦de,18E,1209
+"Prinsessegade 17B, 4. TV1422 KÃ¸benhavn K",1422,3.170.000,15-12-2016,Alm. Salg,51.967,3,Lejlighed,61,1903,,Aktuel vÃ¦rdi,Prinsessegade,17B,1422,55.670212,12.590794
+"SÃ¸lvgade 13, 1. MF1307 KÃ¸benhavn K",1307,2.230.000,15-12-2016,Alm. Salg,51.860,2,Lejlighed,43,1957,-1 %,Aktuel vÃ¦rdi,SÃ¸lvgade,13,1307
+"Brobergsgade 16, 4. TH1427 KÃ¸benhavn K",1427,3.850.000,15-12-2016,Alm. Salg,53.472,2,Lejlighed,72,1902,-4 %,Aktuel vÃ¦rdi,Brobergsgade,16,1427,55.675307,12.596273
+"Nyhavn 23, 41051 KÃ¸benhavn K",1051,8.050.000,15-12-2016,Alm. Salg,48.493,4,Lejlighed,166,1700,3 %,Aktuel vÃ¦rdi,Nyhavn,23,1051,55.680077,12.588407
+"SÃ¸lvgade 24, 21307 KÃ¸benhavn K",1307,12.700.000,15-12-2016,Alm. Salg,48.473,7,Lejlighed,262,1925,-15 %,Aktuel vÃ¦rdi,SÃ¸lvgade,24,1307
+"Peder Hvitfeldts StrÃ¦de 12, 3. TH1173 KÃ¸benhavn K",1173,1.897.500,14-12-2016,Fam. Salg,27.107,1,Lejlighed,70,1818,,Aktuel vÃ¦rdi,Peder Hvitfeldts StrÃ¦de,12,1173
+"Kattesundet 14A, 31458 KÃ¸benhavn K",1458,3.125.000,14-12-2016,Alm. Salg,32.894,3,Lejlighed,95,1784,-5 %,Aktuel vÃ¦rdi,Kattesundet,14A,1458,55.677546,12.570306
+"Dronningens TvÃ¦rgade 38, 1. TV1302 KÃ¸benhavn K",1302,3.850.000,14-12-2016,Alm. Salg,46.951,3,Lejlighed,82,1957,-1 %,Aktuel vÃ¦rdi,Dronningens TvÃ¦rgade,38,1302
+"RÃ¸rholmsgade 22, 1. TH1352 KÃ¸benhavn K",1352,5.007.500,13-12-2016,Alm. Salg,48.149,4,Lejlighed,104,1884,-4 %,Aktuel vÃ¦rdi,RÃ¸rholmsgade,22,1352
+"Burmeistersgade 11, 3. TV1429 KÃ¸benhavn K",1429,2.800.000,12-12-2016,Alm. Salg,53.846,2,Lejlighed,52,1901,0 %,Aktuel vÃ¦rdi,Burmeistersgade,11,1429,55.675103,12.597874
+"Laksegade 28, 21063 KÃ¸benhavn K",1063,2.300.000,12-12-2016,Alm. Salg,41.818,1,Lejlighed,55,1882,-8 %,Aktuel vÃ¦rdi,Laksegade,28,1063,55.678208,12.58528
+"Ved Volden 5, 5. TV1425 KÃ¸benhavn K",1425,4.000.000,23-05-2017,Alm. Salg,43.956,3,Lejlighed,91,1938,0 %,Aktuel vÃ¦rdi,Ved Volden,5,1425,55.671478,12.593675
+"Store Kongensgade 112A, 31264 KÃ¸benhavn K",1264,250.000,15-05-2017,Andet,1.851,2,Lejlighed,135,1860,,Aktuel vÃ¦rdi,Store Kongensgade,112A,1264,55.681908,12.585484
+"Amaliegade 13G, 21256 KÃ¸benhavn K",1256,7.375.000,15-05-2017,Alm. Salg,75.255,3,Lejlighed,98,1948,9 %,Aktuel vÃ¦rdi,Amaliegade,13G,1256,55.681906,12.591854
+"Borgergade 144, 3. TH1300 KÃ¸benhavn K",1300,5.825.000,10-05-2017,Alm. Salg,57.673,3,Lejlighed,101,1854,3 %,Aktuel vÃ¦rdi,Borgergade,144,1300,55.682486,12.583774
+"Wildersgade 22, ST1408 KÃ¸benhavn K",1408,1.556.700,09-05-2017,Alm. Salg,17.689,3,Lejlighed,88,1858,,Aktuel vÃ¦rdi,Wildersgade,22,1408,55.671332,12.587434
+"Toldbodgade 10A, 11253 KÃ¸benhavn K",1253,3.750.000,08-05-2017,Fam. Salg,20.380,5,Lejlighed,184,1862,,Aktuel vÃ¦rdi,Toldbodgade,10A,1253,55.679998,12.591443
+"Store Kongensgade 63A, ST. 41264 KÃ¸benhavn K",1264,1.780.000,03-05-2017,Fam. Salg,18.163,3,Lejlighed,98,1932,,Aktuel vÃ¦rdi,Store Kongensgade,63A,1264,55.681908,12.585484
+"Peder Skrams Gade 28, 2. TV1054 KÃ¸benhavn K",1054,4.080.000,03-05-2017,Alm. Salg,53.684,3,Lejlighed,76,1870,0 %,Aktuel vÃ¦rdia,Peder Skrams Gade,28,1054,55.679029,12.58803
+"Brobergsgade 14, 1. TV1427 KÃ¸benhavn K",1427,2.750.000,02-05-2017,Alm. Salg,55.000,2,Lejlighed,50,1902,-8 %,Aktuel vÃ¦rdi,Brobergsgade,14,1427,55.675307,12.596273
+"Ny Adelgade 9, 2. TH1104 KÃ¸benhavn K",1104,1.950.000,01-05-2017,Alm. Salg,27.857,3,Lejlighed,70,1800,-44 %,Aktuel vÃ¦rdi,Ny Adelgade,9,1104,55.681127,12.584095
+"Fredericiagade 25, 5. 11310 KÃ¸benhavn K",1310,3.150.000,27-04-2017,Alm. Salg,26.694,3,Lejlighed,118,1968,,Aktuel vÃ¦rdi,Fredericiagade,25,1310,55.685114,12.593443
+"David Balfours Gade 3, ST. TV1402 KÃ¸benhavn K",1402,3.100.000,27-04-2017,Alm. Salg,37.349,2,Lejlighed,83,2002,,Aktuel vÃ¦rdi,David Balfours Gade,3,1402,55.671697,12.586487
+"Vimmelskaftet 36A, 3. TH1161 KÃ¸benhavn K",1161,3.695.000,27-04-2017,Alm. Salg,43.988,3,Lejlighed,84,1857,-3 %,Aktuel vÃ¦rdi,Vimmelskaftet,36A,1161,55.678691,12.575533
+"Store Kongensgade 110C, 3. TV1264 KÃ¸benhavn K",1264,3.050.000,27-04-2017,Fam. Salg,25.847,3,Lejlighed,118,1838,,Aktuel vÃ¦rdi,Store Kongensgade,110C,1264,55.681908,12.585484
+"Peder Skrams Gade 27, 3. TH1054 KÃ¸benhavn K",1054,6.250.000,26-04-2017,Alm. Salg,55.803,4,Lejlighed,112,1900,,Aktuel vÃ¦rdi,Peder Skrams Gade,27,1054,55.679029,12.58803
+"Kronprinsessegade 10, 4. TV1306 KÃ¸benhavn K",1306,4.350.000,25-04-2017,Alm. Salg,43.069,3,Lejlighed,101,1803,-3 %,Aktuel vÃ¦rdi,Kronprinsessegade,10,1306,55.682772,12.580998
+"Bartholinsgade 11, 1. TV1356 KÃ¸benhavn K",1356,841.000,25-04-2017,Alm. Salg,16.173,2,Lejlighed,52,1880,,Aktuel vÃ¦rdi,Bartholinsgade,11,1356,55.686543,12.568412
+"Ved Volden 11, 4. TH1425 KÃ¸benhavn K",1425,4.900.000,24-04-2017,Alm. Salg,50.515,4,Lejlighed,97,1938,-2 %,Aktuel vÃ¦rdi,Ved Volden,11,1425,55.671478,12.593675
+Luftmarinegade 381432 KÃ¸benhavn K,1432,2.485.131,24-04-2017,Fam. Salg,18.139,5,RÃ¦kkehus,137,2012,,Aktuel vÃ¦rdi,Luftmarinegade,38,1432,55.685774,12.614857
+"Gernersgade 5, ST. TV1319 KÃ¸benhavn K",1319,1.950.000,21-04-2017,Alm. Salg,52.702,2,Lejlighed,37,1854,,Aktuel vÃ¦rdi,Gernersgade,5,1319,55.687418,12.589667
+"Ahlefeldtsgade 26, 4. TV1359 KÃ¸benhavn K",1359,2.115.000,20-04-2017,Fam. Salg,25.792,3,Lejlighed,82,1888,,Aktuel vÃ¦rdi,Ahlefeldtsgade,26,1359,55.683085,12.566589
+"Nikolajgade 20, 2. TV1068 KÃ¸benhavn K",1068,3.500.000,20-04-2017,Alm. Salg,38.043,4,Lejlighed,92,1799,,Aktuel vÃ¦rdi,Nikolajgade,20,1068,55.678179,12.582634
+"Strandgade 12, 31401 KÃ¸benhavn K",1401,7.170.000,19-04-2017,Alm. Salg,31.447,6,Lejlighed,228,1720,-4 %,Aktuel vÃ¦rdi,Strandgade,12,1401,55.672554,12.587714
+"Torvegade 25, 2. TV1400 KÃ¸benhavn K",1400,2.925.000,16-03-2017,Fam. Salg,26.590,4,Lejlighed,110,1933,,Aktuel vÃ¦rdi,Torvegade,25,1400,55.6732669,12.589392
+Gernersgade 301319 KÃ¸benhavn K,1319,2.201.500,16-03-2017,Alm. Salg,15.838,5,RÃ¦kkehus,139,1730,,Aktuel vÃ¦rdi,Gernersgade,30,1319,55.687418,12.589667
+Gernersgade 281319 KÃ¸benhavn K,1319,2.201.500,16-03-2017,Alm. Salg,15.838,5,RÃ¦kkehus,139,1730,,Aktuel vÃ¦rdi,Gernersgade,28,1319,55.687418,12.589667
+"Gothersgade 93, 1. TH1123 KÃ¸benhavn K",1123,4.400.000,15-03-2017,Alm. Salg,44.444,4,Lejlighed,99,1883,-2 %,Aktuel vÃ¦rdi,Gothersgade,93,1123,55.681482,12.584736
+"Store Kongensgade 53, 1. TV1264 KÃ¸benhavn K",1264,7.000.000,15-03-2017,Alm. Salg,50.724,3,Lejlighed,138,1860,,Aktuel vÃ¦rdi,Store Kongensgade,53,1264,55.681908,12.585484
+"Skindergade 27, 4. TH1159 KÃ¸benhavn K",1159,3.515.000,14-03-2017,Alm. Salg,34.460,5,Lejlighed,102,1820,,Aktuel vÃ¦rdi,Skindergade,27,1159,55.680986,12.576192
+"Skindergade 29, 31159 KÃ¸benhavn K",1159,5.687.000,14-03-2017,Alm. Salg,34.466,3,Lejlighed,165,1820,,Aktuel vÃ¦rdi,Skindergade,29,1159,55.680986,12.576192
+"Skindergade 29, 41159 KÃ¸benhavn K",1159,6.548.000,14-03-2017,Alm. Salg,62.361,4,Lejlighed,105,1820,,Aktuel vÃ¦rdi,Skindergade,29,1159,55.680986,12.576192
+"Gothersgade 17, 41123 KÃ¸benhavn K",1123,3.200.000,14-03-2017,Alm. Salg,34.408,3,Lejlighed,93,1766,-4 %,Aktuel vÃ¦rdi,Gothersgade,17,1123,55.681482,12.584736
+"Sankt Pauls Gade 3, 3. TV1313 KÃ¸benhavn K",1313,2.895.000,14-03-2017,Alm. Salg,46.693,2,Lejlighed,62,1875,0 %,Aktuel vÃ¦rdi,Sankt Pauls Gade,3,1313,55.686943,12.589502
+"Frederiksberggade 25C, 2. TH1459 KÃ¸benhavn K",1459,6.700.000,14-03-2017,Alm. Salg,26.800,4,Lejlighed,250,1900,0 %,Aktuel vÃ¦rdi,Frederiksberggade,25C,1459,55.677616,12.572097
+"Klerkegade 17B, ST. TV1308 KÃ¸benhavn K",1308,3.750.000,13-03-2017,Alm. Salg,52.083,3,Lejlighed,72,1810,0 %,Aktuel vÃ¦rdi,Klerkegade,17B,1308,55.68627,12.585366
+"Fredericiagade 12A, 2. TH1310 KÃ¸benhavn K",1310,1.250.000,13-03-2017,Alm. Salg,16.233,3,Lejlighed,77,1853,,Aktuel vÃ¦rdi,Fredericiagade,12A,1310,55.685114,12.593443
+"Nicolai Eigtveds Gade 34, 2. TV1402 KÃ¸benhavn K",1402,7.300.000,11-03-2017,Alm. Salg,48.993,3,Lejlighed,149,2000,-2 %,Aktuel vÃ¦rdi,Nicolai Eigtveds Gade,34,1402,55.673198,12.587019
+"Nikolaj Plads 9, 3. TH1067 KÃ¸benhavn K",1067,6.200.000,10-03-2017,Alm. Salg,44.285,4,Lejlighed,140,1849,-2 %,Aktuel vÃ¦rdi,Nikolaj Plads,9,1067,55.679325,12.582053
+"Ole Suhrs Gade 17, 4. TH1354 KÃ¸benhavn K",1354,3.250.000,09-03-2017,Alm. Salg,43.918,3,Lejlighed,74,1883,-3 %,Aktuel vÃ¦rdi,Ole Suhrs Gade,17,1354,55.688891,12.573219
+"Fredericiagade 12A, 3. TH1310 KÃ¸benhavn K",1310,1.250.000,09-03-2017,Alm. Salg,16.233,3,Lejlighed,77,1853,,Aktuel vÃ¦rdi,Fredericiagade,12A,1310,55.685114,12.593443
+"Store Kongensgade 69C, 2. TH1264 KÃ¸benhavn K",1264,3.875.000,09-03-2017,Alm. Salg,59.615,2,Lejlighed,65,1908,-2 %,Aktuel vÃ¦rdi,Store Kongensgade,69C,1264,55.681908,12.585484
+"Silkegade 17, 4. TV1113 KÃ¸benhavn K",1113,4.400.000,08-03-2017,Alm. Salg,57.894,2,Lejlighed,76,1902,0 %,Aktuel vÃ¦rdi,Silkegade,17,1113,55.67991,12.579652
+"Dybensgade 22, 3. TH1071 KÃ¸benhavn K",1071,2.011.000,07-03-2017,Alm. Salg,47.880,1,Lejlighed,42,1800,3 %,Aktuel vÃ¦rdi,Dybensgade,22,1071,55.678356,12.58396
+"Store Kongensgade 61A, 21264 KÃ¸benhavn K",1264,3.825.000,07-03-2017,Fam. Salg,21.982,4,Lejlighed,174,1895,,Aktuel vÃ¦rdi,Store Kongensgade,61A,1264,55.681908,12.585484
+"Fredericiagade 21, ST. TH1310 KÃ¸benhavn K",1310,2.650.000,06-03-2017,Alm. Salg,38.405,2,Lejlighed,69,1968,-2 %,Aktuel vÃ¦rdi,Fredericiagade,21,1310,55.685114,12.593443
+"Adelgade 51, 3. TV1304 KÃ¸benhavn K",1304,1.100.000,06-03-2017,Fam. Salg,13.580,3,Lejlighed,81,1957,,Aktuel vÃ¦rdi,Adelgade,51,1304,55.682596,12.582286
+"Klareboderne 6, 21115 KÃ¸benhavn K",1115,1.126.250,06-03-2017,Fam. Salg,10.525,3,Lejlighed,107,1747,,Aktuel vÃ¦rdi,Klareboderne,6,1115,55.68073,12.578138
+"Gammeltoftsgade 12A, 2. TH1355 KÃ¸benhavn K",1355,775.000,06-03-2017,Fam. Salg,10.915,3,Lejlighed,71,1884,,Aktuel vÃ¦rdi,Gammeltoftsgade,12A,1355,55.688669,12.572448
+"Adelgade 49, 2. MF1304 KÃ¸benhavn K",1304,2.655.000,05-03-2017,Alm. Salg,50.094,2,Lejlighed,53,1957,-1 %,Aktuel vÃ¦rdi,Adelgade,49,1304,55.682596,12.582286
+"Nicolai Eigtveds Gade 34, 1. TH1402 KÃ¸benhavn K",1402,9.940.000,05-03-2017,Alm. Salg,44.573,5,Lejlighed,223,2000,-10 %,Aktuel vÃ¦rdi,Nicolai Eigtveds Gade,34,1402,55.673198,12.587019
+"Toldbodgade 36A, 2. TH1253 KÃ¸benhavn K",1253,7.400.000,03-03-2017,Alm. Salg,56.923,2,Lejlighed,130,1783,-7 %,Aktuel vÃ¦rdi,Toldbodgade,36A,1253,55.679998,12.591443
+"Toldbodgade 7, 31253 KÃ¸benhavn K",1253,5.800.000,03-03-2017,Alm. Salg,38.410,4,Lejlighed,151,1850,-3 %,Aktuel vÃ¦rdi,Toldbodgade,7,1253,55.679998,12.591443
+"Overgaden Oven Vandet 20, 21415 KÃ¸benhavn K",1415,3.495.000,02-03-2017,Alm. Salg,41.117,3,Lejlighed,85,1802,-5 %,Aktuel vÃ¦rdi,Overgaden Oven Vandet,20,1415,55.670303,12.587819
+"Stormgade 10B, 21470 KÃ¸benhavn K",1470,7.095.000,02-03-2017,Alm. Salg,33.466,3,Lejlighed,212,1650,0 %,Aktuel vÃ¦rdi,Stormgade,10B,1470,55.675414,12.575123
+"Havnegade 33, 4. TH1058 KÃ¸benhavn K",1058,5.065.000,01-03-2017,Alm. Salg,56.277,2,Lejlighed,90,1870,,Aktuel vÃ¦rdi,Havnegade,33,1058,55.676267,12.586341
+"Nyhavn 31B, 4. TV1051 KÃ¸benhavn K",1051,6.505.000,01-03-2017,Alm. Salg,77.440,1,Anden beboelse,84,1800,-32 %,Aktuel vÃ¦rdi,Nyhavn,31B,1051,55.680077,12.588407
+"Prinsessegade 4A, ST. 551422 KÃ¸benhavn K",1422,2.045.000,28-02-2017,Alm. Salg,40.900,2,Lejlighed,50,1975,-5 %,Aktuel vÃ¦rdi,Prinsessegade,4A,1422,55.670212,12.590794
+"Borgergade 26, 5. 21300 KÃ¸benhavn K",1300,1.900.000,28-02-2017,Fam. Salg,26.388,2,Lejlighed,72,1974,,Aktuel vÃ¦rdi,Borgergade,26,1300,55.682486,12.583774
+"Nicolai Eigtveds Gade 36, ST. TV1402 KÃ¸benhavn K",1402,8.500.000,28-02-2017,Alm. Salg,35.269,5,Lejlighed,241,2000,-1 %,Aktuel vÃ¦rdi,Nicolai Eigtveds Gade,36,1402,55.673198,12.587019
+"Gothersgade 93C, 31123 KÃ¸benhavn K",1123,6.375.000,27-02-2017,Alm. Salg,40.605,4,Lejlighed,157,1883,-6 %,Aktuel vÃ¦rdi,Gothersgade,93C,1123,55.681482,12.584736
+"Galionsvej 5, 2. 241437 KÃ¸benhavn K",1437,6.750.000,27-02-2017,Alm. Salg,65.533,3,Lejlighed,103,1952,9 %,Aktuel vÃ¦rdi,Galionsvej,5,1437,55.680713,12.602161
+Wildersgade 171408 KÃ¸benhavn K,1408,7.800.000,24-02-2017,Alm. Salg,60.465,4,Villa,129,1750,-13 %,Aktuel vÃ¦rdi,Wildersgade,17,1408,55.671332,12.587434
+"Sankt Pauls Gade 70, 2. TV1313 KÃ¸benhavn K",1313,1.615.000,23-02-2017,Fam. Salg,21.533,3,Lejlighed,75,1880,,Aktuel vÃ¦rdi,Sankt Pauls Gade,70,1313,55.686943,12.589502
+"Vendersgade 10A, ST1363 KÃ¸benhavn K",1363,3.050.000,23-02-2017,Alm. Salg,44.852,2,Lejlighed,68,1878,2 %,Aktuel vÃ¦rdi,Vendersgade,10A,1363,55.683069,12.570591
+Luftmarinegade 1621432 KÃ¸benhavn K,1432,6.000.000,23-02-2017,Alm. Salg,43.795,5,RÃ¦kkehus,137,2012,,Aktuel vÃ¦rdi,Luftmarinegade,162,1432,55.685774,12.614857
+"Silkegade 15, 1. MF1113 KÃ¸benhavn K",1113,4.600.000,22-02-2017,Alm. Salg,50.549,3,Lejlighed,91,1902,-5 %,Aktuel vÃ¦rdi,Silkegade,15,1113,55.67991,12.579652
+"Torvegade 54, 21400 KÃ¸benhavn K",1400,4.495.000,21-02-2017,Alm. Salg,39.429,3,Lejlighed,114,1903,0 %,Aktuel vÃ¦rdi,Torvegade,54,1400,55.6732669,12.589392
+"Ny Adelgade 9, 4. TH1104 KÃ¸benhavn K",1104,2.826.000,21-02-2017,Alm. Salg,57.673,2,Lejlighed,49,1800,5 %,Aktuel vÃ¦rdi,Ny Adelgade,9,1104,55.681127,12.584095
+"Christianshavns Voldgade 19, ST. TV1424 KÃ¸benhavn K",1424,2.795.000,21-02-2017,Alm. Salg,43.671,2,Lejlighed,64,1914,-3 %,Aktuel vÃ¦rdi,Christianshavns Voldgade,19,1424,55.670011,12.588385
+"Burmeistersgade 13, 5. TH1429 KÃ¸benhavn K",1429,2.700.000,20-02-2017,Alm. Salg,58.695,2,Lejlighed,46,1901,0 %,Aktuel vÃ¦rdi,Burmeistersgade,13,1429,55.675103,12.597874
+"Prinsessegade 17A, ST. TH1422 KÃ¸benhavn K",1422,1.950.000,20-02-2017,Alm. Salg,42.391,2,Lejlighed,46,1903,-2 %,Aktuel vÃ¦rdi,Prinsessegade,17A,1422,55.670212,12.590794
+"Overgaden Oven Vandet 46, ST. TH1415 KÃ¸benhavn K",1415,3.100.000,19-02-2017,Alm. Salg,42.465,2,Lejlighed,73,1938,-6 %,Aktuel vÃ¦rdi,Overgaden Oven Vandet,46,1415,55.670303,12.587819
+"Gothersgade 154, 5. TV1123 KÃ¸benhavn K",1123,3.995.000,19-02-2017,Alm. Salg,57.071,2,Lejlighed,70,1879,0 %,Aktuel vÃ¦rdi,Gothersgade,154,1123,55.681482,12.584736
+"Esplanaden 24, 1. TH1263 KÃ¸benhavn K",1263,6.250.000,18-02-2017,Alm. Salg,53.418,3,Lejlighed,117,1876,-7 %,Aktuel vÃ¦rdi,Esplanaden,24,1263,55.687225,12.590465
+"Prinsessegade 2B, ST. 761422 KÃ¸benhavn K",1422,2.110.000,12-02-2017,Alm. Salg,41.372,2,Lejlighed,51,1975,-6 %,Aktuel vÃ¦rdi,Prinsessegade,2B,1422,55.670212,12.590794
+"Dybensgade 22, ST. TH1071 KÃ¸benhavn K",1071,2.700.000,11-02-2017,Alm. Salg,36.986,3,Lejlighed,73,1800,-10 %,Aktuel vÃ¦rdi,Dybensgade,22,1071,55.678356,12.58396
+"Kronprinsessegade 46B, 11306 KÃ¸benhavn K",1306,12.800.000,09-02-2017,Alm. Salg,51.612,4,Lejlighed,248,1807,-4 %,Aktuel vÃ¦rdi,Kronprinsessegade,46B,1306,55.682772,12.580998
+"Gothersgade 155, 3. TV1123 KÃ¸benhavn K",1123,6.500.000,09-02-2017,Alm. Salg,43.333,5,Lejlighed,150,1877,,Aktuel vÃ¦rdi,Gothersgade,155,1123,55.681482,12.584736
+"Wildersgade 3, 51408 KÃ¸benhavn K",1408,2.150.000,08-02-2017,Fam. Salg,13.607,4,Lejlighed,158,2002,,Aktuel vÃ¦rdi,Wildersgade,3,1408,55.671332,12.587434
+"Johan Semps Gade 9, 4. MF1402 KÃ¸benhavn K",1402,4.800.000,06-02-2017,Alm. Salg,50.526,2,Lejlighed,95,2003,-4 %,Aktuel vÃ¦rdi,Johan Semps Gade,9,1402,55.671857,12.586877
+"Wildersgade 60A, 2. 31408 KÃ¸benhavn K",1408,4.550.000,05-02-2017,Alm. Salg,49.456,2,Lejlighed,92,1802,-1 %,Aktuel vÃ¦rdi,Wildersgade,60A,1408,55.671332,12.587434
+"Ved Volden 7, 4. TV1425 KÃ¸benhavn K",1425,4.395.000,05-02-2017,Alm. Salg,48.296,3,Lejlighed,91,1938,0 %,Aktuel vÃ¦rdi,Ved Volden,7,1425,55.671478,12.593675
+"Nyhavn 31F, ST. TV1051 KÃ¸benhavn K",1051,5.995.000,04-02-2017,Alm. Salg,56.028,1,Lejlighed,107,1918,,Aktuel vÃ¦rdi,Nyhavn,31F,1051,55.680077,12.588407
+"Strandgade 83, 5. TV1401 KÃ¸benhavn K",1401,16.500.000,03-02-2017,Alm. Salg,59.782,4,Lejlighed,276,2015,-3 %,Aktuel vÃ¦rdi,Strandgade,83,1401,55.672554,12.587714
+"Dronningensgade 59, 4. TV1420 KÃ¸benhavn K",1420,2.895.000,02-02-2017,Alm. Salg,54.622,1,Lejlighed,53,1938,0 %,Aktuel vÃ¦rdi,Dronningensgade,59,1420,55.670232,12.588866
+Wildersgade 131408 KÃ¸benhavn K,1408,6.500.000,02-02-2017,Alm. Salg,49.242,4,RÃ¦kkehus,132,1700,-7 %,Aktuel vÃ¦rdi,Wildersgade,13,1408,55.671332,12.587434
+"Borgergade 144, 5. TV1300 KÃ¸benhavn K",1300,2.690.000,02-02-2017,Alm. Salg,45.593,2,Lejlighed,59,1854,,Aktuel vÃ¦rdi,Borgergade,144,1300,55.682486,12.583774
+"Stormgade 10B, 11470 KÃ¸benhavn K",1470,6.995.000,01-02-2017,Alm. Salg,45.129,3,Lejlighed,155,1650,,Aktuel vÃ¦rdi,Stormgade,10B,1470,55.675414,12.575123
+"Cort Adelers Gade 1, 1. TH1053 KÃ¸benhavn K",1053,8.770.000,30-01-2017,Alm. Salg,42.572,5,Lejlighed,206,1873,0 %,Aktuel vÃ¦rdi,Cort Adelers Gade,1,1053,55.678287,12.590375
+"Gothersgade 95, 4. TV1123 KÃ¸benhavn K",1123,6.000.000,29-01-2017,Alm. Salg,45.454,5,Lejlighed,132,1883,-2 %,Aktuel vÃ¦rdi,Gothersgade,95,1123,55.681482,12.584736
+"Ny Adelgade 9, 3. TH1104 KÃ¸benhavn K",1104,3.000.000,27-01-2017,Fam. Salg,42.857,3,Lejlighed,70,1800,,Aktuel vÃ¦rdi,Ny Adelgade,9,1104,55.681127,12.584095
+"Overgaden Neden Vandet 39, ST1414 KÃ¸benhavn K",1414,6.700.000,27-01-2017,Alm. Salg,42.405,3,Lejlighed,158,1777,-4 %,Aktuel vÃ¦rdi,Overgaden Neden Vandet,39,1414,55.671082,12.587917
+Rigensgade 21316 KÃ¸benhavn K,1316,891.250,27-01-2017,Fam. Salg,12.916,3,Lejlighed,69,1925,,Aktuel vÃ¦rdi,Rigensgade,2,1316,55.686768,12.581981
+Strandgade 42A1401 KÃ¸benhavn K,1401,3.925.000,27-01-2017,Alm. Salg,46.176,3,Lejlighed,85,1700,-8 %,Aktuel vÃ¦rdi,Strandgade,42A,1401,55.672554,12.587714
+"Hammerensgade 3, ST. MF1267 KÃ¸benhavn K",1267,2.795.000,26-01-2017,Alm. Salg,53.750,2,Lejlighed,52,1925,,Aktuel vÃ¦rdi,Hammerensgade,3,1267,55.688109,12.590263
+"Snaregade 4, 11205 KÃ¸benhavn K",1205,7.150.000,25-01-2017,Alm. Salg,37.631,5,Lejlighed,190,1802,-5 %,Aktuel vÃ¦rdi,Snaregade,4,1205,55.677304,12.576943
+"Overgaden Oven Vandet 44, 3. TV1415 KÃ¸benhavn K",1415,6.500.000,24-01-2017,Alm. Salg,58.035,4,Lejlighed,112,1938,,Aktuel vÃ¦rdi,Overgaden Oven Vandet,44,1415,55.670303,12.587819
+"Ved Volden 9, 5. TV1425 KÃ¸benhavn K",1425,2.595.000,23-01-2017,Alm. Salg,47.181,2,Lejlighed,55,1938,0 %,Aktuel vÃ¦rdi,Ved Volden,9,1425,55.671478,12.593675
+"Prinsessegade 17A, 51422 KÃ¸benhavn K",1422,2.495.000,23-01-2017,Alm. Salg,53.085,2,Lejlighed,47,1903,0 %,Aktuel vÃ¦rdi,Prinsessegade,17A,1422,55.670212,12.590794
+"Store Kongensgade 53, 4. TH1264 KÃ¸benhavn K",1264,6.700.000,23-01-2017,Alm. Salg,54.918,3,Lejlighed,122,1860,0 %,Aktuel vÃ¦rdi,Store Kongensgade,53,1264,55.681908,12.585484
+"Burmeistersgade 7, 2. TV1429 KÃ¸benhavn K",1429,2.885.000,21-01-2017,Alm. Salg,55.480,2,Lejlighed,52,1901,,Aktuel vÃ¦rdi,Burmeistersgade,7,1429,55.675103,12.597874
+"Ved Volden 11, 3. TV1425 KÃ¸benhavn K",1425,2.100.000,20-01-2017,Fam. Salg,21.212,4,Lejlighed,99,1938,,Aktuel vÃ¦rdi,Ved Volden,11,1425,55.671478,12.593675
+"Bodenhoffs Plads 8, 4. TH1430 KÃ¸benhavn K",1430,4.400.000,20-01-2017,Alm. Salg,51.764,3,Lejlighed,85,1901,-6 %,Aktuel vÃ¦rdi,Bodenhoffs Plads,8,1430,55.676569,12.598234
+"Store Kongensgade 75C, 5. TV1264 KÃ¸benhavn K",1264,5.000.000,20-01-2017,Alm. Salg,34.722,3,Lejlighed,144,1850,,Aktuel vÃ¦rdi,Store Kongensgade,75C,1264,55.681908,12.585484
+Margretheholmsvej 91432 KÃ¸benhavn K,1432,4.950.000,20-01-2017,Alm. Salg,35.869,4,RÃ¦kkehus,138,2016,-1 %,Aktuel vÃ¦rdi,Margretheholmsvej,9,1432,55.68335,12.615138
+"Kronprinsessegade 10, 4. TH1306 KÃ¸benhavn K",1306,3.850.000,19-01-2017,Alm. Salg,31.818,3,Lejlighed,121,1803,-10 %,Aktuel vÃ¦rdi,Kronprinsessegade,10,1306,55.682772,12.580998
+"Sankt Pauls Gade 3, 4. TH1313 KÃ¸benhavn K",1313,2.610.000,19-01-2017,Alm. Salg,56.739,2,Lejlighed,46,1875,-3 %,Aktuel vÃ¦rdi,Sankt Pauls Gade,3,1313,55.686943,12.589502
+"Nyhavn 31J, 2. TV1051 KÃ¸benhavn K",1051,5.200.000,18-01-2017,Alm. Salg,52.000,3,Lejlighed,100,1800,-2 %,Aktuel vÃ¦rdi,Nyhavn,31J,1051,55.680077,12.588407
+"Johan Semps Gade 9, 3. TV1402 KÃ¸benhavn K",1402,5.275.000,17-01-2017,Alm. Salg,45.085,3,Lejlighed,117,2003,,Aktuel vÃ¦rdi,Johan Semps Gade,9,1402,55.671857,12.586877
+"Rosenborggade 9, 31130 KÃ¸benhavn K",1130,4.100.000,17-01-2017,Alm. Salg,50.000,4,Lejlighed,82,1847,,Aktuel vÃ¦rdi,Rosenborggade,9,1130,55.683178,12.573453
+"Nyhavn 14, 31051 KÃ¸benhavn K",1051,9.600.000,17-01-2017,Alm. Salg,63.576,3,Lejlighed,151,1770,-4 %,Aktuel vÃ¦rdi,Nyhavn,14,1051,55.680077,12.588407
+"Silkegade 19, 21113 KÃ¸benhavn K",1113,7.300.000,17-01-2017,Alm. Salg,40.782,4,Lejlighed,179,1902,-1 %,Aktuel vÃ¦rdi,Silkegade,19,1113,55.67991,12.579652
+"Toldbodgade 2, 3. TH1253 KÃ¸benhavn K",1253,6.200.000,16-01-2017,Alm. Salg,43.055,5,Lejlighed,144,1852,-2 %,Aktuel vÃ¦rdi,Toldbodgade,2,1253,55.679998,12.591443
+"Toldbodgade 29C, 1. TV1253 KÃ¸benhavn K",1253,7.400.000,16-01-2017,Alm. Salg,45.679,2,Lejlighed,162,1887,-1 %,Aktuel vÃ¦rdi,Toldbodgade,29C,1253,55.679998,12.591443
+"Nikolajgade 20, 2. TH1068 KÃ¸benhavn K",1068,3.350.000,15-01-2017,Alm. Salg,39.880,4,Lejlighed,84,1799,,Aktuel vÃ¦rdi,Nikolajgade,20,1068,55.678179,12.582634
+"Store Kongensgade 64, 11264 KÃ¸benhavn K",1264,4.875.000,13-01-2017,Alm. Salg,37.790,5,Lejlighed,129,1750,-2 %,Aktuel vÃ¦rdi,Store Kongensgade,64,1264,55.681908,12.585484
+"Peder Skrams Gade 27, 2. TH1054 KÃ¸benhavn K",1054,5.075.000,13-01-2017,Alm. Salg,45.312,4,Lejlighed,112,1900,-2 %,Aktuel vÃ¦rdi,Peder Skrams Gade,27,1054,55.679029,12.58803
+"Ved Volden 6, 4. TV1425 KÃ¸benhavn K",1425,875.000,05-01-2017,Fam. Salg,8.333,4,Lejlighed,105,1938,,Aktuel vÃ¦rdi,Ved Volden,6,1425,55.671478,12.593675
+Amaliegade 9 B st1256 KÃ¸benhavn K,1256,14.850.000,04-01-2017,Alm. Salg,-,-,"Ejerlejl., forretning",-,-,,,Amaliegade,9,1256,55.681906,12.591854
+"Nicolai Eigtveds Gade 36, 4. TV1402 KÃ¸benhavn K",1402,9.500.000,03-01-2017,Alm. Salg,52.777,4,Lejlighed,180,2000,-5 %,Aktuel vÃ¦rdi,Nicolai Eigtveds Gade,36,1402,55.673198,12.587019
+"Silkegade 17, 1. TV1113 KÃ¸benhavn K",1113,2.250.000,03-01-2017,Fam. Salg,20.833,2,Lejlighed,108,1902,,Aktuel vÃ¦rdi,Silkegade,17,1113,55.67991,12.579652
+Luftmarinegade 781432 KÃ¸benhavn K,1432,5.400.000,03-01-2017,Alm. Salg,39.416,5,RÃ¦kkehus,137,2012,-4 %,Aktuel vÃ¦rdi,Luftmarinegade,78,1432,55.685774,12.614857
+"Strandgade 79, 1. 11401 KÃ¸benhavn K",1401,10.214.572,02-01-2017,Fam. Salg,44.411,4,Lejlighed,230,2015,-45 %,Aktuel vÃ¦rdi,Strandgade,79,1401,55.672554,12.587714
+"Burmeistersgade 25, 3. TH1429 KÃ¸benhavn K",1429,1.798.000,01-01-2017,Fam. Salg,33.924,2,Lejlighed,53,1901,,Aktuel vÃ¦rdi,Burmeistersgade,25,1429,55.675103,12.597874
+"Ny Kongensgade 14, 2. 31472 KÃ¸benhavn K",1472,2.525.000,29-12-2016,Fam. Salg,42.083,2,Lejlighed,60,1934,,Aktuel vÃ¦rdi,Ny Kongensgade,14,1472,55.673864,12.576921
+"Lille Kongensgade 4, 2. TH1074 KÃ¸benhavn K",1074,4.750.000,29-12-2016,Alm. Salg,50.531,3,Lejlighed,94,1767,,Aktuel vÃ¦rdi,Lille Kongensgade,4,1074,55.679566,12.584547
+"Ole Suhrs Gade 17, 3. TV1354 KÃ¸benhavn K",1354,4.100.000,28-12-2016,Alm. Salg,49.397,3,Lejlighed,83,1883,-5 %,Aktuel vÃ¦rdi,Ole Suhrs Gade,17,1354,55.688891,12.573219
+"Esplanaden 24, 4. TH1263 KÃ¸benhavn K",1263,4.680.000,28-12-2016,Andet,40.344,4,Lejlighed,116,1876,,Aktuel vÃ¦rdi,Esplanaden,24,1263,55.687225,12.590465
+Gernersgade 421319 KÃ¸benhavn K,1319,8.495.000,28-12-2016,Alm. Salg,62.925,5,Lejlighed,135,1730,,Aktuel vÃ¦rdi,Gernersgade,42,1319,55.687418,12.589667
+Luftmarinegade 1601432 KÃ¸benhavn K,1432,5.875.000,28-12-2016,Alm. Salg,42.883,5,RÃ¦kkehus,137,2012,,Aktuel vÃ¦rdi,Luftmarinegade,160,1432,55.685774,12.614857
+"Snaregade 8, 41205 KÃ¸benhavn K",1205,1.328.100,27-12-2016,Alm. Salg,15.443,1,Lejlighed,86,1807,,Aktuel vÃ¦rdi,Snaregade,8,1205,55.677304,12.576943
+"Boldhusgade 2, 41062 KÃ¸benhavn K",1062,5.275.000,22-12-2016,Alm. Salg,46.681,4,Lejlighed,113,1796,,Aktuel vÃ¦rdi,Boldhusgade,2,1062,55.677552,12.582083
+"Gothersgade 93C, ST1123 KÃ¸benhavn K",1123,3.425.000,22-12-2016,Alm. Salg,34.948,2,Lejlighed,98,1883,-5 %,Aktuel vÃ¦rdi,Gothersgade,93C,1123,55.681482,12.584736
+"Vendersgade 10, 4. TH1363 KÃ¸benhavn K",1363,2.422.500,21-12-2016,Fam. Salg,21.250,4,Lejlighed,114,1878,,Aktuel vÃ¦rdi,Vendersgade,10,1363,55.683069,12.570591
+"Kronprinsessegade 14, 31306 KÃ¸benhavn K",1306,12.815.000,19-12-2016,Alm. Salg,44.807,7,Lejlighed,286,1805,,Aktuel vÃ¦rdi,Kronprinsessegade,14,1306,55.682772,12.580998
+"Laksegade 20E, 11063 KÃ¸benhavn K",1063,3.825.000,19-12-2016,Alm. Salg,51.000,2,Lejlighed,75,1797,-4 %,Aktuel vÃ¦rdi,Laksegade,20E,1063,55.678208,12.58528
+"Gothersgade 147, 1. TV1123 KÃ¸benhavn K",1123,3.425.000,16-12-2016,Alm. Salg,50.367,3,Lejlighed,68,1877,-2 %,Aktuel vÃ¦rdi,Gothersgade,147,1123,55.681482,12.584736
+"Prinsessegade 17B, 4. TV1422 KÃ¸benhavn K",1422,3.170.000,15-12-2016,Alm. Salg,51.967,3,Lejlighed,61,1903,,Aktuel vÃ¦rdi,Prinsessegade,17B,1422,55.670212,12.590794
+"Brobergsgade 16, 4. TH1427 KÃ¸benhavn K",1427,3.850.000,15-12-2016,Alm. Salg,53.472,2,Lejlighed,72,1902,-4 %,Aktuel vÃ¦rdi,Brobergsgade,16,1427,55.675307,12.596273
+"Nyhavn 23, 41051 KÃ¸benhavn K",1051,8.050.000,15-12-2016,Alm. Salg,48.493,4,Lejlighed,166,1700,3 %,Aktuel vÃ¦rdi,Nyhavn,23,1051,55.680077,12.588407
+"Kattesundet 14A, 31458 KÃ¸benhavn K",1458,3.125.000,14-12-2016,Alm. Salg,32.894,3,Lejlighed,95,1784,-5 %,Aktuel vÃ¦rdi,Kattesundet,14A,1458,55.677546,12.570306
+"Burmeistersgade 11, 3. TV1429 KÃ¸benhavn K",1429,2.800.000,12-12-2016,Alm. Salg,53.846,2,Lejlighed,52,1901,0 %,Aktuel vÃ¦rdi,Burmeistersgade,11,1429,55.675103,12.597874
+"Laksegade 28, 21063 KÃ¸benhavn K",1063,2.300.000,12-12-2016,Alm. Salg,41.818,1,Lejlighed,55,1882,-8 %,Aktuel vÃ¦rdi,Laksegade,28,1063,55.678208,12.58528
+"Ved Volden 5, 5. TV1425 KÃ¸benhavn K",1425,4.000.000,23-05-2017,Alm. Salg,43.956,3,Lejlighed,91,1938,0 %,Aktuel vÃ¦rdi,Ved Volden,5,1425,55.671478,12.593675
+"Store Kongensgade 112A, 31264 KÃ¸benhavn K",1264,250.000,15-05-2017,Andet,1.851,2,Lejlighed,135,1860,,Aktuel vÃ¦rdi,Store Kongensgade,112A,1264,55.681908,12.585484
+"Amaliegade 13G, 21256 KÃ¸benhavn K",1256,7.375.000,15-05-2017,Alm. Salg,75.255,3,Lejlighed,98,1948,9 %,Aktuel vÃ¦rdi,Amaliegade,13G,1256,55.681906,12.591854
+"Borgergade 144, 3. TH1300 KÃ¸benhavn K",1300,5.825.000,10-05-2017,Alm. Salg,57.673,3,Lejlighed,101,1854,3 %,Aktuel vÃ¦rdi,Borgergade,144,1300,55.682486,12.583774
+"Wildersgade 22, ST1408 KÃ¸benhavn K",1408,1.556.700,09-05-2017,Alm. Salg,17.689,3,Lejlighed,88,1858,,Aktuel vÃ¦rdi,Wildersgade,22,1408,55.671332,12.587434
+"Toldbodgade 10A, 11253 KÃ¸benhavn K",1253,3.750.000,08-05-2017,Fam. Salg,20.380,5,Lejlighed,184,1862,,Aktuel vÃ¦rdi,Toldbodgade,10A,1253,55.679998,12.591443
+"Store Kongensgade 63A, ST. 41264 KÃ¸benhavn K",1264,1.780.000,03-05-2017,Fam. Salg,18.163,3,Lejlighed,98,1932,,Aktuel vÃ¦rdi,Store Kongensgade,63A,1264,55.681908,12.585484
+"Peder Skrams Gade 28, 2. TV1054 KÃ¸benhavn K",1054,4.080.000,03-05-2017,Alm. Salg,53.684,3,Lejlighed,76,1870,0 %,Aktuel vÃ¦rdia,Peder Skrams Gade,28,1054,55.679029,12.58803
+"Brobergsgade 14, 1. TV1427 KÃ¸benhavn K",1427,2.750.000,02-05-2017,Alm. Salg,55.000,2,Lejlighed,50,1902,-8 %,Aktuel vÃ¦rdi,Brobergsgade,14,1427,55.675307,12.596273
+"Ny Adelgade 9, 2. TH1104 KÃ¸benhavn K",1104,1.950.000,01-05-2017,Alm. Salg,27.857,3,Lejlighed,70,1800,-44 %,Aktuel vÃ¦rdi,Ny Adelgade,9,1104,55.681127,12.584095
+"Fredericiagade 25, 5. 11310 KÃ¸benhavn K",1310,3.150.000,27-04-2017,Alm. Salg,26.694,3,Lejlighed,118,1968,,Aktuel vÃ¦rdi,Fredericiagade,25,1310,55.685114,12.593443
+"David Balfours Gade 3, ST. TV1402 KÃ¸benhavn K",1402,3.100.000,27-04-2017,Alm. Salg,37.349,2,Lejlighed,83,2002,,Aktuel vÃ¦rdi,David Balfours Gade,3,1402,55.671697,12.586487
+"Vimmelskaftet 36A, 3. TH1161 KÃ¸benhavn K",1161,3.695.000,27-04-2017,Alm. Salg,43.988,3,Lejlighed,84,1857,-3 %,Aktuel vÃ¦rdi,Vimmelskaftet,36A,1161,55.678691,12.575533
+"Store Kongensgade 110C, 3. TV1264 KÃ¸benhavn K",1264,3.050.000,27-04-2017,Fam. Salg,25.847,3,Lejlighed,118,1838,,Aktuel vÃ¦rdi,Store Kongensgade,110C,1264,55.681908,12.585484
+"Peder Skrams Gade 27, 3. TH1054 KÃ¸benhavn K",1054,6.250.000,26-04-2017,Alm. Salg,55.803,4,Lejlighed,112,1900,,Aktuel vÃ¦rdi,Peder Skrams Gade,27,1054,55.679029,12.58803
+"Kronprinsessegade 10, 4. TV1306 KÃ¸benhavn K",1306,4.350.000,25-04-2017,Alm. Salg,43.069,3,Lejlighed,101,1803,-3 %,Aktuel vÃ¦rdi,Kronprinsessegade,10,1306,55.682772,12.580998
+"Bartholinsgade 11, 1. TV1356 KÃ¸benhavn K",1356,841.000,25-04-2017,Alm. Salg,16.173,2,Lejlighed,52,1880,,Aktuel vÃ¦rdi,Bartholinsgade,11,1356,55.686543,12.568412
+"Ved Volden 11, 4. TH1425 KÃ¸benhavn K",1425,4.900.000,24-04-2017,Alm. Salg,50.515,4,Lejlighed,97,1938,-2 %,Aktuel vÃ¦rdi,Ved Volden,11,1425,55.671478,12.593675
+Luftmarinegade 381432 KÃ¸benhavn K,1432,2.485.131,24-04-2017,Fam. Salg,18.139,5,RÃ¦kkehus,137,2012,,Aktuel vÃ¦rdi,Luftmarinegade,38,1432,55.685774,12.614857
+"Gernersgade 5, ST. TV1319 KÃ¸benhavn K",1319,1.950.000,21-04-2017,Alm. Salg,52.702,2,Lejlighed,37,1854,,Aktuel vÃ¦rdi,Gernersgade,5,1319,55.687418,12.589667
+"Ahlefeldtsgade 26, 4. TV1359 KÃ¸benhavn K",1359,2.115.000,20-04-2017,Fam. Salg,25.792,3,Lejlighed,82,1888,,Aktuel vÃ¦rdi,Ahlefeldtsgade,26,1359,55.683085,12.566589
+"Nikolajgade 20, 2. TV1068 KÃ¸benhavn K",1068,3.500.000,20-04-2017,Alm. Salg,38.043,4,Lejlighed,92,1799,,Aktuel vÃ¦rdi,Nikolajgade,20,1068,55.678179,12.582634
+"Strandgade 12, 31401 KÃ¸benhavn K",1401,7.170.000,19-04-2017,Alm. Salg,31.447,6,Lejlighed,228,1720,-4 %,Aktuel vÃ¦rdi,Strandgade,12,1401,55.672554,12.587714
+"Torvegade 25, 2. TV1400 KÃ¸benhavn K",1400,2.925.000,16-03-2017,Fam. Salg,26.590,4,Lejlighed,110,1933,,Aktuel vÃ¦rdi,Torvegade,25,1400,55.6732669,12.589392
+Gernersgade 301319 KÃ¸benhavn K,1319,2.201.500,16-03-2017,Alm. Salg,15.838,5,RÃ¦kkehus,139,1730,,Aktuel vÃ¦rdi,Gernersgade,30,1319,55.687418,12.589667
+Gernersgade 281319 KÃ¸benhavn K,1319,2.201.500,16-03-2017,Alm. Salg,15.838,5,RÃ¦kkehus,139,1730,,Aktuel vÃ¦rdi,Gernersgade,28,1319,55.687418,12.589667
+"Gothersgade 93, 1. TH1123 KÃ¸benhavn K",1123,4.400.000,15-03-2017,Alm. Salg,44.444,4,Lejlighed,99,1883,-2 %,Aktuel vÃ¦rdi,Gothersgade,93,1123,55.681482,12.584736
+"Store Kongensgade 53, 1. TV1264 KÃ¸benhavn K",1264,7.000.000,15-03-2017,Alm. Salg,50.724,3,Lejlighed,138,1860,,Aktuel vÃ¦rdi,Store Kongensgade,53,1264,55.681908,12.585484
+"Skindergade 27, 4. TH1159 KÃ¸benhavn K",1159,3.515.000,14-03-2017,Alm. Salg,34.460,5,Lejlighed,102,1820,,Aktuel vÃ¦rdi,Skindergade,27,1159,55.680986,12.576192
+"Skindergade 29, 31159 KÃ¸benhavn K",1159,5.687.000,14-03-2017,Alm. Salg,34.466,3,Lejlighed,165,1820,,Aktuel vÃ¦rdi,Skindergade,29,1159,55.680986,12.576192
+"Skindergade 29, 41159 KÃ¸benhavn K",1159,6.548.000,14-03-2017,Alm. Salg,62.361,4,Lejlighed,105,1820,,Aktuel vÃ¦rdi,Skindergade,29,1159,55.680986,12.576192
+"Gothersgade 17, 41123 KÃ¸benhavn K",1123,3.200.000,14-03-2017,Alm. Salg,34.408,3,Lejlighed,93,1766,-4 %,Aktuel vÃ¦rdi,Gothersgade,17,1123,55.681482,12.584736
+"Sankt Pauls Gade 3, 3. TV1313 KÃ¸benhavn K",1313,2.895.000,14-03-2017,Alm. Salg,46.693,2,Lejlighed,62,1875,0 %,Aktuel vÃ¦rdi,Sankt Pauls Gade,3,1313,55.686943,12.589502
+"Frederiksberggade 25C, 2. TH1459 KÃ¸benhavn K",1459,6.700.000,14-03-2017,Alm. Salg,26.800,4,Lejlighed,250,1900,0 %,Aktuel vÃ¦rdi,Frederiksberggade,25C,1459,55.677616,12.572097
+"Klerkegade 17B, ST. TV1308 KÃ¸benhavn K",1308,3.750.000,13-03-2017,Alm. Salg,52.083,3,Lejlighed,72,1810,0 %,Aktuel vÃ¦rdi,Klerkegade,17B,1308,55.68627,12.585366
+"Fredericiagade 12A, 2. TH1310 KÃ¸benhavn K",1310,1.250.000,13-03-2017,Alm. Salg,16.233,3,Lejlighed,77,1853,,Aktuel vÃ¦rdi,Fredericiagade,12A,1310,55.685114,12.593443
+"Nicolai Eigtveds Gade 34, 2. TV1402 KÃ¸benhavn K",1402,7.300.000,11-03-2017,Alm. Salg,48.993,3,Lejlighed,149,2000,-2 %,Aktuel vÃ¦rdi,Nicolai Eigtveds Gade,34,1402,55.673198,12.587019
+"Nikolaj Plads 9, 3. TH1067 KÃ¸benhavn K",1067,6.200.000,10-03-2017,Alm. Salg,44.285,4,Lejlighed,140,1849,-2 %,Aktuel vÃ¦rdi,Nikolaj Plads,9,1067,55.679325,12.582053
+"Ole Suhrs Gade 17, 4. TH1354 KÃ¸benhavn K",1354,3.250.000,09-03-2017,Alm. Salg,43.918,3,Lejlighed,74,1883,-3 %,Aktuel vÃ¦rdi,Ole Suhrs Gade,17,1354,55.688891,12.573219
+"Fredericiagade 12A, 3. TH1310 KÃ¸benhavn K",1310,1.250.000,09-03-2017,Alm. Salg,16.233,3,Lejlighed,77,1853,,Aktuel vÃ¦rdi,Fredericiagade,12A,1310,55.685114,12.593443
+"Store Kongensgade 69C, 2. TH1264 KÃ¸benhavn K",1264,3.875.000,09-03-2017,Alm. Salg,59.615,2,Lejlighed,65,1908,-2 %,Aktuel vÃ¦rdi,Store Kongensgade,69C,1264,55.681908,12.585484
+"Silkegade 17, 4. TV1113 KÃ¸benhavn K",1113,4.400.000,08-03-2017,Alm. Salg,57.894,2,Lejlighed,76,1902,0 %,Aktuel vÃ¦rdi,Silkegade,17,1113,55.67991,12.579652
+"Dybensgade 22, 3. TH1071 KÃ¸benhavn K",1071,2.011.000,07-03-2017,Alm. Salg,47.880,1,Lejlighed,42,1800,3 %,Aktuel vÃ¦rdi,Dybensgade,22,1071,55.678356,12.58396
+"Store Kongensgade 61A, 21264 KÃ¸benhavn K",1264,3.825.000,07-03-2017,Fam. Salg,21.982,4,Lejlighed,174,1895,,Aktuel vÃ¦rdi,Store Kongensgade,61A,1264,55.681908,12.585484
+"Fredericiagade 21, ST. TH1310 KÃ¸benhavn K",1310,2.650.000,06-03-2017,Alm. Salg,38.405,2,Lejlighed,69,1968,-2 %,Aktuel vÃ¦rdi,Fredericiagade,21,1310,55.685114,12.593443
+"Adelgade 51, 3. TV1304 KÃ¸benhavn K",1304,1.100.000,06-03-2017,Fam. Salg,13.580,3,Lejlighed,81,1957,,Aktuel vÃ¦rdi,Adelgade,51,1304,55.682596,12.582286
+"Klareboderne 6, 21115 KÃ¸benhavn K",1115,1.126.250,06-03-2017,Fam. Salg,10.525,3,Lejlighed,107,1747,,Aktuel vÃ¦rdi,Klareboderne,6,1115,55.68073,12.578138
+"Gammeltoftsgade 12A, 2. TH1355 KÃ¸benhavn K",1355,775.000,06-03-2017,Fam. Salg,10.915,3,Lejlighed,71,1884,,Aktuel vÃ¦rdi,Gammeltoftsgade,12A,1355,55.688669,12.572448
+"Adelgade 49, 2. MF1304 KÃ¸benhavn K",1304,2.655.000,05-03-2017,Alm. Salg,50.094,2,Lejlighed,53,1957,-1 %,Aktuel vÃ¦rdi,Adelgade,49,1304,55.682596,12.582286
+"Nicolai Eigtveds Gade 34, 1. TH1402 KÃ¸benhavn K",1402,9.940.000,05-03-2017,Alm. Salg,44.573,5,Lejlighed,223,2000,-10 %,Aktuel vÃ¦rdi,Nicolai Eigtveds Gade,34,1402,55.673198,12.587019
+"Toldbodgade 36A, 2. TH1253 KÃ¸benhavn K",1253,7.400.000,03-03-2017,Alm. Salg,56.923,2,Lejlighed,130,1783,-7 %,Aktuel vÃ¦rdi,Toldbodgade,36A,1253,55.679998,12.591443
+"Toldbodgade 7, 31253 KÃ¸benhavn K",1253,5.800.000,03-03-2017,Alm. Salg,38.410,4,Lejlighed,151,1850,-3 %,Aktuel vÃ¦rdi,Toldbodgade,7,1253,55.679998,12.591443
+"Overgaden Oven Vandet 20, 21415 KÃ¸benhavn K",1415,3.495.000,02-03-2017,Alm. Salg,41.117,3,Lejlighed,85,1802,-5 %,Aktuel vÃ¦rdi,Overgaden Oven Vandet,20,1415,55.670303,12.587819
+"Stormgade 10B, 21470 KÃ¸benhavn K",1470,7.095.000,02-03-2017,Alm. Salg,33.466,3,Lejlighed,212,1650,0 %,Aktuel vÃ¦rdi,Stormgade,10B,1470,55.675414,12.575123
+"Havnegade 33, 4. TH1058 KÃ¸benhavn K",1058,5.065.000,01-03-2017,Alm. Salg,56.277,2,Lejlighed,90,1870,,Aktuel vÃ¦rdi,Havnegade,33,1058,55.676267,12.586341
+"Nyhavn 31B, 4. TV1051 KÃ¸benhavn K",1051,6.505.000,01-03-2017,Alm. Salg,77.440,1,Anden beboelse,84,1800,-32 %,Aktuel vÃ¦rdi,Nyhavn,31B,1051,55.680077,12.588407
+"Prinsessegade 4A, ST. 551422 KÃ¸benhavn K",1422,2.045.000,28-02-2017,Alm. Salg,40.900,2,Lejlighed,50,1975,-5 %,Aktuel vÃ¦rdi,Prinsessegade,4A,1422,55.670212,12.590794
+"Borgergade 26, 5. 21300 KÃ¸benhavn K",1300,1.900.000,28-02-2017,Fam. Salg,26.388,2,Lejlighed,72,1974,,Aktuel vÃ¦rdi,Borgergade,26,1300,55.682486,12.583774
+"Nicolai Eigtveds Gade 36, ST. TV1402 KÃ¸benhavn K",1402,8.500.000,28-02-2017,Alm. Salg,35.269,5,Lejlighed,241,2000,-1 %,Aktuel vÃ¦rdi,Nicolai Eigtveds Gade,36,1402,55.673198,12.587019
+"Gothersgade 93C, 31123 KÃ¸benhavn K",1123,6.375.000,27-02-2017,Alm. Salg,40.605,4,Lejlighed,157,1883,-6 %,Aktuel vÃ¦rdi,Gothersgade,93C,1123,55.681482,12.584736
+"Galionsvej 5, 2. 241437 KÃ¸benhavn K",1437,6.750.000,27-02-2017,Alm. Salg,65.533,3,Lejlighed,103,1952,9 %,Aktuel vÃ¦rdi,Galionsvej,5,1437,55.680713,12.602161
+Wildersgade 171408 KÃ¸benhavn K,1408,7.800.000,24-02-2017,Alm. Salg,60.465,4,Villa,129,1750,-13 %,Aktuel vÃ¦rdi,Wildersgade,17,1408,55.671332,12.587434
+"Sankt Pauls Gade 70, 2. TV1313 KÃ¸benhavn K",1313,1.615.000,23-02-2017,Fam. Salg,21.533,3,Lejlighed,75,1880,,Aktuel vÃ¦rdi,Sankt Pauls Gade,70,1313,55.686943,12.589502
+"Vendersgade 10A, ST1363 KÃ¸benhavn K",1363,3.050.000,23-02-2017,Alm. Salg,44.852,2,Lejlighed,68,1878,2 %,Aktuel vÃ¦rdi,Vendersgade,10A,1363,55.683069,12.570591
+Luftmarinegade 1621432 KÃ¸benhavn K,1432,6.000.000,23-02-2017,Alm. Salg,43.795,5,RÃ¦kkehus,137,2012,,Aktuel vÃ¦rdi,Luftmarinegade,162,1432,55.685774,12.614857
+"Silkegade 15, 1. MF1113 KÃ¸benhavn K",1113,4.600.000,22-02-2017,Alm. Salg,50.549,3,Lejlighed,91,1902,-5 %,Aktuel vÃ¦rdi,Silkegade,15,1113,55.67991,12.579652
+"Torvegade 54, 21400 KÃ¸benhavn K",1400,4.495.000,21-02-2017,Alm. Salg,39.429,3,Lejlighed,114,1903,0 %,Aktuel vÃ¦rdi,Torvegade,54,1400,55.6732669,12.589392
+"Ny Adelgade 9, 4. TH1104 KÃ¸benhavn K",1104,2.826.000,21-02-2017,Alm. Salg,57.673,2,Lejlighed,49,1800,5 %,Aktuel vÃ¦rdi,Ny Adelgade,9,1104,55.681127,12.584095
+"Christianshavns Voldgade 19, ST. TV1424 KÃ¸benhavn K",1424,2.795.000,21-02-2017,Alm. Salg,43.671,2,Lejlighed,64,1914,-3 %,Aktuel vÃ¦rdi,Christianshavns Voldgade,19,1424,55.670011,12.588385
+"Burmeistersgade 13, 5. TH1429 KÃ¸benhavn K",1429,2.700.000,20-02-2017,Alm. Salg,58.695,2,Lejlighed,46,1901,0 %,Aktuel vÃ¦rdi,Burmeistersgade,13,1429,55.675103,12.597874
+"Prinsessegade 17A, ST. TH1422 KÃ¸benhavn K",1422,1.950.000,20-02-2017,Alm. Salg,42.391,2,Lejlighed,46,1903,-2 %,Aktuel vÃ¦rdi,Prinsessegade,17A,1422,55.670212,12.590794
+"Overgaden Oven Vandet 46, ST. TH1415 KÃ¸benhavn K",1415,3.100.000,19-02-2017,Alm. Salg,42.465,2,Lejlighed,73,1938,-6 %,Aktuel vÃ¦rdi,Overgaden Oven Vandet,46,1415,55.670303,12.587819
+"Gothersgade 154, 5. TV1123 KÃ¸benhavn K",1123,3.995.000,19-02-2017,Alm. Salg,57.071,2,Lejlighed,70,1879,0 %,Aktuel vÃ¦rdi,Gothersgade,154,1123,55.681482,12.584736
+"Esplanaden 24, 1. TH1263 KÃ¸benhavn K",1263,6.250.000,18-02-2017,Alm. Salg,53.418,3,Lejlighed,117,1876,-7 %,Aktuel vÃ¦rdi,Esplanaden,24,1263,55.687225,12.590465
+"Prinsessegade 2B, ST. 761422 KÃ¸benhavn K",1422,2.110.000,12-02-2017,Alm. Salg,41.372,2,Lejlighed,51,1975,-6 %,Aktuel vÃ¦rdi,Prinsessegade,2B,1422,55.670212,12.590794
+"Dybensgade 22, ST. TH1071 KÃ¸benhavn K",1071,2.700.000,11-02-2017,Alm. Salg,36.986,3,Lejlighed,73,1800,-10 %,Aktuel vÃ¦rdi,Dybensgade,22,1071,55.678356,12.58396
+"Kronprinsessegade 46B, 11306 KÃ¸benhavn K",1306,12.800.000,09-02-2017,Alm. Salg,51.612,4,Lejlighed,248,1807,-4 %,Aktuel vÃ¦rdi,Kronprinsessegade,46B,1306,55.682772,12.580998
+"Gothersgade 155, 3. TV1123 KÃ¸benhavn K",1123,6.500.000,09-02-2017,Alm. Salg,43.333,5,Lejlighed,150,1877,,Aktuel vÃ¦rdi,Gothersgade,155,1123,55.681482,12.584736
+"Wildersgade 3, 51408 KÃ¸benhavn K",1408,2.150.000,08-02-2017,Fam. Salg,13.607,4,Lejlighed,158,2002,,Aktuel vÃ¦rdi,Wildersgade,3,1408,55.671332,12.587434
+"Johan Semps Gade 9, 4. MF1402 KÃ¸benhavn K",1402,4.800.000,06-02-2017,Alm. Salg,50.526,2,Lejlighed,95,2003,-4 %,Aktuel vÃ¦rdi,Johan Semps Gade,9,1402,55.671857,12.586877
+"Wildersgade 60A, 2. 31408 KÃ¸benhavn K",1408,4.550.000,05-02-2017,Alm. Salg,49.456,2,Lejlighed,92,1802,-1 %,Aktuel vÃ¦rdi,Wildersgade,60A,1408,55.671332,12.587434
+"Ved Volden 7, 4. TV1425 KÃ¸benhavn K",1425,4.395.000,05-02-2017,Alm. Salg,48.296,3,Lejlighed,91,1938,0 %,Aktuel vÃ¦rdi,Ved Volden,7,1425,55.671478,12.593675
+"Nyhavn 31F, ST. TV1051 KÃ¸benhavn K",1051,5.995.000,04-02-2017,Alm. Salg,56.028,1,Lejlighed,107,1918,,Aktuel vÃ¦rdi,Nyhavn,31F,1051,55.680077,12.588407
+"Strandgade 83, 5. TV1401 KÃ¸benhavn K",1401,16.500.000,03-02-2017,Alm. Salg,59.782,4,Lejlighed,276,2015,-3 %,Aktuel vÃ¦rdi,Strandgade,83,1401,55.672554,12.587714
+"Dronningensgade 59, 4. TV1420 KÃ¸benhavn K",1420,2.895.000,02-02-2017,Alm. Salg,54.622,1,Lejlighed,53,1938,0 %,Aktuel vÃ¦rdi,Dronningensgade,59,1420,55.670232,12.588866
+Wildersgade 131408 KÃ¸benhavn K,1408,6.500.000,02-02-2017,Alm. Salg,49.242,4,RÃ¦kkehus,132,1700,-7 %,Aktuel vÃ¦rdi,Wildersgade,13,1408,55.671332,12.587434
+"Borgergade 144, 5. TV1300 KÃ¸benhavn K",1300,2.690.000,02-02-2017,Alm. Salg,45.593,2,Lejlighed,59,1854,,Aktuel vÃ¦rdi,Borgergade,144,1300,55.682486,12.583774
+"Stormgade 10B, 11470 KÃ¸benhavn K",1470,6.995.000,01-02-2017,Alm. Salg,45.129,3,Lejlighed,155,1650,,Aktuel vÃ¦rdi,Stormgade,10B,1470,55.675414,12.575123
+"Cort Adelers Gade 1, 1. TH1053 KÃ¸benhavn K",1053,8.770.000,30-01-2017,Alm. Salg,42.572,5,Lejlighed,206,1873,0 %,Aktuel vÃ¦rdi,Cort Adelers Gade,1,1053,55.678287,12.590375
+"Gothersgade 95, 4. TV1123 KÃ¸benhavn K",1123,6.000.000,29-01-2017,Alm. Salg,45.454,5,Lejlighed,132,1883,-2 %,Aktuel vÃ¦rdi,Gothersgade,95,1123,55.681482,12.584736
+"Ny Adelgade 9, 3. TH1104 KÃ¸benhavn K",1104,3.000.000,27-01-2017,Fam. Salg,42.857,3,Lejlighed,70,1800,,Aktuel vÃ¦rdi,Ny Adelgade,9,1104,55.681127,12.584095
+"Overgaden Neden Vandet 39, ST1414 KÃ¸benhavn K",1414,6.700.000,27-01-2017,Alm. Salg,42.405,3,Lejlighed,158,1777,-4 %,Aktuel vÃ¦rdi,Overgaden Neden Vandet,39,1414,55.671082,12.587917
+Rigensgade 21316 KÃ¸benhavn K,1316,891.250,27-01-2017,Fam. Salg,12.916,3,Lejlighed,69,1925,,Aktuel vÃ¦rdi,Rigensgade,2,1316,55.686768,12.581981
+Strandgade 42A1401 KÃ¸benhavn K,1401,3.925.000,27-01-2017,Alm. Salg,46.176,3,Lejlighed,85,1700,-8 %,Aktuel vÃ¦rdi,Strandgade,42A,1401,55.672554,12.587714
+"Hammerensgade 3, ST. MF1267 KÃ¸benhavn K",1267,2.795.000,26-01-2017,Alm. Salg,53.750,2,Lejlighed,52,1925,,Aktuel vÃ¦rdi,Hammerensgade,3,1267,55.688109,12.590263
+"Snaregade 4, 11205 KÃ¸benhavn K",1205,7.150.000,25-01-2017,Alm. Salg,37.631,5,Lejlighed,190,1802,-5 %,Aktuel vÃ¦rdi,Snaregade,4,1205,55.677304,12.576943
+"Overgaden Oven Vandet 44, 3. TV1415 KÃ¸benhavn K",1415,6.500.000,24-01-2017,Alm. Salg,58.035,4,Lejlighed,112,1938,,Aktuel vÃ¦rdi,Overgaden Oven Vandet,44,1415,55.670303,12.587819
+"Ved Volden 9, 5. TV1425 KÃ¸benhavn K",1425,2.595.000,23-01-2017,Alm. Salg,47.181,2,Lejlighed,55,1938,0 %,Aktuel vÃ¦rdi,Ved Volden,9,1425,55.671478,12.593675
+"Prinsessegade 17A, 51422 KÃ¸benhavn K",1422,2.495.000,23-01-2017,Alm. Salg,53.085,2,Lejlighed,47,1903,0 %,Aktuel vÃ¦rdi,Prinsessegade,17A,1422,55.670212,12.590794
+"Store Kongensgade 53, 4. TH1264 KÃ¸benhavn K",1264,6.700.000,23-01-2017,Alm. Salg,54.918,3,Lejlighed,122,1860,0 %,Aktuel vÃ¦rdi,Store Kongensgade,53,1264,55.681908,12.585484
+"Burmeistersgade 7, 2. TV1429 KÃ¸benhavn K",1429,2.885.000,21-01-2017,Alm. Salg,55.480,2,Lejlighed,52,1901,,Aktuel vÃ¦rdi,Burmeistersgade,7,1429,55.675103,12.597874
+"Ved Volden 11, 3. TV1425 KÃ¸benhavn K",1425,2.100.000,20-01-2017,Fam. Salg,21.212,4,Lejlighed,99,1938,,Aktuel vÃ¦rdi,Ved Volden,11,1425,55.671478,12.593675
+"Bodenhoffs Plads 8, 4. TH1430 KÃ¸benhavn K",1430,4.400.000,20-01-2017,Alm. Salg,51.764,3,Lejlighed,85,1901,-6 %,Aktuel vÃ¦rdi,Bodenhoffs Plads,8,1430,55.676569,12.598234
+"Store Kongensgade 75C, 5. TV1264 KÃ¸benhavn K",1264,5.000.000,20-01-2017,Alm. Salg,34.722,3,Lejlighed,144,1850,,Aktuel vÃ¦rdi,Store Kongensgade,75C,1264,55.681908,12.585484
+Margretheholmsvej 91432 KÃ¸benhavn K,1432,4.950.000,20-01-2017,Alm. Salg,35.869,4,RÃ¦kkehus,138,2016,-1 %,Aktuel vÃ¦rdi,Margretheholmsvej,9,1432,55.68335,12.615138
+"Kronprinsessegade 10, 4. TH1306 KÃ¸benhavn K",1306,3.850.000,19-01-2017,Alm. Salg,31.818,3,Lejlighed,121,1803,-10 %,Aktuel vÃ¦rdi,Kronprinsessegade,10,1306,55.682772,12.580998
+"Sankt Pauls Gade 3, 4. TH1313 KÃ¸benhavn K",1313,2.610.000,19-01-2017,Alm. Salg,56.739,2,Lejlighed,46,1875,-3 %,Aktuel vÃ¦rdi,Sankt Pauls Gade,3,1313,55.686943,12.589502
+"Nyhavn 31J, 2. TV1051 KÃ¸benhavn K",1051,5.200.000,18-01-2017,Alm. Salg,52.000,3,Lejlighed,100,1800,-2 %,Aktuel vÃ¦rdi,Nyhavn,31J,1051,55.680077,12.588407
+"Johan Semps Gade 9, 3. TV1402 KÃ¸benhavn K",1402,5.275.000,17-01-2017,Alm. Salg,45.085,3,Lejlighed,117,2003,,Aktuel vÃ¦rdi,Johan Semps Gade,9,1402,55.671857,12.586877
+"Rosenborggade 9, 31130 KÃ¸benhavn K",1130,4.100.000,17-01-2017,Alm. Salg,50.000,4,Lejlighed,82,1847,,Aktuel vÃ¦rdi,Rosenborggade,9,1130,55.683178,12.573453
+"Nyhavn 14, 31051 KÃ¸benhavn K",1051,9.600.000,17-01-2017,Alm. Salg,63.576,3,Lejlighed,151,1770,-4 %,Aktuel vÃ¦rdi,Nyhavn,14,1051,55.680077,12.588407
+"Silkegade 19, 21113 KÃ¸benhavn K",1113,7.300.000,17-01-2017,Alm. Salg,40.782,4,Lejlighed,179,1902,-1 %,Aktuel vÃ¦rdi,Silkegade,19,1113,55.67991,12.579652
+"Toldbodgade 2, 3. TH1253 KÃ¸benhavn K",1253,6.200.000,16-01-2017,Alm. Salg,43.055,5,Lejlighed,144,1852,-2 %,Aktuel vÃ¦rdi,Toldbodgade,2,1253,55.679998,12.591443
+"Toldbodgade 29C, 1. TV1253 KÃ¸benhavn K",1253,7.400.000,16-01-2017,Alm. Salg,45.679,2,Lejlighed,162,1887,-1 %,Aktuel vÃ¦rdi,Toldbodgade,29C,1253,55.679998,12.591443
+"Nikolajgade 20, 2. TH1068 KÃ¸benhavn K",1068,3.350.000,15-01-2017,Alm. Salg,39.880,4,Lejlighed,84,1799,,Aktuel vÃ¦rdi,Nikolajgade,20,1068,55.678179,12.582634
+"Store Kongensgade 64, 11264 KÃ¸benhavn K",1264,4.875.000,13-01-2017,Alm. Salg,37.790,5,Lejlighed,129,1750,-2 %,Aktuel vÃ¦rdi,Store Kongensgade,64,1264,55.681908,12.585484
+"Peder Skrams Gade 27, 2. TH1054 KÃ¸benhavn K",1054,5.075.000,13-01-2017,Alm. Salg,45.312,4,Lejlighed,112,1900,-2 %,Aktuel vÃ¦rdi,Peder Skrams Gade,27,1054,55.679029,12.58803
+"Ved Volden 6, 4. TV1425 KÃ¸benhavn K",1425,875.000,05-01-2017,Fam. Salg,8.333,4,Lejlighed,105,1938,,Aktuel vÃ¦rdi,Ved Volden,6,1425,55.671478,12.593675
+Amaliegade 9 B st1256 KÃ¸benhavn K,1256,14.850.000,04-01-2017,Alm. Salg,-,-,"Ejerlejl., forretning",-,-,,,Amaliegade,9,1256,55.681906,12.591854
+"Nicolai Eigtveds Gade 36, 4. TV1402 KÃ¸benhavn K",1402,9.500.000,03-01-2017,Alm. Salg,52.777,4,Lejlighed,180,2000,-5 %,Aktuel vÃ¦rdi,Nicolai Eigtveds Gade,36,1402,55.673198,12.587019
+"Silkegade 17, 1. TV1113 KÃ¸benhavn K",1113,2.250.000,03-01-2017,Fam. Salg,20.833,2,Lejlighed,108,1902,,Aktuel vÃ¦rdi,Silkegade,17,1113,55.67991,12.579652
+Luftmarinegade 781432 KÃ¸benhavn K,1432,5.400.000,03-01-2017,Alm. Salg,39.416,5,RÃ¦kkehus,137,2012,-4 %,Aktuel vÃ¦rdi,Luftmarinegade,78,1432,55.685774,12.614857
+"Strandgade 79, 1. 11401 KÃ¸benhavn K",1401,10.214.572,02-01-2017,Fam. Salg,44.411,4,Lejlighed,230,2015,-45 %,Aktuel vÃ¦rdi,Strandgade,79,1401,55.672554,12.587714
+"Burmeistersgade 25, 3. TH1429 KÃ¸benhavn K",1429,1.798.000,01-01-2017,Fam. Salg,33.924,2,Lejlighed,53,1901,,Aktuel vÃ¦rdi,Burmeistersgade,25,1429,55.675103,12.597874
+"Ny Kongensgade 14, 2. 31472 KÃ¸benhavn K",1472,2.525.000,29-12-2016,Fam. Salg,42.083,2,Lejlighed,60,1934,,Aktuel vÃ¦rdi,Ny Kongensgade,14,1472,55.673864,12.576921
+"Lille Kongensgade 4, 2. TH1074 KÃ¸benhavn K",1074,4.750.000,29-12-2016,Alm. Salg,50.531,3,Lejlighed,94,1767,,Aktuel vÃ¦rdi,Lille Kongensgade,4,1074,55.679566,12.584547
+"Ole Suhrs Gade 17, 3. TV1354 KÃ¸benhavn K",1354,4.100.000,28-12-2016,Alm. Salg,49.397,3,Lejlighed,83,1883,-5 %,Aktuel vÃ¦rdi,Ole Suhrs Gade,17,1354,55.688891,12.573219
+"Esplanaden 24, 4. TH1263 KÃ¸benhavn K",1263,4.680.000,28-12-2016,Andet,40.344,4,Lejlighed,116,1876,,Aktuel vÃ¦rdi,Esplanaden,24,1263,55.687225,12.590465
+Gernersgade 421319 KÃ¸benhavn K,1319,8.495.000,28-12-2016,Alm. Salg,62.925,5,Lejlighed,135,1730,,Aktuel vÃ¦rdi,Gernersgade,42,1319,55.687418,12.589667
+Luftmarinegade 1601432 KÃ¸benhavn K,1432,5.875.000,28-12-2016,Alm. Salg,42.883,5,RÃ¦kkehus,137,2012,,Aktuel vÃ¦rdi,Luftmarinegade,160,1432,55.685774,12.614857
+"Snaregade 8, 41205 KÃ¸benhavn K",1205,1.328.100,27-12-2016,Alm. Salg,15.443,1,Lejlighed,86,1807,,Aktuel vÃ¦rdi,Snaregade,8,1205,55.677304,12.576943
+"Boldhusgade 2, 41062 KÃ¸benhavn K",1062,5.275.000,22-12-2016,Alm. Salg,46.681,4,Lejlighed,113,1796,,Aktuel vÃ¦rdi,Boldhusgade,2,1062,55.677552,12.582083
+"Gothersgade 93C, ST1123 KÃ¸benhavn K",1123,3.425.000,22-12-2016,Alm. Salg,34.948,2,Lejlighed,98,1883,-5 %,Aktuel vÃ¦rdi,Gothersgade,93C,1123,55.681482,12.584736
+"Vendersgade 10, 4. TH1363 KÃ¸benhavn K",1363,2.422.500,21-12-2016,Fam. Salg,21.250,4,Lejlighed,114,1878,,Aktuel vÃ¦rdi,Vendersgade,10,1363,55.683069,12.570591
+"Kronprinsessegade 14, 31306 KÃ¸benhavn K",1306,12.815.000,19-12-2016,Alm. Salg,44.807,7,Lejlighed,286,1805,,Aktuel vÃ¦rdi,Kronprinsessegade,14,1306,55.682772,12.580998
+"Laksegade 20E, 11063 KÃ¸benhavn K",1063,3.825.000,19-12-2016,Alm. Salg,51.000,2,Lejlighed,75,1797,-4 %,Aktuel vÃ¦rdi,Laksegade,20E,1063,55.678208,12.58528
+"Gothersgade 147, 1. TV1123 KÃ¸benhavn K",1123,3.425.000,16-12-2016,Alm. Salg,50.367,3,Lejlighed,68,1877,-2 %,Aktuel vÃ¦rdi,Gothersgade,147,1123,55.681482,12.584736
+"Prinsessegade 17B, 4. TV1422 KÃ¸benhavn K",1422,3.170.000,15-12-2016,Alm. Salg,51.967,3,Lejlighed,61,1903,,Aktuel vÃ¦rdi,Prinsessegade,17B,1422,55.670212,12.590794
+"Brobergsgade 16, 4. TH1427 KÃ¸benhavn K",1427,3.850.000,15-12-2016,Alm. Salg,53.472,2,Lejlighed,72,1902,-4 %,Aktuel vÃ¦rdi,Brobergsgade,16,1427,55.675307,12.596273
+"Nyhavn 23, 41051 KÃ¸benhavn K",1051,8.050.000,15-12-2016,Alm. Salg,48.493,4,Lejlighed,166,1700,3 %,Aktuel vÃ¦rdi,Nyhavn,23,1051,55.680077,12.588407
+"Kattesundet 14A, 31458 KÃ¸benhavn K",1458,3.125.000,14-12-2016,Alm. Salg,32.894,3,Lejlighed,95,1784,-5 %,Aktuel vÃ¦rdi,Kattesundet,14A,1458,55.677546,12.570306
+"Burmeistersgade 11, 3. TV1429 KÃ¸benhavn K",1429,2.800.000,12-12-2016,Alm. Salg,53.846,2,Lejlighed,52,1901,0 %,Aktuel vÃ¦rdi,Burmeistersgade,11,1429,55.675103,12.597874
+"Laksegade 28, 21063 KÃ¸benhavn K",1063,2.300.000,12-12-2016,Alm. Salg,41.818,1,Lejlighed,55,1882,-8 %,Aktuel vÃ¦rdi,Laksegade,28,1063,55.678208,12.58528
+"Ved Volden 5, 5. TV1425 KÃ¸benhavn K",1425,4.000.000,23-05-2017,Alm. Salg,43.956,3,Lejlighed,91,1938,0 %,Aktuel vÃ¦rdi,Ved Volden,5,1425,55.671478,12.593675
+"Store Kongensgade 112A, 31264 KÃ¸benhavn K",1264,250.000,15-05-2017,Andet,1.851,2,Lejlighed,135,1860,,Aktuel vÃ¦rdi,Store Kongensgade,112A,1264,55.681908,12.585484
+"Amaliegade 13G, 21256 KÃ¸benhavn K",1256,7.375.000,15-05-2017,Alm. Salg,75.255,3,Lejlighed,98,1948,9 %,Aktuel vÃ¦rdi,Amaliegade,13G,1256,55.681906,12.591854
+"Borgergade 144, 3. TH1300 KÃ¸benhavn K",1300,5.825.000,10-05-2017,Alm. Salg,57.673,3,Lejlighed,101,1854,3 %,Aktuel vÃ¦rdi,Borgergade,144,1300,55.682486,12.583774
+"Wildersgade 22, ST1408 KÃ¸benhavn K",1408,1.556.700,09-05-2017,Alm. Salg,17.689,3,Lejlighed,88,1858,,Aktuel vÃ¦rdi,Wildersgade,22,1408,55.671332,12.587434
+"Toldbodgade 10A, 11253 KÃ¸benhavn K",1253,3.750.000,08-05-2017,Fam. Salg,20.380,5,Lejlighed,184,1862,,Aktuel vÃ¦rdi,Toldbodgade,10A,1253,55.679998,12.591443
+"Store Kongensgade 63A, ST. 41264 KÃ¸benhavn K",1264,1.780.000,03-05-2017,Fam. Salg,18.163,3,Lejlighed,98,1932,,Aktuel vÃ¦rdi,Store Kongensgade,63A,1264,55.681908,12.585484
+"Peder Skrams Gade 28, 2. TV1054 KÃ¸benhavn K",1054,4.080.000,03-05-2017,Alm. Salg,53.684,3,Lejlighed,76,1870,0 %,Aktuel vÃ¦rdia,Peder Skrams Gade,28,1054,55.679029,12.58803
+"Brobergsgade 14, 1. TV1427 KÃ¸benhavn K",1427,2.750.000,02-05-2017,Alm. Salg,55.000,2,Lejlighed,50,1902,-8 %,Aktuel vÃ¦rdi,Brobergsgade,14,1427,55.675307,12.596273
+"Ny Adelgade 9, 2. TH1104 KÃ¸benhavn K",1104,1.950.000,01-05-2017,Alm. Salg,27.857,3,Lejlighed,70,1800,-44 %,Aktuel vÃ¦rdi,Ny Adelgade,9,1104,55.681127,12.584095
+"Fredericiagade 25, 5. 11310 KÃ¸benhavn K",1310,3.150.000,27-04-2017,Alm. Salg,26.694,3,Lejlighed,118,1968,,Aktuel vÃ¦rdi,Fredericiagade,25,1310,55.685114,12.593443
+"David Balfours Gade 3, ST. TV1402 KÃ¸benhavn K",1402,3.100.000,27-04-2017,Alm. Salg,37.349,2,Lejlighed,83,2002,,Aktuel vÃ¦rdi,David Balfours Gade,3,1402,55.671697,12.586487
+"Vimmelskaftet 36A, 3. TH1161 KÃ¸benhavn K",1161,3.695.000,27-04-2017,Alm. Salg,43.988,3,Lejlighed,84,1857,-3 %,Aktuel vÃ¦rdi,Vimmelskaftet,36A,1161,55.678691,12.575533
+"Store Kongensgade 110C, 3. TV1264 KÃ¸benhavn K",1264,3.050.000,27-04-2017,Fam. Salg,25.847,3,Lejlighed,118,1838,,Aktuel vÃ¦rdi,Store Kongensgade,110C,1264,55.681908,12.585484
+"Peder Skrams Gade 27, 3. TH1054 KÃ¸benhavn K",1054,6.250.000,26-04-2017,Alm. Salg,55.803,4,Lejlighed,112,1900,,Aktuel vÃ¦rdi,Peder Skrams Gade,27,1054,55.679029,12.58803
+"Kronprinsessegade 10, 4. TV1306 KÃ¸benhavn K",1306,4.350.000,25-04-2017,Alm. Salg,43.069,3,Lejlighed,101,1803,-3 %,Aktuel vÃ¦rdi,Kronprinsessegade,10,1306,55.682772,12.580998
+"Bartholinsgade 11, 1. TV1356 KÃ¸benhavn K",1356,841.000,25-04-2017,Alm. Salg,16.173,2,Lejlighed,52,1880,,Aktuel vÃ¦rdi,Bartholinsgade,11,1356,55.686543,12.568412
+"Ved Volden 11, 4. TH1425 KÃ¸benhavn K",1425,4.900.000,24-04-2017,Alm. Salg,50.515,4,Lejlighed,97,1938,-2 %,Aktuel vÃ¦rdi,Ved Volden,11,1425,55.671478,12.593675
+Luftmarinegade 381432 KÃ¸benhavn K,1432,2.485.131,24-04-2017,Fam. Salg,18.139,5,RÃ¦kkehus,137,2012,,Aktuel vÃ¦rdi,Luftmarinegade,38,1432,55.685774,12.614857
+"Gernersgade 5, ST. TV1319 KÃ¸benhavn K",1319,1.950.000,21-04-2017,Alm. Salg,52.702,2,Lejlighed,37,1854,,Aktuel vÃ¦rdi,Gernersgade,5,1319,55.687418,12.589667
+"Ahlefeldtsgade 26, 4. TV1359 KÃ¸benhavn K",1359,2.115.000,20-04-2017,Fam. Salg,25.792,3,Lejlighed,82,1888,,Aktuel vÃ¦rdi,Ahlefeldtsgade,26,1359,55.683085,12.566589
+"Nikolajgade 20, 2. TV1068 KÃ¸benhavn K",1068,3.500.000,20-04-2017,Alm. Salg,38.043,4,Lejlighed,92,1799,,Aktuel vÃ¦rdi,Nikolajgade,20,1068,55.678179,12.582634
+"Strandgade 12, 31401 KÃ¸benhavn K",1401,7.170.000,19-04-2017,Alm. Salg,31.447,6,Lejlighed,228,1720,-4 %,Aktuel vÃ¦rdi,Strandgade,12,1401,55.672554,12.587714
+"Torvegade 25, 2. TV1400 KÃ¸benhavn K",1400,2.925.000,16-03-2017,Fam. Salg,26.590,4,Lejlighed,110,1933,,Aktuel vÃ¦rdi,Torvegade,25,1400,55.6732669,12.589392
+Gernersgade 301319 KÃ¸benhavn K,1319,2.201.500,16-03-2017,Alm. Salg,15.838,5,RÃ¦kkehus,139,1730,,Aktuel vÃ¦rdi,Gernersgade,30,1319,55.687418,12.589667
+Gernersgade 281319 KÃ¸benhavn K,1319,2.201.500,16-03-2017,Alm. Salg,15.838,5,RÃ¦kkehus,139,1730,,Aktuel vÃ¦rdi,Gernersgade,28,1319,55.687418,12.589667
+"Gothersgade 93, 1. TH1123 KÃ¸benhavn K",1123,4.400.000,15-03-2017,Alm. Salg,44.444,4,Lejlighed,99,1883,-2 %,Aktuel vÃ¦rdi,Gothersgade,93,1123,55.681482,12.584736
+"Store Kongensgade 53, 1. TV1264 KÃ¸benhavn K",1264,7.000.000,15-03-2017,Alm. Salg,50.724,3,Lejlighed,138,1860,,Aktuel vÃ¦rdi,Store Kongensgade,53,1264,55.681908,12.585484
+"Skindergade 27, 4. TH1159 KÃ¸benhavn K",1159,3.515.000,14-03-2017,Alm. Salg,34.460,5,Lejlighed,102,1820,,Aktuel vÃ¦rdi,Skindergade,27,1159,55.680986,12.576192
+"Skindergade 29, 31159 KÃ¸benhavn K",1159,5.687.000,14-03-2017,Alm. Salg,34.466,3,Lejlighed,165,1820,,Aktuel vÃ¦rdi,Skindergade,29,1159,55.680986,12.576192
+"Skindergade 29, 41159 KÃ¸benhavn K",1159,6.548.000,14-03-2017,Alm. Salg,62.361,4,Lejlighed,105,1820,,Aktuel vÃ¦rdi,Skindergade,29,1159,55.680986,12.576192
+"Gothersgade 17, 41123 KÃ¸benhavn K",1123,3.200.000,14-03-2017,Alm. Salg,34.408,3,Lejlighed,93,1766,-4 %,Aktuel vÃ¦rdi,Gothersgade,17,1123,55.681482,12.584736
+"Sankt Pauls Gade 3, 3. TV1313 KÃ¸benhavn K",1313,2.895.000,14-03-2017,Alm. Salg,46.693,2,Lejlighed,62,1875,0 %,Aktuel vÃ¦rdi,Sankt Pauls Gade,3,1313,55.686943,12.589502
+"Frederiksberggade 25C, 2. TH1459 KÃ¸benhavn K",1459,6.700.000,14-03-2017,Alm. Salg,26.800,4,Lejlighed,250,1900,0 %,Aktuel vÃ¦rdi,Frederiksberggade,25C,1459,55.677616,12.572097
+"Klerkegade 17B, ST. TV1308 KÃ¸benhavn K",1308,3.750.000,13-03-2017,Alm. Salg,52.083,3,Lejlighed,72,1810,0 %,Aktuel vÃ¦rdi,Klerkegade,17B,1308,55.68627,12.585366
+"Fredericiagade 12A, 2. TH1310 KÃ¸benhavn K",1310,1.250.000,13-03-2017,Alm. Salg,16.233,3,Lejlighed,77,1853,,Aktuel vÃ¦rdi,Fredericiagade,12A,1310,55.685114,12.593443
+"Nicolai Eigtveds Gade 34, 2. TV1402 KÃ¸benhavn K",1402,7.300.000,11-03-2017,Alm. Salg,48.993,3,Lejlighed,149,2000,-2 %,Aktuel vÃ¦rdi,Nicolai Eigtveds Gade,34,1402,55.673198,12.587019
+"Nikolaj Plads 9, 3. TH1067 KÃ¸benhavn K",1067,6.200.000,10-03-2017,Alm. Salg,44.285,4,Lejlighed,140,1849,-2 %,Aktuel vÃ¦rdi,Nikolaj Plads,9,1067,55.679325,12.582053
+"Ole Suhrs Gade 17, 4. TH1354 KÃ¸benhavn K",1354,3.250.000,09-03-2017,Alm. Salg,43.918,3,Lejlighed,74,1883,-3 %,Aktuel vÃ¦rdi,Ole Suhrs Gade,17,1354,55.688891,12.573219
+"Fredericiagade 12A, 3. TH1310 KÃ¸benhavn K",1310,1.250.000,09-03-2017,Alm. Salg,16.233,3,Lejlighed,77,1853,,Aktuel vÃ¦rdi,Fredericiagade,12A,1310,55.685114,12.593443
+"Store Kongensgade 69C, 2. TH1264 KÃ¸benhavn K",1264,3.875.000,09-03-2017,Alm. Salg,59.615,2,Lejlighed,65,1908,-2 %,Aktuel vÃ¦rdi,Store Kongensgade,69C,1264,55.681908,12.585484
+"Silkegade 17, 4. TV1113 KÃ¸benhavn K",1113,4.400.000,08-03-2017,Alm. Salg,57.894,2,Lejlighed,76,1902,0 %,Aktuel vÃ¦rdi,Silkegade,17,1113,55.67991,12.579652
+"Dybensgade 22, 3. TH1071 KÃ¸benhavn K",1071,2.011.000,07-03-2017,Alm. Salg,47.880,1,Lejlighed,42,1800,3 %,Aktuel vÃ¦rdi,Dybensgade,22,1071,55.678356,12.58396
+"Store Kongensgade 61A, 21264 KÃ¸benhavn K",1264,3.825.000,07-03-2017,Fam. Salg,21.982,4,Lejlighed,174,1895,,Aktuel vÃ¦rdi,Store Kongensgade,61A,1264,55.681908,12.585484
+"Fredericiagade 21, ST. TH1310 KÃ¸benhavn K",1310,2.650.000,06-03-2017,Alm. Salg,38.405,2,Lejlighed,69,1968,-2 %,Aktuel vÃ¦rdi,Fredericiagade,21,1310,55.685114,12.593443
+"Adelgade 51, 3. TV1304 KÃ¸benhavn K",1304,1.100.000,06-03-2017,Fam. Salg,13.580,3,Lejlighed,81,1957,,Aktuel vÃ¦rdi,Adelgade,51,1304,55.682596,12.582286
+"Klareboderne 6, 21115 KÃ¸benhavn K",1115,1.126.250,06-03-2017,Fam. Salg,10.525,3,Lejlighed,107,1747,,Aktuel vÃ¦rdi,Klareboderne,6,1115,55.68073,12.578138
+"Gammeltoftsgade 12A, 2. TH1355 KÃ¸benhavn K",1355,775.000,06-03-2017,Fam. Salg,10.915,3,Lejlighed,71,1884,,Aktuel vÃ¦rdi,Gammeltoftsgade,12A,1355,55.688669,12.572448
+"Adelgade 49, 2. MF1304 KÃ¸benhavn K",1304,2.655.000,05-03-2017,Alm. Salg,50.094,2,Lejlighed,53,1957,-1 %,Aktuel vÃ¦rdi,Adelgade,49,1304,55.682596,12.582286
+"Nicolai Eigtveds Gade 34, 1. TH1402 KÃ¸benhavn K",1402,9.940.000,05-03-2017,Alm. Salg,44.573,5,Lejlighed,223,2000,-10 %,Aktuel vÃ¦rdi,Nicolai Eigtveds Gade,34,1402,55.673198,12.587019
+"Toldbodgade 36A, 2. TH1253 KÃ¸benhavn K",1253,7.400.000,03-03-2017,Alm. Salg,56.923,2,Lejlighed,130,1783,-7 %,Aktuel vÃ¦rdi,Toldbodgade,36A,1253,55.679998,12.591443
+"Toldbodgade 7, 31253 KÃ¸benhavn K",1253,5.800.000,03-03-2017,Alm. Salg,38.410,4,Lejlighed,151,1850,-3 %,Aktuel vÃ¦rdi,Toldbodgade,7,1253,55.679998,12.591443
+"Overgaden Oven Vandet 20, 21415 KÃ¸benhavn K",1415,3.495.000,02-03-2017,Alm. Salg,41.117,3,Lejlighed,85,1802,-5 %,Aktuel vÃ¦rdi,Overgaden Oven Vandet,20,1415,55.670303,12.587819
+"Stormgade 10B, 21470 KÃ¸benhavn K",1470,7.095.000,02-03-2017,Alm. Salg,33.466,3,Lejlighed,212,1650,0 %,Aktuel vÃ¦rdi,Stormgade,10B,1470,55.675414,12.575123
+"Havnegade 33, 4. TH1058 KÃ¸benhavn K",1058,5.065.000,01-03-2017,Alm. Salg,56.277,2,Lejlighed,90,1870,,Aktuel vÃ¦rdi,Havnegade,33,1058,55.676267,12.586341
+"Nyhavn 31B, 4. TV1051 KÃ¸benhavn K",1051,6.505.000,01-03-2017,Alm. Salg,77.440,1,Anden beboelse,84,1800,-32 %,Aktuel vÃ¦rdi,Nyhavn,31B,1051,55.680077,12.588407
+"Prinsessegade 4A, ST. 551422 KÃ¸benhavn K",1422,2.045.000,28-02-2017,Alm. Salg,40.900,2,Lejlighed,50,1975,-5 %,Aktuel vÃ¦rdi,Prinsessegade,4A,1422,55.670212,12.590794
+"Borgergade 26, 5. 21300 KÃ¸benhavn K",1300,1.900.000,28-02-2017,Fam. Salg,26.388,2,Lejlighed,72,1974,,Aktuel vÃ¦rdi,Borgergade,26,1300,55.682486,12.583774
+"Nicolai Eigtveds Gade 36, ST. TV1402 KÃ¸benhavn K",1402,8.500.000,28-02-2017,Alm. Salg,35.269,5,Lejlighed,241,2000,-1 %,Aktuel vÃ¦rdi,Nicolai Eigtveds Gade,36,1402,55.673198,12.587019
+"Gothersgade 93C, 31123 KÃ¸benhavn K",1123,6.375.000,27-02-2017,Alm. Salg,40.605,4,Lejlighed,157,1883,-6 %,Aktuel vÃ¦rdi,Gothersgade,93C,1123,55.681482,12.584736
+"Galionsvej 5, 2. 241437 KÃ¸benhavn K",1437,6.750.000,27-02-2017,Alm. Salg,65.533,3,Lejlighed,103,1952,9 %,Aktuel vÃ¦rdi,Galionsvej,5,1437,55.680713,12.602161
+Wildersgade 171408 KÃ¸benhavn K,1408,7.800.000,24-02-2017,Alm. Salg,60.465,4,Villa,129,1750,-13 %,Aktuel vÃ¦rdi,Wildersgade,17,1408,55.671332,12.587434
+"Sankt Pauls Gade 70, 2. TV1313 KÃ¸benhavn K",1313,1.615.000,23-02-2017,Fam. Salg,21.533,3,Lejlighed,75,1880,,Aktuel vÃ¦rdi,Sankt Pauls Gade,70,1313,55.686943,12.589502
+"Vendersgade 10A, ST1363 KÃ¸benhavn K",1363,3.050.000,23-02-2017,Alm. Salg,44.852,2,Lejlighed,68,1878,2 %,Aktuel vÃ¦rdi,Vendersgade,10A,1363,55.683069,12.570591
+Luftmarinegade 1621432 KÃ¸benhavn K,1432,6.000.000,23-02-2017,Alm. Salg,43.795,5,RÃ¦kkehus,137,2012,,Aktuel vÃ¦rdi,Luftmarinegade,162,1432,55.685774,12.614857
+"Silkegade 15, 1. MF1113 KÃ¸benhavn K",1113,4.600.000,22-02-2017,Alm. Salg,50.549,3,Lejlighed,91,1902,-5 %,Aktuel vÃ¦rdi,Silkegade,15,1113,55.67991,12.579652
+"Torvegade 54, 21400 KÃ¸benhavn K",1400,4.495.000,21-02-2017,Alm. Salg,39.429,3,Lejlighed,114,1903,0 %,Aktuel vÃ¦rdi,Torvegade,54,1400,55.6732669,12.589392
+"Ny Adelgade 9, 4. TH1104 KÃ¸benhavn K",1104,2.826.000,21-02-2017,Alm. Salg,57.673,2,Lejlighed,49,1800,5 %,Aktuel vÃ¦rdi,Ny Adelgade,9,1104,55.681127,12.584095
+"Christianshavns Voldgade 19, ST. TV1424 KÃ¸benhavn K",1424,2.795.000,21-02-2017,Alm. Salg,43.671,2,Lejlighed,64,1914,-3 %,Aktuel vÃ¦rdi,Christianshavns Voldgade,19,1424,55.670011,12.588385
+"Burmeistersgade 13, 5. TH1429 KÃ¸benhavn K",1429,2.700.000,20-02-2017,Alm. Salg,58.695,2,Lejlighed,46,1901,0 %,Aktuel vÃ¦rdi,Burmeistersgade,13,1429,55.675103,12.597874
+"Prinsessegade 17A, ST. TH1422 KÃ¸benhavn K",1422,1.950.000,20-02-2017,Alm. Salg,42.391,2,Lejlighed,46,1903,-2 %,Aktuel vÃ¦rdi,Prinsessegade,17A,1422,55.670212,12.590794
+"Overgaden Oven Vandet 46, ST. TH1415 KÃ¸benhavn K",1415,3.100.000,19-02-2017,Alm. Salg,42.465,2,Lejlighed,73,1938,-6 %,Aktuel vÃ¦rdi,Overgaden Oven Vandet,46,1415,55.670303,12.587819
+"Gothersgade 154, 5. TV1123 KÃ¸benhavn K",1123,3.995.000,19-02-2017,Alm. Salg,57.071,2,Lejlighed,70,1879,0 %,Aktuel vÃ¦rdi,Gothersgade,154,1123,55.681482,12.584736
+"Esplanaden 24, 1. TH1263 KÃ¸benhavn K",1263,6.250.000,18-02-2017,Alm. Salg,53.418,3,Lejlighed,117,1876,-7 %,Aktuel vÃ¦rdi,Esplanaden,24,1263,55.687225,12.590465
+"Prinsessegade 2B, ST. 761422 KÃ¸benhavn K",1422,2.110.000,12-02-2017,Alm. Salg,41.372,2,Lejlighed,51,1975,-6 %,Aktuel vÃ¦rdi,Prinsessegade,2B,1422,55.670212,12.590794
+"Dybensgade 22, ST. TH1071 KÃ¸benhavn K",1071,2.700.000,11-02-2017,Alm. Salg,36.986,3,Lejlighed,73,1800,-10 %,Aktuel vÃ¦rdi,Dybensgade,22,1071,55.678356,12.58396
+"Kronprinsessegade 46B, 11306 KÃ¸benhavn K",1306,12.800.000,09-02-2017,Alm. Salg,51.612,4,Lejlighed,248,1807,-4 %,Aktuel vÃ¦rdi,Kronprinsessegade,46B,1306,55.682772,12.580998
+"Gothersgade 155, 3. TV1123 KÃ¸benhavn K",1123,6.500.000,09-02-2017,Alm. Salg,43.333,5,Lejlighed,150,1877,,Aktuel vÃ¦rdi,Gothersgade,155,1123,55.681482,12.584736
+"Wildersgade 3, 51408 KÃ¸benhavn K",1408,2.150.000,08-02-2017,Fam. Salg,13.607,4,Lejlighed,158,2002,,Aktuel vÃ¦rdi,Wildersgade,3,1408,55.671332,12.587434
+"Johan Semps Gade 9, 4. MF1402 KÃ¸benhavn K",1402,4.800.000,06-02-2017,Alm. Salg,50.526,2,Lejlighed,95,2003,-4 %,Aktuel vÃ¦rdi,Johan Semps Gade,9,1402,55.671857,12.586877
+"Wildersgade 60A, 2. 31408 KÃ¸benhavn K",1408,4.550.000,05-02-2017,Alm. Salg,49.456,2,Lejlighed,92,1802,-1 %,Aktuel vÃ¦rdi,Wildersgade,60A,1408,55.671332,12.587434
+"Ved Volden 7, 4. TV1425 KÃ¸benhavn K",1425,4.395.000,05-02-2017,Alm. Salg,48.296,3,Lejlighed,91,1938,0 %,Aktuel vÃ¦rdi,Ved Volden,7,1425,55.671478,12.593675
+"Nyhavn 31F, ST. TV1051 KÃ¸benhavn K",1051,5.995.000,04-02-2017,Alm. Salg,56.028,1,Lejlighed,107,1918,,Aktuel vÃ¦rdi,Nyhavn,31F,1051,55.680077,12.588407
+"Strandgade 83, 5. TV1401 KÃ¸benhavn K",1401,16.500.000,03-02-2017,Alm. Salg,59.782,4,Lejlighed,276,2015,-3 %,Aktuel vÃ¦rdi,Strandgade,83,1401,55.672554,12.587714
+"Dronningensgade 59, 4. TV1420 KÃ¸benhavn K",1420,2.895.000,02-02-2017,Alm. Salg,54.622,1,Lejlighed,53,1938,0 %,Aktuel vÃ¦rdi,Dronningensgade,59,1420,55.670232,12.588866
+Wildersgade 131408 KÃ¸benhavn K,1408,6.500.000,02-02-2017,Alm. Salg,49.242,4,RÃ¦kkehus,132,1700,-7 %,Aktuel vÃ¦rdi,Wildersgade,13,1408,55.671332,12.587434
+"Borgergade 144, 5. TV1300 KÃ¸benhavn K",1300,2.690.000,02-02-2017,Alm. Salg,45.593,2,Lejlighed,59,1854,,Aktuel vÃ¦rdi,Borgergade,144,1300,55.682486,12.583774
+"Stormgade 10B, 11470 KÃ¸benhavn K",1470,6.995.000,01-02-2017,Alm. Salg,45.129,3,Lejlighed,155,1650,,Aktuel vÃ¦rdi,Stormgade,10B,1470,55.675414,12.575123
+"Cort Adelers Gade 1, 1. TH1053 KÃ¸benhavn K",1053,8.770.000,30-01-2017,Alm. Salg,42.572,5,Lejlighed,206,1873,0 %,Aktuel vÃ¦rdi,Cort Adelers Gade,1,1053,55.678287,12.590375
+"Gothersgade 95, 4. TV1123 KÃ¸benhavn K",1123,6.000.000,29-01-2017,Alm. Salg,45.454,5,Lejlighed,132,1883,-2 %,Aktuel vÃ¦rdi,Gothersgade,95,1123,55.681482,12.584736
+"Ny Adelgade 9, 3. TH1104 KÃ¸benhavn K",1104,3.000.000,27-01-2017,Fam. Salg,42.857,3,Lejlighed,70,1800,,Aktuel vÃ¦rdi,Ny Adelgade,9,1104,55.681127,12.584095
+"Overgaden Neden Vandet 39, ST1414 KÃ¸benhavn K",1414,6.700.000,27-01-2017,Alm. Salg,42.405,3,Lejlighed,158,1777,-4 %,Aktuel vÃ¦rdi,Overgaden Neden Vandet,39,1414,55.671082,12.587917
+Rigensgade 21316 KÃ¸benhavn K,1316,891.250,27-01-2017,Fam. Salg,12.916,3,Lejlighed,69,1925,,Aktuel vÃ¦rdi,Rigensgade,2,1316,55.686768,12.581981
+Strandgade 42A1401 KÃ¸benhavn K,1401,3.925.000,27-01-2017,Alm. Salg,46.176,3,Lejlighed,85,1700,-8 %,Aktuel vÃ¦rdi,Strandgade,42A,1401,55.672554,12.587714
+"Hammerensgade 3, ST. MF1267 KÃ¸benhavn K",1267,2.795.000,26-01-2017,Alm. Salg,53.750,2,Lejlighed,52,1925,,Aktuel vÃ¦rdi,Hammerensgade,3,1267,55.688109,12.590263
+"Snaregade 4, 11205 KÃ¸benhavn K",1205,7.150.000,25-01-2017,Alm. Salg,37.631,5,Lejlighed,190,1802,-5 %,Aktuel vÃ¦rdi,Snaregade,4,1205,55.677304,12.576943
+"Overgaden Oven Vandet 44, 3. TV1415 KÃ¸benhavn K",1415,6.500.000,24-01-2017,Alm. Salg,58.035,4,Lejlighed,112,1938,,Aktuel vÃ¦rdi,Overgaden Oven Vandet,44,1415,55.670303,12.587819
+"Ved Volden 9, 5. TV1425 KÃ¸benhavn K",1425,2.595.000,23-01-2017,Alm. Salg,47.181,2,Lejlighed,55,1938,0 %,Aktuel vÃ¦rdi,Ved Volden,9,1425,55.671478,12.593675
+"Prinsessegade 17A, 51422 KÃ¸benhavn K",1422,2.495.000,23-01-2017,Alm. Salg,53.085,2,Lejlighed,47,1903,0 %,Aktuel vÃ¦rdi,Prinsessegade,17A,1422,55.670212,12.590794
+"Store Kongensgade 53, 4. TH1264 KÃ¸benhavn K",1264,6.700.000,23-01-2017,Alm. Salg,54.918,3,Lejlighed,122,1860,0 %,Aktuel vÃ¦rdi,Store Kongensgade,53,1264,55.681908,12.585484
+"Burmeistersgade 7, 2. TV1429 KÃ¸benhavn K",1429,2.885.000,21-01-2017,Alm. Salg,55.480,2,Lejlighed,52,1901,,Aktuel vÃ¦rdi,Burmeistersgade,7,1429,55.675103,12.597874
+"Ved Volden 11, 3. TV1425 KÃ¸benhavn K",1425,2.100.000,20-01-2017,Fam. Salg,21.212,4,Lejlighed,99,1938,,Aktuel vÃ¦rdi,Ved Volden,11,1425,55.671478,12.593675
+"Bodenhoffs Plads 8, 4. TH1430 KÃ¸benhavn K",1430,4.400.000,20-01-2017,Alm. Salg,51.764,3,Lejlighed,85,1901,-6 %,Aktuel vÃ¦rdi,Bodenhoffs Plads,8,1430,55.676569,12.598234
+"Store Kongensgade 75C, 5. TV1264 KÃ¸benhavn K",1264,5.000.000,20-01-2017,Alm. Salg,34.722,3,Lejlighed,144,1850,,Aktuel vÃ¦rdi,Store Kongensgade,75C,1264,55.681908,12.585484
+Margretheholmsvej 91432 KÃ¸benhavn K,1432,4.950.000,20-01-2017,Alm. Salg,35.869,4,RÃ¦kkehus,138,2016,-1 %,Aktuel vÃ¦rdi,Margretheholmsvej,9,1432,55.68335,12.615138
+"Kronprinsessegade 10, 4. TH1306 KÃ¸benhavn K",1306,3.850.000,19-01-2017,Alm. Salg,31.818,3,Lejlighed,121,1803,-10 %,Aktuel vÃ¦rdi,Kronprinsessegade,10,1306,55.682772,12.580998
+"Sankt Pauls Gade 3, 4. TH1313 KÃ¸benhavn K",1313,2.610.000,19-01-2017,Alm. Salg,56.739,2,Lejlighed,46,1875,-3 %,Aktuel vÃ¦rdi,Sankt Pauls Gade,3,1313,55.686943,12.589502
+"Nyhavn 31J, 2. TV1051 KÃ¸benhavn K",1051,5.200.000,18-01-2017,Alm. Salg,52.000,3,Lejlighed,100,1800,-2 %,Aktuel vÃ¦rdi,Nyhavn,31J,1051,55.680077,12.588407
+"Johan Semps Gade 9, 3. TV1402 KÃ¸benhavn K",1402,5.275.000,17-01-2017,Alm. Salg,45.085,3,Lejlighed,117,2003,,Aktuel vÃ¦rdi,Johan Semps Gade,9,1402,55.671857,12.586877
+"Rosenborggade 9, 31130 KÃ¸benhavn K",1130,4.100.000,17-01-2017,Alm. Salg,50.000,4,Lejlighed,82,1847,,Aktuel vÃ¦rdi,Rosenborggade,9,1130,55.683178,12.573453
+"Nyhavn 14, 31051 KÃ¸benhavn K",1051,9.600.000,17-01-2017,Alm. Salg,63.576,3,Lejlighed,151,1770,-4 %,Aktuel vÃ¦rdi,Nyhavn,14,1051,55.680077,12.588407
+"Silkegade 19, 21113 KÃ¸benhavn K",1113,7.300.000,17-01-2017,Alm. Salg,40.782,4,Lejlighed,179,1902,-1 %,Aktuel vÃ¦rdi,Silkegade,19,1113,55.67991,12.579652
+"Toldbodgade 2, 3. TH1253 KÃ¸benhavn K",1253,6.200.000,16-01-2017,Alm. Salg,43.055,5,Lejlighed,144,1852,-2 %,Aktuel vÃ¦rdi,Toldbodgade,2,1253,55.679998,12.591443
+"Toldbodgade 29C, 1. TV1253 KÃ¸benhavn K",1253,7.400.000,16-01-2017,Alm. Salg,45.679,2,Lejlighed,162,1887,-1 %,Aktuel vÃ¦rdi,Toldbodgade,29C,1253,55.679998,12.591443
+"Nikolajgade 20, 2. TH1068 KÃ¸benhavn K",1068,3.350.000,15-01-2017,Alm. Salg,39.880,4,Lejlighed,84,1799,,Aktuel vÃ¦rdi,Nikolajgade,20,1068,55.678179,12.582634
+"Store Kongensgade 64, 11264 KÃ¸benhavn K",1264,4.875.000,13-01-2017,Alm. Salg,37.790,5,Lejlighed,129,1750,-2 %,Aktuel vÃ¦rdi,Store Kongensgade,64,1264,55.681908,12.585484
+"Peder Skrams Gade 27, 2. TH1054 KÃ¸benhavn K",1054,5.075.000,13-01-2017,Alm. Salg,45.312,4,Lejlighed,112,1900,-2 %,Aktuel vÃ¦rdi,Peder Skrams Gade,27,1054,55.679029,12.58803
+"Ved Volden 6, 4. TV1425 KÃ¸benhavn K",1425,875.000,05-01-2017,Fam. Salg,8.333,4,Lejlighed,105,1938,,Aktuel vÃ¦rdi,Ved Volden,6,1425,55.671478,12.593675
+Amaliegade 9 B st1256 KÃ¸benhavn K,1256,14.850.000,04-01-2017,Alm. Salg,-,-,"Ejerlejl., forretning",-,-,,,Amaliegade,9,1256,55.681906,12.591854
+"Nicolai Eigtveds Gade 36, 4. TV1402 KÃ¸benhavn K",1402,9.500.000,03-01-2017,Alm. Salg,52.777,4,Lejlighed,180,2000,-5 %,Aktuel vÃ¦rdi,Nicolai Eigtveds Gade,36,1402,55.673198,12.587019
+"Silkegade 17, 1. TV1113 KÃ¸benhavn K",1113,2.250.000,03-01-2017,Fam. Salg,20.833,2,Lejlighed,108,1902,,Aktuel vÃ¦rdi,Silkegade,17,1113,55.67991,12.579652
+Luftmarinegade 781432 KÃ¸benhavn K,1432,5.400.000,03-01-2017,Alm. Salg,39.416,5,RÃ¦kkehus,137,2012,-4 %,Aktuel vÃ¦rdi,Luftmarinegade,78,1432,55.685774,12.614857
+"Strandgade 79, 1. 11401 KÃ¸benhavn K",1401,10.214.572,02-01-2017,Fam. Salg,44.411,4,Lejlighed,230,2015,-45 %,Aktuel vÃ¦rdi,Strandgade,79,1401,55.672554,12.587714
+"Burmeistersgade 25, 3. TH1429 KÃ¸benhavn K",1429,1.798.000,01-01-2017,Fam. Salg,33.924,2,Lejlighed,53,1901,,Aktuel vÃ¦rdi,Burmeistersgade,25,1429,55.675103,12.597874
+"Ny Kongensgade 14, 2. 31472 KÃ¸benhavn K",1472,2.525.000,29-12-2016,Fam. Salg,42.083,2,Lejlighed,60,1934,,Aktuel vÃ¦rdi,Ny Kongensgade,14,1472,55.673864,12.576921
+"Lille Kongensgade 4, 2. TH1074 KÃ¸benhavn K",1074,4.750.000,29-12-2016,Alm. Salg,50.531,3,Lejlighed,94,1767,,Aktuel vÃ¦rdi,Lille Kongensgade,4,1074,55.679566,12.584547
+"Ole Suhrs Gade 17, 3. TV1354 KÃ¸benhavn K",1354,4.100.000,28-12-2016,Alm. Salg,49.397,3,Lejlighed,83,1883,-5 %,Aktuel vÃ¦rdi,Ole Suhrs Gade,17,1354,55.688891,12.573219
+"Esplanaden 24, 4. TH1263 KÃ¸benhavn K",1263,4.680.000,28-12-2016,Andet,40.344,4,Lejlighed,116,1876,,Aktuel vÃ¦rdi,Esplanaden,24,1263,55.687225,12.590465
+Gernersgade 421319 KÃ¸benhavn K,1319,8.495.000,28-12-2016,Alm. Salg,62.925,5,Lejlighed,135,1730,,Aktuel vÃ¦rdi,Gernersgade,42,1319,55.687418,12.589667
+Luftmarinegade 1601432 KÃ¸benhavn K,1432,5.875.000,28-12-2016,Alm. Salg,42.883,5,RÃ¦kkehus,137,2012,,Aktuel vÃ¦rdi,Luftmarinegade,160,1432,55.685774,12.614857
+"Snaregade 8, 41205 KÃ¸benhavn K",1205,1.328.100,27-12-2016,Alm. Salg,15.443,1,Lejlighed,86,1807,,Aktuel vÃ¦rdi,Snaregade,8,1205,55.677304,12.576943
+"Boldhusgade 2, 41062 KÃ¸benhavn K",1062,5.275.000,22-12-2016,Alm. Salg,46.681,4,Lejlighed,113,1796,,Aktuel vÃ¦rdi,Boldhusgade,2,1062,55.677552,12.582083
+"Gothersgade 93C, ST1123 KÃ¸benhavn K",1123,3.425.000,22-12-2016,Alm. Salg,34.948,2,Lejlighed,98,1883,-5 %,Aktuel vÃ¦rdi,Gothersgade,93C,1123,55.681482,12.584736
+"Vendersgade 10, 4. TH1363 KÃ¸benhavn K",1363,2.422.500,21-12-2016,Fam. Salg,21.250,4,Lejlighed,114,1878,,Aktuel vÃ¦rdi,Vendersgade,10,1363,55.683069,12.570591
+"Kronprinsessegade 14, 31306 KÃ¸benhavn K",1306,12.815.000,19-12-2016,Alm. Salg,44.807,7,Lejlighed,286,1805,,Aktuel vÃ¦rdi,Kronprinsessegade,14,1306,55.682772,12.580998
+"Laksegade 20E, 11063 KÃ¸benhavn K",1063,3.825.000,19-12-2016,Alm. Salg,51.000,2,Lejlighed,75,1797,-4 %,Aktuel vÃ¦rdi,Laksegade,20E,1063,55.678208,12.58528
+"Gothersgade 147, 1. TV1123 KÃ¸benhavn K",1123,3.425.000,16-12-2016,Alm. Salg,50.367,3,Lejlighed,68,1877,-2 %,Aktuel vÃ¦rdi,Gothersgade,147,1123,55.681482,12.584736
+"Prinsessegade 17B, 4. TV1422 KÃ¸benhavn K",1422,3.170.000,15-12-2016,Alm. Salg,51.967,3,Lejlighed,61,1903,,Aktuel vÃ¦rdi,Prinsessegade,17B,1422,55.670212,12.590794
+"Brobergsgade 16, 4. TH1427 KÃ¸benhavn K",1427,3.850.000,15-12-2016,Alm. Salg,53.472,2,Lejlighed,72,1902,-4 %,Aktuel vÃ¦rdi,Brobergsgade,16,1427,55.675307,12.596273
+"Nyhavn 23, 41051 KÃ¸benhavn K",1051,8.050.000,15-12-2016,Alm. Salg,48.493,4,Lejlighed,166,1700,3 %,Aktuel vÃ¦rdi,Nyhavn,23,1051,55.680077,12.588407
+"Kattesundet 14A, 31458 KÃ¸benhavn K",1458,3.125.000,14-12-2016,Alm. Salg,32.894,3,Lejlighed,95,1784,-5 %,Aktuel vÃ¦rdi,Kattesundet,14A,1458,55.677546,12.570306
+"Burmeistersgade 11, 3. TV1429 KÃ¸benhavn K",1429,2.800.000,12-12-2016,Alm. Salg,53.846,2,Lejlighed,52,1901,0 %,Aktuel vÃ¦rdi,Burmeistersgade,11,1429,55.675103,12.597874
+"Laksegade 28, 21063 KÃ¸benhavn K",1063,2.300.000,12-12-2016,Alm. Salg,41.818,1,Lejlighed,55,1882,-8 %,Aktuel vÃ¦rdi,Laksegade,28,1063,55.678208,12.58528
+"Ved Volden 5, 5. TV1425 KÃ¸benhavn K",1425,4.000.000,23-05-2017,Alm. Salg,43.956,3,Lejlighed,91,1938,0 %,Aktuel vÃ¦rdi,Ved Volden,5,1425,55.671478,12.593675
+"Ved Volden 5, 5. TV1425 KÃ¸benhavn K",1425,4.000.000,23-05-2017,Alm. Salg,43.956,3,Lejlighed,91,1938,0 %,Aktuel vÃ¦rdi,Ved Volden,5,1425,55.671478,12.593675
+"Ved Volden 5, 5. TV1425 KÃ¸benhavn K",1425,4.000.000,23-05-2017,Alm. Salg,43.956,3,Lejlighed,91,1938,0 %,Aktuel vÃ¦rdi,Ved Volden,5,1425,55.671478,12.593675
