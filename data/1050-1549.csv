@@ -1,4 +1,4 @@
-address,zip_code,price,sell_date,sell_type,price_per_sq_m,no_rooms,housing_type,size_in_sq_m,year_of_construction,price_change_in_pct
+address,zip_code,price,sell_date,sell_type,price_per_sq_m,no_rooms,housing_type,size_in_sq_m,year_of_construction,price_change_in_pct,Aktuel værdi
 "Ved Volden 5, 5. TV1425 København K",1425,4.000.000,23-05-2017,Alm. Salg,43.956,3,Lejlighed,91,1938,0 %,Aktuel værdi
 "Rådhusstræde 4C, 11466 København K",1466,4.895.000,18-05-2017,Alm. Salg,46.619,3,Lejlighed,105,1796,0 %,Aktuel værdi
 "Store Kongensgade 112A, 31264 København K",1264,250.000,15-05-2017,Andet,1.851,2,Lejlighed,135,1860,,Aktuel værdi
