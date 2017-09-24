@@ -15,15 +15,21 @@ The CSV columns in these files are:
 boliga_all_detailed_address.csv - contains boliga data with 3 additional columns 
 
 The CSV columns in these files are: 
-- idx,
+- address,
+- zip_code,
+- price,
+- sell_date,
+- sell_type,
+- price_per_sq_m,
+- no_rooms,
+- housing_type,
+- size_in_sq_m,
+- year_of_construction,
+- price_change_in_pct,
+- aktuel_vardi
 - street,
-- postcode,
-- housenumber,
-- lon,
-- lat
-
-
-
+- street_no,
+- zip
 
 
 
