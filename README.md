@@ -357,5 +357,6 @@ The group_zip_price.py file loops through all the zip codes and calculates the a
 Due to some corrupt data in our CSV files we calculated the distance from roskilde for a very small dataset. The python script that calculates the distance is distances_from_roskilde.py and reads entries from the boliga_all_detailed_lon_lat.csv dataset then loops through the rows and calculates the distances from the static point beeing the center of roskilde festival and the end point the current house entry.
 
 
-
+#Distance Scatter plot 
+We did not manage to do finish the scatter plot for the distances from roskilde due to lack of time and so we decided not to include the python script in the release.
  
