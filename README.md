@@ -1,3 +1,6 @@
+# Motionless proposal
+## E. Lundberg, M. Macej, A. Sgouromallis
+
 The geocoding with help of the OSM dataset stored in CSV files in the osm_node_data folder (116MB). The data contains 2474455 nodes out of 2475388 nodes in the OSM data.
 
 In the folder osm_node_data_per_zipcode the data is devided up in one CSV file per zipcode (some data is missing because of an error)
@@ -346,17 +349,23 @@ We didn't have enough resources and kept getting the error "The kernel appears t
 
 
 
-?
+ ## Convert all sales dates in the dataset into proper datetime objects
+ The script format_date_and_get_92_data.py consist of two main functions. Interesting one for now, convert date uses pandas function " pd.to_datetime(df['sell_date'],format="%d-%m-%Y")" which as an input parameters takes column, which we derived from dataframe and original format of the date. Afterwards, the date is converted to datetime object and saved on corresponding position by re-seting dataframe (df['sell_date']).
 
 
  ## Find the average price per square meter 
 The group_zip_price.py file loops through all the zip codes and calculates the average price per area for the years 1992 and 2016. (Run from the root of the project [python group_zip_price.py ] ) the script loops through the files in the data folder. if only some areas need to be calcultated clean the directory, place only the coresponding files in the data folder and run the group_zip_price.py  script.
 
+## Create, with the help of the pandas module, four new CSV files containing the sales data for the year 1992
+Another function in the format_date_and_get_92_data.py script takes as an input parameter filepath which is later read into the dataframe. As a next step we search for the results which are between set dates (01-01-1992 .  31.12.1992) and if, we save them to the new dataframe which is stored to the new csv file as a last step.
 
-##Distance from Roskilde
+## 2-dimensional scatter plot
+In the file plot_coordinates.py we simply read the dataframe and set longitude and latitude columns as x and y variables (arrays). Those are later used in "matplotlib.pyplot.scatter(x, y)" function which displays them in a graph. Lately we save the result with a help of matplotlib.pyplot.savefig() method.
+
+## Distance from Roskilde
 Due to some corrupt data in our CSV files we calculated the distance from roskilde for a very small dataset. The python script that calculates the distance is distances_from_roskilde.py and reads entries from the boliga_all_detailed_lon_lat.csv dataset then loops through the rows and calculates the distances from the static point beeing the center of roskilde festival and the end point the current house entry.
 
-
-#Distance Scatter plot 
+## #Distance Scatter plot 
 We did not manage to do finish the scatter plot for the distances from roskilde due to lack of time and so we decided not to include the python script in the release.
+
  
