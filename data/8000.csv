@@ -1,4 +1,4 @@
-address,zip_code,price,sell_date,sell_type,price_per_sq_m,no_rooms,housing_type,size_in_sq_m,year_of_construction,price_change_in_pct
+address,zip_code,price,sell_date,sell_type,price_per_sq_m,no_rooms,housing_type,size_in_sq_m,year_of_construction,price_change_in_pct,Aktuel vaerdi
 "Langelinieparken 3C, 1. 28000 Aarhus C",us C,3.584.000,23-05-2017,Alm. Salg,32.000,3,Lejlighed,112,2005,,Aktuel værdi
 "Sejrøgade 18, 4. TV8000 Aarhus C",us C,2.100.000,23-05-2017,Fam. Salg,21.649,3,Lejlighed,97,1930,,Aktuel værdi
 "Dalgas Avenue 25, 5. TH8000 Aarhus C",us C,2.600.000,23-05-2017,Alm. Salg,40.000,2,Lejlighed,65,1911,-2 %,Aktuel værdi
